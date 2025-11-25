@@ -219,3 +219,102 @@ v. 打扰，令人不安
 &emsp;
 &emsp;
 # 二、课文讲解
+## 0. 标题 `A puma at large `
+at large 在逃的，未被捕获的
+> a prisoner / suspect at large
+> The disease is still at large.
+>
+suspect的发音问题：
+> 作名词和形容时，重音在第一个音节，词读作 /'sʌspekt/
+> 作动词读作 /sə'spekt/
+>
+> n.犯罪嫌疑人；嫌疑犯；嫌疑分子；可疑对象
+> v.怀疑(某人有罪)；疑有，觉得(尤指坏事可能属实或发生)；不信任；感觉有问题
+> adj.可疑的；不可信的；靠不住的；可能有危险的；有违法嫌疑的
+
+
+## 1. Pumas are large, cat-like animals which are found in America.
+`which are`引导的定语从句`found in America`修饰`cat-like animals`,在这里`which are`可以被省略，直接写成`cat-like animals found in America`
+### 1.1 cat-like
+`*-like` 像...的
+|                       |                  |
+| --------------------- | ---------------- |
+| bear-like animals     | 像熊的动物       |
+| lady-like behavior    | 女性化的行为     |
+| child-like simplicity | 孩子般的率真     |
+| an angel-like girl    | 一个天使般的女孩 |
+| crystal-like eyes     | 清澈的眼睛       |
+| flu-like symptoms     | 类似于流感的症状 |
+
+> (CET-4) Foxes and farmers have never got on well. These small dog-like animals have long been accused of killing farm animals.
+> `get on with sb`（同…）和睦相处，友好相处
+> 
+
+> As is shown in the picture, there is a cobweb-like structure with separate compartments packed in it.
+> `cobweb` n.蜘蛛网；蜘蛛丝(尤指落满灰尘的旧蛛网)
+> 
+
+### 1.2 be found in
+注意，`be found in`是一个习语搭配，有如下常见表达：
+> （1） 存在于（强调客观存在）
+> 例：This mineral is found in volcanic rocks.（这种矿物存在于火山岩中。）
+> 
+> （2） 出现在/见于（多用于文献或特定场景）
+> 例：Similar patterns can be found in ancient texts.（类似模式见于古籍。）
+> 
+> （2） 产于（特指出产地）
+> 例：The best tea is found in this region.（最优质的茶产于此地。）
+> 
+> （3） 以...形式存在（需补充说明时）
+> 例：Carbon is found in all living things.（碳以有机物的形式存在于所有生物中。）
+> 
+> （4） 分布在，生存在（强调空间范围）
+> 例：These birds are found in tropical areas.（这类鸟分布在热带地区。）
+> 
+> 灵活选择译法需结合具体语境，比如科学文本多用"存在于"，地理描述倾向"分布在"。
+> 
+
+> Many plant and animal species are found only in the rainforests.  产于（特指出产地）
+> 
+> Vitamin C is found in citrus fruit.产于（特指出产地）
+> 
+
+造句: 大熊猫 (giant panda) 是一种大型的，类似于熊的动物，产于中国四川省。
+> Giant pandas are large, bear-like animals which are found in Sichuan province, China.
+> 英语说地名的时候，习惯先说小的地方再讲大的地方，所以中国四川是`Sichuan province, China`
+> 
+
+## 2. When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously
+
+
+### 2.1 come into
+He came into the classroom.
+(NCE3-29 P138-L9) However, a new type of humor, which stems largely from the 
+US, has recently come into fashion.
+(NCE3-34 P158-L15) The dealer told him that it had just come in, but that he could 
+not be bothered to open it.
+无灵主语 / 物称主语 (inanimate subject)
+满堂花醉三千客，一剑光寒十四州。
+ 唐 贯休和尚 《献钱尚父》
+颠狂柳絮随风舞，轻薄桃花逐水流。
+ 唐 杜甫 《绝句漫兴(其五)》
+一条雪浪吼巫峡，千里火云烧益州。
+ 唐 李商隐 《送崔珏往西川》
+
+I thought of a good idea.
+A good idea came into my mind.
+A good idea flashed into my mind.
+He went to the town on business.
+Business took him to the town.
+A warm and sunny Sunday found my whole family going for an outing at the beach.
+
+
+同位语从句和定语从句的区别
+> 从**定义**上看：同位语从句解释前面名词的具体内容；而定语从句仅起到后置定语的作用，常译为“……的”。
+> 从**形式**上看：同位语从句中的“that”仅起到连接符号的作用，不充当语法成分；而定语从句中的“that”是关系代词，在从句中充当主语、宾语或表语。
+>
+> The proposal that John should be dismissed is unacceptable.
+> The proposal that John put forward is unacceptable.
+> 
+> &emsp;&emsp; We hold these truths to be self-evident, that all men are created equal, that they are endowed by the Creator with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness.  &emsp;&emsp; —— Thomas Jefferson
+> 
