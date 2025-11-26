@@ -285,28 +285,27 @@ suspect的发音问题：
 > 
 
 ## 2. When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously
-
-
-### 2.1 come into
-He came into the classroom.
-(NCE3-29 P138-L9) However, a new type of humor, which stems largely from the 
-US, has recently come into fashion.
-(NCE3-34 P158-L15) The dealer told him that it had just come in, but that he could 
-not be bothered to open it.
-无灵主语 / 物称主语 (inanimate subject)
-满堂花醉三千客，一剑光寒十四州。
- 唐 贯休和尚 《献钱尚父》
-颠狂柳絮随风舞，轻薄桃花逐水流。
- 唐 杜甫 《绝句漫兴(其五)》
-一条雪浪吼巫峡，千里火云烧益州。
- 唐 李商隐 《送崔珏往西川》
-
-I thought of a good idea.
-A good idea came into my mind.
-A good idea flashed into my mind.
-He went to the town on business.
-Business took him to the town.
-A warm and sunny Sunday found my whole family going for an outing at the beach.
+`When reports came into London Zoo` 
+&emsp;&emsp; 这是`when`引导的时间状语从句，值得注意的是，在这个从句中，主语是`reports`，而不是人
+作主语，我们平常`come into`这个词组一般是这么用：
+> He came into the classroom.(人作主语)
+> 
+在新概念3中，`come into`还出现在如下句子中，这些句子中都是物作主语：
+> (NCE3-29 P138-L9) However, a new type of humor, which stems largely from the US, has recently **come into** fashion.（这里是a new type of humor作主语）
+> (NCE3-34 P158-L15) The dealer told him that it had just come in, but that he could not be bothered to open it.(这里是it作主语，在原文中it指代的也是物)
+> 
+上面这种五做主语被称为 **无灵主语 / 物称主语(inanimate subject)**，在写作中，用物作主语，而不是人做主语会显得你表达更地道，比如用英语造句 “我想到了一个好主意”：
+> 人作主语：`I thought of a good idea.`
+> 物主语：`A good idea came into my mind.`
+> 物主语：`A good idea flashed into my mind.`
+> 
+再比如说："他去城里出差了"
+> 人作主语：`He went to the town on business.`
+> 物主语：`Business took him to the town.`
+> 
+又比如一个复杂一点的句子“一个风和日丽的星期天，我们全家都去海边远足”
+> A warm and sunny Sunday found my whole family going for an outing at the beach.
+> 
 
 
 同位语从句和定语从句的区别
