@@ -1,13 +1,13 @@
 [toc]
 
-# 一、单词讲解
-## 1. spot [spɒt]
-### 1.1 读音
+# 0. 单词讲解
+## 0.1. spot [spɒt]
+### 0.1.1 读音
 `ɒ`有两种发音：
 stop lot hot
 boss`/bɒs/` dog`/dɒɡ/`
 
-### 1.2 名词释义
+### 0.1.2 名词释义
 **(1) 斑点**
 > a big red spot 
 > A leopard`/ˈlepərd/` won’t change its spots. 江山易改本性难移
@@ -23,7 +23,7 @@ boss`/bɒs/` dog`/dɒɡ/`
 > 
 
 &emsp;
-### 1.2 动词释义
+### 0.1.2 动词释义
 看出；注意到；发现
 `to see or notice a person or thing, especially suddenly or when it is not easy to do so`
 `spot`的动词意思可以理解为通过它的名词意思“点”引申过来的，`spot`表示“发现”的意思的时候，通常表示很难被发现的人或事，就像远处的一个“点”是很难被注意到的
@@ -34,7 +34,7 @@ boss`/bɒs/` dog`/dɒɡ/`
 >
 
 &emsp;
-### 1.3 习语搭配
+### 0.1.3 习语搭配
 (1) `spot of sth` 有点...的
 Lesson 58 A spot of bother 一点小麻烦
 You seem to be having a spot of bother with your car, can I help?
@@ -51,8 +51,8 @@ You seem to be having a spot of bother with your car, can I help?
 
 &emsp;
 &emsp;
-## 2. evidence ['evɪdəns] 
-### 2.1 名词意思
+## 0.2. evidence ['evɪdəns] 
+### 0.2.1 名词意思
 n. 证据
 #### (1) evidence作名词是否可数
 evidence作名词是不可数的 ，因此说“一条证据”时要说：
@@ -61,7 +61,7 @@ evidence作名词是不可数的 ，因此说“一条证据”时要说：
 而不是
 > ~~an evidence~~
 > 
-### 2.2 evidence的同根形容词
+### 0.2.2 evidence的同根形容词
 **(1) evident /ˈevɪdənt/**
 > adj.明显的；显然的；清楚的；显而易见的 
 > 
@@ -78,7 +78,7 @@ evidence作名词是不可数的 ，因此说“一条证据”时要说：
 > We hold(belive or think) these truths to be self-evident, that all men are created equal, that they are endowed by the Creator with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness. 
 > — Thomas Jefferson
 > 
-### 2.3 court
+### 0.2.3 court
 #### 打官司 怎么说？
 `go to court`，就像`go to school`表示去上学，`go to court`表示 打官司
 #### 庭外和解 怎么说？
@@ -88,7 +88,7 @@ evidence作名词是不可数的 ，因此说“一条证据”时要说：
 
 &emsp;
 &emsp;
-## 3. accumulate [ə'kju:mjəleɪt] 
+## 0.3 accumulate [ə'kju:mjəleɪt] 
 v. 积累，积聚
 > accumulate knowledge / possessions(积累知识/财富)
 > I accumulated a large vocabulary.
@@ -116,15 +116,15 @@ v. 囤积；贮藏；(尤指)秘藏
 
 &emsp;
 &emsp;
-## 4. oblige [ə 'blaɪdʒ] 
-### 4.1 释义
+## 0.4 oblige [ə 'blaɪdʒ] 
+### 0.4.1 释义
 **v. 使……感到必须**
 `oblige`是一个使役动词（表示“使、令、让、帮、叫”等意义的动词），人应该做它的宾语，如果使用 时要做主语，则需要使用被动语态，例如：
 > sb be/feel **obliged** to do sth（人作主语，所以用被动语态）
 > Many parents feel obliged to pay for at least part of the wedding.
 > 
 
-### 4.2 近义词
+### 0.4.2 近义词
 (1) `be/feel compelled to do`也表示“感到必须做某事”，但相对于`oblige`，`compel`更偏向于 迫于外界压力 而感到必须做某事，例句：
 > President Nixon felt compelled to resign.
 > 尼克松总统迫于压力（水门事件）辞职。
@@ -136,9 +136,9 @@ v. 囤积；贮藏；(尤指)秘藏
 
 &emsp;
 &emsp;
-## 5. human being ['hju:mən 'bi:ɪŋ] 
+## 0.5 human being ['hju:mən 'bi:ɪŋ] 
 n. 人类
-### 5.1 其他表示人类的单词
+### 0.5.1 其他表示人类的单词
 &emsp;&emsp; 值得注意的是，在表示人类的众多单词里，`human being`是为数不多的可数名词，可以说`a human being` 或 `human beings`
 |               |             |
 | ------------- | ----------- |
@@ -147,11 +147,11 @@ n. 人类
 | `human race`  | `humanity`  |
 a crime against humanity
 
-### 5.2 being 的其他短语
+### 0.5.2 being 的其他短语
 alien being 外星人
 intelligent being 智慧生物  
 
-### 5.3 be 的其他意思
+### 0.5.3 be 的其他意思
 `be`作动词还有 `有；存在; 活着`的意思，例如：
 > To be, or not to be: that is the question. 
 >  — Hamlet
@@ -164,8 +164,8 @@ intelligent being 智慧生物
 
 &emsp;
 &emsp;
-## 6. somehow ['sʌmhaʊ ] 
-### 6.1 释义
+## 0.6 somehow ['sʌmhaʊ ] 
+### 0.6.1 释义
 adv. 不知怎么搞地，不知什么原因 
 (The Bucket List) 
 > And I couldn’t remember what it felt like when I could not walk down the street without holding her hand.(双重否定)
@@ -174,13 +174,13 @@ adv. 不知怎么搞地，不知什么原因
 > along the way 沿途；一路上；一路走来
 > 
 
-### 6.2 somewhat
+### 0.6.2 somewhat
 **adv. 有点，稍微，有几分（程度副词）**
 > He was somewhat hungry.
 > He was somewhat embarrassed.
 > 
 
-### 6.3 somewhere
+### 0.6.3 somewhere
 adv. 在某处；大约，大概；
 > I’ve lost my wallet somewhere around here.
 > `somewhere around here`可以作为一个固定搭配来记，表示“在这附近；就在这一带”
@@ -198,8 +198,8 @@ adv. 在某处；大约，大概；
 
 &emsp;
 &emsp;
-## 7. disturb [dɪ'stɜ:b] 
-### 7.1 释义
+## 0.7 disturb [dɪ'stɜ:b] 
+### 0.7.1 释义
 v. 打扰，令人不安
 `disturb`既可以做及物动词，也可以做不及物动词。
 不及物动词的用法：
@@ -209,7 +209,7 @@ v. 打扰，令人不安
 及物动词的用法：
 > I hope I'm not disturbing you.
 > 
-### 7.2 disturb在口语中的常用表达
+### 0.7.2 disturb在口语中的常用表达
 `Sorry to disturb you, but …` 很抱歉打搅您，但能不能...
 > Sorry to disturb you, but I really need your help.
 > 
@@ -218,8 +218,7 @@ v. 打扰，令人不安
 
 &emsp;
 &emsp;
-# 二、课文讲解
-## 0. 标题 `A puma at large `
+# 标题 `A puma at large `
 at large 在逃的，未被捕获的
 > a prisoner / suspect at large
 > The disease is still at large.
@@ -233,9 +232,12 @@ suspect的发音问题：
 > adj.可疑的；不可信的；靠不住的；可能有危险的；有违法嫌疑的
 
 
-## 1. Pumas are large, cat-like animals which are found in America.
+
+&emsp;
+&emsp;
+# 1. `Pumas are large, cat-like animals which are found in America.`
 `which are`引导的定语从句`found in America`修饰`cat-like animals`,在这里`which are`可以被省略，直接写成`cat-like animals found in America`
-### 1.1 cat-like
+## 1.1 cat-like
 `*-like` 像...的
 |                       |                  |
 | --------------------- | ---------------- |
@@ -254,7 +256,7 @@ suspect的发音问题：
 > `cobweb` n.蜘蛛网；蜘蛛丝(尤指落满灰尘的旧蛛网)
 > 
 
-### 1.2 be found in
+## 1.2 be found in
 注意，`be found in`是一个习语搭配，有如下常见表达：
 > （1） 存在于（强调客观存在）
 > 例：This mineral is found in volcanic rocks.（这种矿物存在于火山岩中。）
@@ -284,8 +286,10 @@ suspect的发音问题：
 > 英语说地名的时候，习惯先说小的地方再讲大的地方，所以中国四川是`Sichuan province, China`
 > 
 
-## 2. When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously
-`When reports came into London Zoo` 
+
+&emsp;
+# 2. `When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously.`
+## 2.1 `When reports came into London Zoo` 
 &emsp;&emsp; 这是`when`引导的时间状语从句，值得注意的是，在这个从句中，主语是`reports`，而不是人
 作主语，我们平常`come into`这个词组一般是这么用：
 > He came into the classroom.(人作主语)
@@ -307,13 +311,89 @@ suspect的发音问题：
 > A warm and sunny Sunday found my whole family going for an outing at the beach.
 > 
 
-
-同位语从句和定语从句的区别
+## 2.2 `that a wild puma had been spotted forty-five miles south of London`
+### 2.2.1 同位语从句 和 定语从句的区别
 > 从**定义**上看：同位语从句解释前面名词的具体内容；而定语从句仅起到后置定语的作用，常译为“……的”。
 > 从**形式**上看：同位语从句中的“that”仅起到连接符号的作用，不充当语法成分；而定语从句中的“that”是关系代词，在从句中充当主语、宾语或表语。
 >
-> The proposal that John should be dismissed is unacceptable.
-> The proposal that John put forward is unacceptable.
+> The proposal that John should be dismissed is unacceptable.(同位语从句，that在这里是起到连接符的作用，John should be dismissed是用来解释The proposal的),我们试着把这个句子中的`that`去掉：
+> The proposal ~~that~~ John should be dismissed is unacceptable.
+> 显然有没有that不影响该句子的完整性。
 > 
-> &emsp;&emsp; We hold these truths to be self-evident, that all men are created equal, that they are endowed by the Creator with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness.  &emsp;&emsp; —— Thomas Jefferson
+> The proposal that John put forward is unacceptable.(定语从句，that在这里是指代The proposal)
 > 
+`that a wild puma had been spotted forty-five miles south of London`是一个同位语从句，因为我们即使把that去掉：
+> When reports came into London Zoo ~~that~~ a wild puma had been spotted forty-five miles south of London
+> 
+
+### 2.2.2 一个英语写作的习惯
+&emsp;&emsp; **在英语中，习惯把长的句子往后放，短的句子尽量往前放。** 我们来比较一下下面两个同位语从句:
+> When reports came into London Zoo <span style="color:red; "> that a wild puma had been spotted forty-five miles south of London </span>(同位语从句远离它修饰的名词`reports`)
+> The proposal <span style="color:red; "> that John should be dismissed</span> is unacceptable.(同位语从句紧跟着它修饰的名词`proposal`)
+> 
+显然是长的从句习惯放后面，短的放前面。再比如说前面讲词汇出现的句子：
+> &emsp;&emsp; We hold these truths to be self-evident, **that** all men are created equal, **that** they are endowed by the Creator with certain unalienable rights, **that** among these are life, liberty, and the pursuit of happiness.  &emsp;&emsp; —— Thomas Jefferson
+>
+这个句子包含了三个`that`引导的从句，它们都是做`these truths`的同位语，用来解释名词`these truths`的具体内容的。这个三个从句也是放后面，远离他们修饰的名词`these truths`。
+
+
+### 2.2.3 可以替换`spotted`的词：
+had been seen/found/observed
+
+### 2.2.4 本句中`south`前面没有加介词
+`a wild puma had been spotted forty-five miles south of London`
+可以看到的是，本句中`south`前面没有加介词。一般来说，方位前面（这里拿`south`举例）可以加如下这几个介词：
+> A is **in** the south of B… B包含A
+> A is **on** the south of B… A和B相邻
+> A is **to** the south of B… A和B不相邻
+>
+例句如下：
+> Shanghai is in the south of China. 上海属于中国
+> Vietnam is on the south of China.  越南在中国的南边，并和中国相邻
+> Indonesia is to the south of China. 印尼在中国的南边，但是不和中国相邻
+> 
+让我们回到原文 `a wild puma had been spotted forty-five miles south of London`，其实`south`前面的介词是被省略的，在这里被省略的介词是`to the`。另外有一点需要注意：
+> 如果东西南北前面的介词被省略了，那么被省略的一定是`to the`。
+> 
+来看个句子：
+> 100 kilometers (to the) south of Xi'an 西安以南100公里处
+> 
+
+## 2.3 take … seriously
+`take sth/sb seriously` 严肃对待某人某事，`take`在这里表示 **对待**
+#### 反义词
+`take sth/sb lightly`
+换句话说，原文中的`they were not taken seriously`可以改写成：
+> they were not taken seriously
+> they were taken lightly.
+>
+
+## 2.4 语法成分分析
+> <span style="color:blue; ">When <u>reports</u> came into London Zoo <u>that a wild puma had been spotted forty-five miles south of London </u></span>, they were not taken seriously.
+> 
+* ① 蓝色部分都是时间状语从句
+* ② 主语是 reports
+* ③ 时间状语从句中的谓语是came into London Zoo
+* ④ that引导的从句在前面提到过是同位语从句，做reports的同位语
+* ⑤ they were not taken seriously是主句
+
+## 2.5 仿写造句
+当消息 (news) 传到了国家博物馆 (the national museum)，说是在西安以南 100 公里
+处发现了一座古墓 (an ancient tomb) 的时候，这则消息受到了重视。
+> When news came into the national museum that an ancient tomb had been found 100 kilometers south of Xi’an, ~~they were~~ it was taken seriously.
+> 因为news是不可数名词，一条消息是`a piece of news`，所以不能用`they were`，而应该用`it was`
+>
+
+
+
+&emsp;
+&emsp;
+# 3. `However, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.`
+## 3.1 as the evidence began to accumulate
+`as`引导的时间状语从句，在这里`as`译为“随着”
+住的注意的是，`evidence`虽然在`accumulate`（所以肯定不止一个证据），但是这里没有用复数，因为`evidence`是不可数名词。
+  
+## 3.2 for the descriptions given by people who claimed to have seen the puma
+&emsp;&emsp; `for`引导的原因状语从句，值得注意的是`for`在引导的原因状语从句时，一般起到补充说明的作用，所以它一般不出现在句首。
+
+## 3.3
