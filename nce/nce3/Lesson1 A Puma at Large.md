@@ -395,5 +395,216 @@ had been seen/found/observed
   
 ## 3.2 for the descriptions given by people who claimed to have seen the puma
 &emsp;&emsp; `for`引导的原因状语从句，值得注意的是`for`在引导的原因状语从句时，一般起到补充说明的作用，所以它一般不出现在句首。
+### 3.2.1 give descriptions
+其实在这里`descriptions given by people`是
+> … descriptions which were given by people …
+>
+的缩写，课文中省略的`which were`，很多时候关系代词+be动词都可以省略。
+另外，这里也可以用`make descriptions`替换：
+> … descriptions made by people …
+>  
+
+### 3.2.2 given by people 
+&emsp;&emsp; `given by people`是一个非谓语动词，做的是`descriptions`的后置定语。
+&emsp;&emsp; 非谓语动词，顾名思义，是指在句子中不担任谓语的动词形式。它们可以做主语、宾语、表语、定语、状语等，非谓语动词主要包括三种形式：
+> ① 不定式（to do） 
+> ② 动名词（doing） 
+> ③ 两种分词（现在分词doing和过去分词done） 
+>
+来看新概念中几个非谓语动词在剧中做定语的例子：
+一般来说，动作是主动的，用`doing`；被动的就用`done` 
+> (NCE3-1 P14-L7) The hunt for the puma began in a small village where **a woman picking blackberries** saw a large cat only five yards away from her. 在句中，pick这个动作是由a woman主动发出的，所以用动名词`picking`
+> 
+> (NCE3-7 P38-L10) John had a very good day and put his **wallet containing ₤3,000** into the microwave oven for safekeeping. 装着3000英镑是主动结构，因为钱不是主动装进去的。
+> 
+> (NCE3-8 P42-L4) For hundreds of years, St. Bernard dogs have saved the lives of **travellers crossing the dangerous Pass**. 因为山口是游客主动穿越的，所以用现在分词。
+> 
+来看几个动作是被动的非谓语动词：
+> novels written by Lu Xun. 小说是被鲁迅写的，所以是done.
+> 
+> movies directed by Zhang Yimou. 电影是被张艺谋导演的，所以是done.
+>
+用非谓语动词造句“那个靠在墙上，名为乔治的男子是我兄弟”
+> The man leaning against the wall named George is my brother.
+> 上面的例句有两个非谓语动词做`The man`的后置定语：
+> ① `leaning against the wall`（倚靠在墙上这个动作是乔治自己做出来的，所以是主动 ）和
+> ② `named George`（名字是被别人取的，所以是被动）
+> 
+
+### 3.2.3 claim to have done
+&emsp;&emsp; `claim to have done`可以翻译为 “声称曾经做过某事”；我们平常用的`claim to do`可以翻译为 “声称做某事”。 
+因此`people who claimed to have seen the puma`应该翻译为“声称曾经看到过美洲狮的人们”
+> So far, no organization has claimed to be responsible for the accident.
+> 
+&emsp;&emsp; 为什么是`claim to have done`而不是~~claim have done~~呢？因为`claim to`是一个固定搭配，所以这里`to`必须出现，而又要表现`done`发生在`claim`的前面，所以要用完成时`have done`。来看另一个例子： 
+> Everyone went to the funeral, for the 'ghost' was none other than Eric Cox, a third brother who was **supposed to have died** as a young man.
+>
+`be supposed to`也是固定结构，和`claim to have done`情况类似。
+
+## 3.3 were extraordinarily similar
+### 3.3.1 同义替换
+> ① were particularly alike
+> ② had a lot in common
+> ③ had considerable commonalities
+>
+《越狱》中的片段：
+> — well, I saw the ad on the back of the bus stop today. And, uh… though it was not exactly like looking in the mirror, you can't deny that **there is a certain commonality in our visages**.
+> 
+> — I guess **we do look a little bit alike**.
+> 
+
+## 3.4  语法分析
+> <span style="color:blue; ">However</span>, <u>as the evidence began to accumulate</u>, experts <u>from the Zoo</u> felt obliged to investigate, <span style="color:blue; ">for the descriptions given by people <u>who claimed to have seen the puma</u> were extraordinarily similar</span>.
+>
+`as the evidence began to accumulat`是时间状语从句  
+`experts from the Zoo felt obliged to investigate`是主句，`from the Zoo`是`experts`的后置定语；
+`for the descriptions given by people <u>who claimed to have seen the puma</u> were extraordinarily similar`是原因状语从句
+
+
+## 3.5 造句: 随着病例 (case) 开始慢慢增多, 医学专家们 (specialist) 觉得必须要调查了,因为得了这种病的人的症状 (symptom) 特别地相似。
+> As the cases began to accumulate, specialists felt obliged to investigate, for the symptoms of people who had caught the disease were extraordinarily similar. 
+> 
+
+
+&emsp;
+# 4. `The hunt for the puma began in a small village where a woman picking blackberries saw 'a large cat' only five yards away from her.`
+ hunt for …
+I’m hunting for a job now.
+9
+新东方专属讲义
+The hunt for a job will begin tomorrow.
+the winter in America
+the entrance to the parking lot
+a witness to the accident
+a longing for love
+the reason for the disaster
+1. The search proved difficult, for the puma was often observed at one place 
+in the morning and at another place twenty miles away in the evening.
+ prove (to be) + adj. / n. 被证明是……
+His injury proved (to be) fatal.
+The operation proved (to be) a success.
+turn out to be + adj. / n. 原来是……
+(NCE3-3 P22-L14) When the archaeologists reconstructed the fragments, they were 
+amazed to find that the goddess turned out to be a very modern-looking woman. 
+1. Wherever it went, it left behind it a trail of dead deer and small animals like 
+rabbits.
+ 疑问词 + ever (whenever, wherever, whoever, whichever, whatever ...) 有两个含
+义：
+ 表示“无论……”引导让步状语从句。= no matter + 疑问词
+No matter where it went, …
+(NCE3-29 P138-L8) No matter where you live, you would find it difficult not to 
+laugh at, say, Charlie Chaplin's early films.
+10
+新东方专属讲义
+ 表示 “到底……” 用于疑问句中。
+(NCE3-2 P18-L10) 'Whatever are you doing up here Bill?' asked the vicar in surprise.
+Wherever did you go yesterday?
+When ever am I going to see you again?
+(A) These things take time to learn.
+(B) Will you study any more? 
+√(C) Why do you keep on making the same mistakes?
+(D) It will be a good learning experience for you.
+When will you ever learn?
+Answer: (C) Why do you keep on making the same mistakes?
+Wherever it went, it left behind it a trail of dead deer and small animals like rabbits.
+ a trail of
+Wherever he went, he left a trail of … behind him.
+Wherever he went, he left a trail of unpaid bills behind him.
+Wherever he went, he left a trail of broken hearts behind him.
+1. Paw prints were seen in a number of places and puma fur was found clinging 
+to bushes.
+人们对下岗工人的生活状况越来越关注了。
+People have paid more and more attention to the condition of the laid-off workers.
+Increasing attention has been paid to the condition of the laid-off workers.
+ fur a fur coat
+feather fur and feather
+11
+新东方专属讲义
+fin, fur and feather 
+The crown should not yield to the cross.
+臣本布衣，躬耕于南阳。
+巾帼不让须眉
+过尽千帆皆不是，斜晖脉脉水悠悠。
+As no pumas had been reported missing from any zoo in the country, …
+The fire was reported controlled.
+It is reported that the fire was controlled.
+1. Several people complained of ‘cat-like noises’ at night and a businessman 
+on a fishing trip saw the puma up a tree.
+ complain of / about sth.
+complain (that)
+She complained that no one had been at the airport to meet her.
+ on a business / honeymoon trip
+on a journey / voyage / expedition / tour …
+1. The experts were now fully convinced that the animal was a puma, but 
+where had it come from?
+ be convinced that …
+convince sb. of sth.
+in that …
+except / but that …
+1.  As no pumas had been reported missing from any zoo in the country, this 
+12
+新东方专属讲义
+one must have been in the possession of a private collector and somehow 
+managed to escape.
+ must have done
+You must have been ill yesterday. You looked so pale.
+ must do
+She knew that it must be the baker.
+ may / might have done
+ can not / could not have done
+You can’t have been ill yesterday. I saw you going shopping with your wife.
+(NCE3-60 P268-L27) The girl asked to see a timetable, feeling sure that her father 
+could not have made such a mistake. 
+should / ought to have done
+should not / ought not to have done
+You should have finished your work yesterday.
+I shouldn’t have shouted at you yesterday.
+— She looks very happy. She _____ have passed the exam.
+— I guess so. It’s not difficult at all. 
+(A) should (B) could 
+√(C) must (D) might
+— I can’t find my purse anywhere.
+— You ____ have lost it while shopping.
+√(A) may (B) can 
+13
+新东方专属讲义
+(C) should (D) would
+— I’m sorry. I _______ at you the other day.
+— Forget it. I was a bit out of control myself.
+(A) shouldn’t shout 
+√(B) shouldn’t have shouted
+(C) mustn’t shout 
+(D) mustn’t have shouted
+The policeman declared that the blow on the victim’s head _____ from behind. 
+(A) should have been made 
+√(B) must have been made 
+(C) would have been made 
+(D) ought to have been made
+ in the possession of sb. / in one’s possession
+in possession of sth.
+The book is in my possession.
+I’m in possession of the book.
+in the charge of sb. / in one’s charge
+in charge of …
+The bookstore is in my charge.
+I’m in charge of the bookstore.
+ manage to do 设法完成了某事
+(NCE3-2 P18-L1) Our vicar is always raising money for one cause or another, but he 
+14
+新东方专属讲义
+has never managed to get enough money to have the church clock repaired.
+fail to do 没能完成某事
+(NCE3-5 P30-L12) When the journalist again failed to reply, the editor reluctantly 
+published the article as it had originally been written.
+11.It is disturbing to think that a dangerous wild animal is still at large in the 
+quiet countryside.
+It is disturbing to think that a dangerous wild animal is still at large in the quiet 
+countryside.
+ It is … to think that …
+It is worrying to think that …
+It is exciting to think that …
+It is comforting to think that…
+It is amusing to think that …
+It is irritating to think that …
 
 ## 3.3
