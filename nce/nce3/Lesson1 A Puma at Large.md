@@ -468,143 +468,256 @@ had been seen/found/observed
 
 &emsp;
 # 4. `The hunt for the puma began in a small village where a woman picking blackberries saw 'a large cat' only five yards away from her.`
- hunt for …
-I’m hunting for a job now.
-9
-新东方专属讲义
-The hunt for a job will begin tomorrow.
-the winter in America
-the entrance to the parking lot
-a witness to the accident
-a longing for love
-the reason for the disaster
-1. The search proved difficult, for the puma was often observed at one place 
-in the morning and at another place twenty miles away in the evening.
- prove (to be) + adj. / n. 被证明是……
-His injury proved (to be) fatal.
-The operation proved (to be) a success.
-turn out to be + adj. / n. 原来是……
-(NCE3-3 P22-L14) When the archaeologists reconstructed the fragments, they were 
-amazed to find that the goddess turned out to be a very modern-looking woman. 
-1. Wherever it went, it left behind it a trail of dead deer and small animals like 
-rabbits.
- 疑问词 + ever (whenever, wherever, whoever, whichever, whatever ...) 有两个含
-义：
- 表示“无论……”引导让步状语从句。= no matter + 疑问词
-No matter where it went, …
-(NCE3-29 P138-L8) No matter where you live, you would find it difficult not to 
-laugh at, say, Charlie Chaplin's early films.
-10
-新东方专属讲义
- 表示 “到底……” 用于疑问句中。
-(NCE3-2 P18-L10) 'Whatever are you doing up here Bill?' asked the vicar in surprise.
-Wherever did you go yesterday?
-When ever am I going to see you again?
-(A) These things take time to learn.
-(B) Will you study any more? 
-√(C) Why do you keep on making the same mistakes?
-(D) It will be a good learning experience for you.
-When will you ever learn?
-Answer: (C) Why do you keep on making the same mistakes?
-Wherever it went, it left behind it a trail of dead deer and small animals like rabbits.
- a trail of
-Wherever he went, he left a trail of … behind him.
-Wherever he went, he left a trail of unpaid bills behind him.
-Wherever he went, he left a trail of broken hearts behind him.
-1. Paw prints were seen in a number of places and puma fur was found clinging 
-to bushes.
-人们对下岗工人的生活状况越来越关注了。
-People have paid more and more attention to the condition of the laid-off workers.
-Increasing attention has been paid to the condition of the laid-off workers.
- fur a fur coat
-feather fur and feather
-11
-新东方专属讲义
-fin, fur and feather 
-The crown should not yield to the cross.
-臣本布衣，躬耕于南阳。
-巾帼不让须眉
-过尽千帆皆不是，斜晖脉脉水悠悠。
-As no pumas had been reported missing from any zoo in the country, …
-The fire was reported controlled.
-It is reported that the fire was controlled.
-1. Several people complained of ‘cat-like noises’ at night and a businessman 
-on a fishing trip saw the puma up a tree.
- complain of / about sth.
-complain (that)
-She complained that no one had been at the airport to meet her.
- on a business / honeymoon trip
-on a journey / voyage / expedition / tour …
-1. The experts were now fully convinced that the animal was a puma, but 
-where had it come from?
- be convinced that …
-convince sb. of sth.
-in that …
-except / but that …
-1.  As no pumas had been reported missing from any zoo in the country, this 
-12
-新东方专属讲义
-one must have been in the possession of a private collector and somehow 
-managed to escape.
- must have done
-You must have been ill yesterday. You looked so pale.
- must do
-She knew that it must be the baker.
- may / might have done
- can not / could not have done
-You can’t have been ill yesterday. I saw you going shopping with your wife.
-(NCE3-60 P268-L27) The girl asked to see a timetable, feeling sure that her father 
-could not have made such a mistake. 
-should / ought to have done
-should not / ought not to have done
-You should have finished your work yesterday.
-I shouldn’t have shouted at you yesterday.
-— She looks very happy. She _____ have passed the exam.
-— I guess so. It’s not difficult at all. 
-(A) should (B) could 
-√(C) must (D) might
-— I can’t find my purse anywhere.
-— You ____ have lost it while shopping.
-√(A) may (B) can 
-13
-新东方专属讲义
-(C) should (D) would
-— I’m sorry. I _______ at you the other day.
-— Forget it. I was a bit out of control myself.
-(A) shouldn’t shout 
-√(B) shouldn’t have shouted
-(C) mustn’t shout 
-(D) mustn’t have shouted
-The policeman declared that the blow on the victim’s head _____ from behind. 
-(A) should have been made 
-√(B) must have been made 
-(C) would have been made 
-(D) ought to have been made
- in the possession of sb. / in one’s possession
-in possession of sth.
-The book is in my possession.
-I’m in possession of the book.
-in the charge of sb. / in one’s charge
-in charge of …
-The bookstore is in my charge.
-I’m in charge of the bookstore.
- manage to do 设法完成了某事
-(NCE3-2 P18-L1) Our vicar is always raising money for one cause or another, but he 
-14
-新东方专属讲义
-has never managed to get enough money to have the church clock repaired.
-fail to do 没能完成某事
-(NCE3-5 P30-L12) When the journalist again failed to reply, the editor reluctantly 
-published the article as it had originally been written.
-11.It is disturbing to think that a dangerous wild animal is still at large in the 
-quiet countryside.
-It is disturbing to think that a dangerous wild animal is still at large in the quiet 
-countryside.
- It is … to think that …
-It is worrying to think that …
-It is exciting to think that …
-It is comforting to think that…
-It is amusing to think that …
-It is irritating to think that …
+## 4.1 hunt for …
+`hunt`不论是作名词还是作动词，后面都是跟着介词`for`，例句：
+> I’m hunting for a job now.
+> 此处hunt是动词
+> 
+> The hunt for a job will begin tomorrow. 
+> 此处hunt是名词
+> 
+动词后面跟什么介词搭配，不是很有规律性，只能一个记一个，例如：
+> the winter in America
+> 美国的冬天
+> 
+> the entrance to the parking lot
+> 停车场的入口
+> 
+> a witness to the accident
+> 本次事故的目击证人
+> 
+> a longing for love
+> 对爱的渴望
+> 
+> the reason for the disaster
+> 本次灾难的原因
+>
+## 4.2 a woman picking blackberries
+&emsp;&emsp; `picking`是非谓语动词，在这里作后置定语修饰`woman`。
 
-## 3.3
+
+&emsp;
+# 5. `It immediately ran away when she saw it, and experts confirmed that a puma will not attack a human being unless it is cornered.`
+`that a puma will not attack a human`是宾语从句
+`unless it is cornere`是条件状语从句
+
+
+&emsp;
+# 6. `The search proved difficult, for the puma was often observed at one place in the morning and at another place twenty miles away in the evening.`
+## 6.1  prove (to be) + adj. / n. 
+### 6.1.1 释义和用法
+`被证明是……` 
+`to be`是可以省略的，原文`The search proved difficult`完整的应该是`The search proved (to be)  difficult`，来看例句：
+> His injury proved (to be) fatal. 跟形容词
+>  他的伤势被证明是致命的。
+>  
+> The operation proved (to be) a success. 跟名词
+> 这次手术被证明是一次成功的手术
+> 
+
+### 6.1.2 同义词
+`turn out to be + adj./n. ` 原来是……（有点出乎预料的味道）
+> (NCE3-3 P22-L14) When the archaeologists reconstructed the fragments, they were amazed to find that the goddess **turned out to be** a very modern-looking woman. 
+> 
+
+
+&emsp;
+# 7. `Wherever it went, it left behind it a trail of dead deer and small animals like rabbits.`
+## 7.1 疑问词 + `ever`
+&emsp;&emsp; 疑问词 + `ever` (`whenever`, ``wherever``, `whoever`, `whichever`, `whatever` ...) 有两个含义：
+**① 表示“无论……”引导让步状语从句。等于 `no matter + 疑问词`**
+在本文中，`Wherever it went` = `No matter where it went`
+> (NCE3-29 P138-L8) **No matter where you live**, you would find it difficult not to laugh at, say, Charlie Chaplin's early films.
+> 
+**② 表示 “到底……”，用于疑问句中加强语气。**
+> (NCE3-2 P18-L10) '**Whatever** are you doing up here Bill?' asked the vicar in surprise.
+> 
+> Wherever did you go yesterday?
+> 
+> When ever am I going to see you again?
+>
+> When will you ever learn?
+> = Why do you keep on making the same mistakes?
+> 
+
+## 7.2  it left behind it a trail of dead deer and small animals like rabbits
+it left <span style="color:blue; ">behind it</span> a trail of dead deer and small animals like rabbits
+&emsp;&emsp; 这个句子用到了状语前置，它把状语`behind it`提到前面来了，这是因为宾语` a trail of dead deer and small animals like rabbits`太长了，所以为了句子的平衡，作者牺牲了正常的语序，把状语提前了。
+
+## 7.3 a trail of
+一连串的... 
+
+## 7.4 句式`Wherever he went, he left a trail of … behind him.`
+无论他去哪里，他都留下一连串的...
+> Wherever he went, he left a trail of unpaid bills behind him.
+> 无论他去哪里，他都留下一连串的未付的账单。
+> 
+> Wherever he went, he left a trail of broken hearts behind him.
+> 无论他去哪里，他都留下一连串的伤心的人。
+> 
+在上面的两个例句中，状语都不长，就不需要将状语`behind it`前置了。
+
+## 7.5 deer
+&emsp;&emsp; 和sheep和fish一样，deer是单复数同形的。
+
+ 
+&emsp;
+# 8. `Paw prints were seen in a number of places and puma fur was found clinging to bushes.`
+## 8.1 句子分析
+&emsp;&emsp; 这里用到了前面提到的无灵主语。本句的主语是`Paw prints`，这样写可以突出重点`Paw prints`，因为在这里，发现`Paw prints`的人不是重点，重点是被发现的`Paw prints`  。
+
+## 8.2 造句：人们对下岗工人的生活状况越来越关注了。
+> People have paid more and more attention to the condition of the laid-off workers.
+> 
+> Increasing attention has been paid to the condition of the laid-off workers.
+> 
+
+## 8.3 fur
+`fur`指的是 **皮和毛**: `the skin of an animal with the fur still on it, used especially for making clothes`
+a fur coat
+feather 羽毛
+> fur and feather 飞禽走兽
+> 
+> fin, fur and feather 鱼类、兽类和鸟类
+> 
+
+## 8.4 puma fur was found clinging to bushes
+&emsp;&emsp; `clinging`在这里是非谓语动词，做主语`puma fur`的补足语，补充说明主语的状态。非谓语动词作补足语的其他例句如下：
+> As no pumas had been reported **missing** from any zoo in the country, …
+> 非谓语动词`missing`在这里
+>
+补足语可以使句子更为简洁，比如造句“据报道大火已经得到了控制 ”
+> The fire was reported **controlled**.
+> 
+> It is reported that the fire was controlled.
+> 
+
+
+&emsp;
+# 9. `Several people complained of ‘cat-like noises’ at night and a businessman on a fishing trip saw the puma up a tree.`
+## 9.1 complain of/about sth.
+`complain`是一个不及物动词，所以要加上介词`of`或`about`才能接宾语。或者加上`that`引导的宾语从句：
+complain (that)
+> She **complained that** no one had been at the airport to meet her.
+> 
+
+## 9.2 on a business/honeymoon trip
+on a journey/voyage/expedition/tour …
+
+
+&emsp;
+# 10. `The experts were now fully convinced that the animal was a puma, but where had it come from?`
+## 10.1 be convinced that …
+`convince sb. of sth.`
+一般来说，`that`引导的从句前面不接介词，所以不写作：be convinced ~~of~~ that，但也有例外： 
+> ① `in that …` 引导的状语从句
+> ② `except/but that` …
+> 
+也有语法专家不把上面两种情况当作例外，而是把`in that`、`except that`、`but that`看作是复合连词。
+
+
+&emsp;
+# 11. `As no pumas had been reported missing from any zoo in the country, this one must have been in the possession of a private collector and somehow managed to escape.` 
+## 11.1 As no pumas had been reported missing from any zoo in the countr
+`as`引导的原因状语从句
+
+## 11.2 must have done
+`must have done`表示对**过去的事情** **强烈的肯定** 的推测语气
+> You must have been ill yesterday. You looked so pale.
+> 你昨天肯定是病了，你看起来脸色苍白
+> 
+### 对现在的事情强烈的肯定的推测
+如果要对**现在的事情**强烈的肯定的推测，则应该用`must do`
+> She knew that it must be the baker.
+> 
+### 对 过去的事情 不那么肯定**的推断
+如果要对 **过去的事情** **不那么肯定**的推断，则将情态动词改为`may`或`might`：`may/might have done`
+
+### 对过的的事情进行否定的推测
+如果要对过的的事情进行否定的推测，则用`can not / could not have done`
+> You   ill yesterday. I saw you going shopping with your wife.
+> 
+> (NCE3-60 P268-L27) The girl asked to see a timetable, feeling sure that her father **could not have made** such a mistake. 
+>  
+### 强烈的责备语气，质问某人为什么 做了（没做）某事
+`should / ought to have done`
+`should not / ought not to have done`
+`should`和`ought to`可以互换，但是`ought to`多用于书面。
+> You **should have finished** your work yesterday.
+> 你昨天就应该把工作做好的
+> 
+> I **shouldn’t have shouted** at you yesterday.
+> 我昨天不应该冲你大喊大叫的。 
+> 
+> — She looks very happy. She _____ have passed the exam.
+> — I guess so. It’s not difficult at all. 
+> (A) should (B) could 
+> √(C) must (D) might
+> 
+> — I can’t find my purse anywhere.
+> — You ____ have lost it while shopping.
+> √(A) may (B) can 
+> (C) should (D) would
+> 
+> — I’m sorry. I _______ at you the other day.
+> — Forget it. I was a bit out of control myself.
+> (A) shouldn’t shout 
+> √(B) shouldn’t have shouted
+> (C) mustn’t shout 
+> (D) mustn’t have shouted
+> 
+> The policeman declared that the blow on the victim’s head _____ from behind. 
+> (A) should have been made 
+> √(B) must have been made 
+> (C) would have been made 
+> (D) ought to have been made
+> 
+
+## 11.3 in the possession of sb. / in one’s possession / in possession of sth.
+例句：
+> The book is in my possession.
+> 
+> I’m in possession of the book.
+> 
+这样的词组还有：
+in the charge of sb. / in one’s charge/ in charge of，他们都表示 归某人管理
+> The bookstore is in my charge.
+> 
+> I’m in charge of the bookstore.
+> 
+
+## 11.4 manage to do 
+`manage to do` 是一个习语搭配，表示 **设法完成了某事**，它和`try to do`是不一样的：
+> manage to do 是完成了某事
+> try to do  是尝试做某事（能不能完成还不知道）
+>
+所以`managed to escape`是成功完成了越狱，来看例句：
+> (NCE3-2 P18-L1) Our vicar is always raising money for one cause or another, but he has never **managed to get enough** money to have the church clock repaired.
+> 
+
+### 反义词
+`manage to do` 的反义词是 `fail to do`，即 **没能完成某事**
+> (NCE3-5 P30-L12) When the journalist again **failed to reply**, the editor reluctantly published the article as it had originally been written.
+> 
+ 
+
+&emsp;
+# 12. `The hunt went on for several weeks, but the puma was not caught. `
+## 12.1 go on 
+持续
+
+&emsp;
+# 13. `It is disturbing to think that a dangerous wild animal is still at large in the quiet countryside.`
+## 13.1 It is … to think that …
+&emsp;&emsp; 一般来说以`-ing`构成的形容词强调 事物的特征令人怎样的，用来描述『事物的特征』，可翻译为“令人......的”；也可以修饰人，说明这个人的特点。
+&emsp;&emsp; 而`-ed`构成的形容词通常修饰人，用来描述『人的感受』，可翻译为“感到......的”
+> It is **worrying** to think that …
+>
+> It is **exciting** to think that …
+>
+> It is **comforting** to think that…
+>
+> It is **amusing** to think that …
+>
+> It is **irritating** to think that …
+>
