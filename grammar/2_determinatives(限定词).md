@@ -79,10 +79,11 @@
 ## 2.4 英语中四种泛指的表达模式
 ### 2.4.1 不可数名词 不加冠词 表示泛指
 <span style= "color:red; font-size:21px; font-weight:bold"> 
-    &emsp;&emsp; 不可数名词在表示泛指时，不可 与定冠词the连用。如果与the连用，此时不可数名词是表示特指。
+    &emsp;&emsp; 不可数名词在表示泛指时，不可 与定冠词the连用。
+    &emsp;&emsp; 如果不可数名词与the连用，此时不可数名词是表示特指。
 </span>
-请比较下面的例句：
 
+请比较下面的例句：
 > ① Life is hard sometimes.
 > ② Life is education in itself.
 > ③ The writer is writing a book about the life of blacks in America.
@@ -132,7 +133,7 @@
 ### 2.4.2 复数名词 不加冠词 表示泛指
 #### (1) 基本用法
 <span style= "color:red; font-size:21px; font-weight:bold"> 
-    复数名词同不可数名词一样， 在表示泛指时， 不可与定冠词the连用。 如果与the连用， 此时复数名词是表示特指。
+    &emsp;&emsp; 复数名词同不可数名词一样， 在表示泛指时， 不可与定冠词the连用。 如果与the连用， 此时复数名词是表示特指。
 </span>
 
 请比较下面的例句：
