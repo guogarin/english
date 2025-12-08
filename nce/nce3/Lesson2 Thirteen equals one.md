@@ -387,122 +387,217 @@ verb
 > Answer: (A) The woman would understand if she did Mary's job. 
 >
 ### 1.1.2 同义替换
-`be forever doing sth. `
-(NCE3-41 P192-L8) He is forever talking about the friendly people, the clean 
-atmosphere, the closeness to nature and gentle pace of living. 
- `be constantly / continually doing sth. `
-The boys are constantly / continually arguing. 
-Your behavior reflects on me, and I can't do my job if you're constantly 
-humiliating me.  
-Constantly? Aside from today,  give me one example.                                    
- `keep (on) doing sth. `
+**① `be forever doing sth`(也表示厌烦的语气)**
+> (NCE3-41 P192-L8) He **is forever talking** about the friendly people, the clean atmosphere, the closeness to nature and gentle pace of living. 
+> 
+
+**② `be constantly / continually doing sth.`**
+> The boys are constantly/continually arguing. 
+> 
+> Your behavior reflects on me, and I can't do my job if you **are constantly humiliating** me. 
+> 你的行为对我有（不好的）影响，如果你一直羞辱我，我就不能做好我的工作。
+> Constantly? Aside from today,  give me one example. 
+> 
+> `reflect well, badly, etc. on sb/sth` 使给人以好的（坏的或其他）印象
+> This incident reflects badly on everyone involved.
+> 这一事件给所有相关人士都造成了恶劣影响。
+>                                    
+
+**③ `keep (on) doing sth.`**
 > (NCE3-29 P138-L13) From the moment he arrived there, he kept on pestering his doctor to > tell him when he would be able to go home.  
 > 
-> (NCE3-29 P138-L20) In the process, he enjoyed himself thoroughly and kept 
-> telling everybody how much he hated hospitals. 
+> (NCE3-29 P138-L20) In the process, he enjoyed himself thoroughly and kept telling everybody how much he hated hospitals. 
 > 
 
-`do sth. all the time `
-(A) He is tired of waiting for assistance. 
-(B) He doesn't have to ask his friends for help. 
-(C) His foot hurts too much to walk. 
-√(D) He doesn't like to bother people. 
-W: I thought the doctor said you should stay off your foot until the swelling goes 
-down.  
-M: She did. It just makes me uncomfortable to ask my friends to wait on me all 
-the time.  
-What does the man mean? 
-(D) He doesn't like to bother people. 
-Sam, mess up the kitchen (always) 
-Sam is always messing up the kitchen. 
-Bruce, leave his dirty dishes on the table (forever) 
-Bruce is forever leaving his dirty dishes on the table. 
-Peter, try to show me he’s smarter than me (constantly) 
-Peter is constantly trying to show me he is smarter than me. 
-Mary, borrow my clothes without asking me (continually) 
-Mary is continually borrowing my clothes without asking me.  
-Why, you, make the same mistakes (keep on doing) 
-
-Why do you keep on making the same mistakes? 
-Jane, forget to give me my phone messages (do sth. all the time) 
-Jane forgets to give me my phone messages all the time. 
-(NCE3-22 P110-L3) One would expect them to know their parts by heart and 
-never have cause to falter.  
+**④ `do sth. all the time `** 
+> (A) He is tired of waiting for assistance. 
+> (B) He doesn't have to ask his friends for help. 
+> (C) His foot hurts too much to walk. 
+> √(D) He doesn't like to bother people. 
+> 
+> W: I thought the doctor said you should stay off your foot until the swelling goes down.  
+> M: She did. It just makes me uncomfortable to ask my friends to wait on me all the time.  
+> What does the man mean? 
+> (D) He doesn't like to bother people. 
+>
+造句：
+> Sam, mess up the kitchen (always) 
+> Sam is always messing up the kitchen. 
+> 
+> Bruce, leave his dirty dishes on the table (forever) 
+> Bruce is forever leaving his dirty dishes on the table. 
+> 
+> Peter, try to show me he’s smarter than me (constantly) 
+> Peter is constantly trying to show me he is smarter than me. 
+> 
+> Mary, borrow my clothes without asking me (continually) 
+> Mary is continually borrowing my clothes without asking me.  
+> 
+> Why, you, make the same mistakes (keep on doing) 
+> Why do you keep on making the same mistakes? 
+> 
+> Jane, forget to give me my phone messages (do sth. all the time) 
+> Jane forgets to give me my phone messages all the time. 
+> 
 
 ## 1.2 one … or another  
-one cause or another 
-He is always asking me for money for one cause or another. 
-Beginners will err at one time or another. 
-Everyone can contribute to society in one way or another. 
-one … after another 
-one day after another 
-encounter one difficulty after another 
-achieve one success after another  
- manage to do: 设法完成了某事 
-(NCE3-1 P14-L15) As no pumas had been reported missing from any zoo in the 
-country, this one must have been in the possession of a private collector and 
-somehow managed to escape. 
-fail to do: 没能完成某事 
-(NCE3-5 P30-L12) When the journalist again failed to reply, the editor reluctantly 
-published the article as it had originally been written. 
- have sth. done 请某人做某事 
-5 
-新东方专属讲义 
-I'm going to have my hair cut this weekend. 
-(NCE3-14 P66-L7) … people would rather pay large sums of money than have 
-their life work destroyed by gangsters. 
-King CharlesⅠhad his head cut off. 
-The house had its window broken in the explosion. 
-无灵主语 / 物称主语 
-(inaminate subject) 
-(NCE3-1 P14-L1) When reports came into London Zoo that a wild puma had been 
-spotted forty-five miles south of London, they were not taken seriously. 
-(NCE3-32 P150-L8) The sea bed was scoured with powerful nets and there was 
-tremendous excitement on board when a chest was raised from the bottom. 
-He lost his confidence. 
-Confidence deserted him.  
-I couldn't sleep that night. 
-That night sleep eluded me. 
-We only travelled half the distance at sunset. 
-Sunset met us halfway. 
-The past few years witnessed the great influx of foreigners to China, for 
-travelling, studies or business. 
-造句：我的小女儿总是抱怨 (complain of) 各种各样的病，但她从未成功地得到允许 
-(get permission) 呆在家里。 
-My little daughter is always complaining of one illness or another, but she has 
-6 
-新东方专属讲义 
-7 
- 
-never managed to get permission to be at home. 
+### 1.2.1 释义
+这样或那样... 
+造句“他总是用这样那样的理由向我要钱。”：
+> He is always asking me for money for one cause or another. 
+>
+`one time or another` 
+> Beginners will err at **one time or another**. 
+> 或早或晚，初学者总会犯错
+> 
+> ① 总有一天
+> 强调未来某个不确定的时间点必然会发生某事。
+> 例：We all make mistakes one time or another. → 我们总有一天都会犯错。
+> 
+> ② 迟早
+> 侧重事情发生的必然性，带有时间推移的意味。
+> 例：You'll understand one time or another. → 你迟早会明白的。
+> 
+> ③ 或早或晚
+> 更口语化，突出时间范围的不确定性。
+> 例：Everyone faces this problem one time or another. → 每个人或早或晚都会遇到这个问题。
+> 
+> ④ 曾经（需结合语境）
+> 当指过去某个不确定时间点时使用。
+> 例：I think we've all been there one time or another. → 我想我们曾经都有过这种经历。
+>
+`one way or another` 
+> Everyone can contribute to society in **one way or another**. 
+> 大家都可以以各种各样的方式为社会做出贡献。
+>  
+> ① 无论如何（强调结果必然发生）
+> 例：**One way or another**, we'll finish the project on time. → 无论如何，我们会按时完成项目。
+> 
+> ② 用某种方法/以某种方式（侧重手段的多样性）
+> 例：We'll solve this problem **one way or another**. → 我们会用某种方法解决这个问题。
+> 
+> ③ 反正/总之（口语化表达，带随意感）
+> 例：**One way or another**, he always gets what he wants. → 反正他总能得到想要的。
+> 
+### 1.2.2 型近的表达 `one … after another `
+“一个又一个的”，例句：
+> 一天又一天
+> 遭遇了一个又一个困难
+> 取得了一个又一个的成功
+> 
+> one day after another 
+> encounter one difficulty after another 
+> achieve one success after another  
+> 
+
+## 1.3 manage to do
+设法完成了某事，Lesson 1 笔记比较详细。
+> (NCE3-1 P14-L15) As no pumas had been reported missing from any zoo in the country, this one must have been in the possession of a private collector and somehow **managed to escape**. 
+> 
+`fail to do`: 没能完成某事 
+> (NCE3-5 P30-L12) When the journalist again **failed to reply**, the editor reluctantly published the article as it had originally been written. 
+> 
+
+## 1.4 have sth. done 
+**① 表示"让别人完成某事"，强调动作由他人实施而非主语自己完成。**例如造句“我打算周末去理发”：
+> I'm going to **have my hair cut** this weekend. （理发师剪的）
+> 
+> She's having her house painted.（她正在请人粉刷房子）
+> 
+
+**② 遭遇某事（当表示被动经历时）**，如：
+> He had his wallet stolen.（他钱包被偷了）
+> 
+> (NCE3-14 P66-L7) … people would rather pay large sums of money than **have their life work destroyed** by gangsters. 
+> 这里肯定不可能翻译成“请歹徒把人们的毕生心血毁掉”，而是应该翻译成" 遭遇某事"
+> 
+> King Charles Ⅰ **had his head cut off**. 
+> 国王查理一世遭遇了砍头。
+> 
+> The house had its window broken in the explosion. 
+> 在这句中，主语是`The house`，这是个无灵主语
+> 
+无灵主语 / 物称主语 (inaminate subject) 
+> (NCE3-1 P14-L1) When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously. 
+> 
+> (NCE3-32 P150-L8) The sea bed was scoured with powerful nets and there was tremendous excitement on board when a chest was raised from the bottom. 
+> 
+
+> He lost his confidence. 
+> Confidence deserted him.  
+> 
+> I couldn't sleep that night. 
+> That night sleep eluded me. 
+> 
+> We only travelled half the distance at sunset. 
+> Sunset met us halfway. 
+> 
+> The past few years witnessed the great influx of foreigners to China, for travelling, studies or business. 
+>  
+
+## 1.5 仿写本句 
+造句：我的小女儿总是抱怨 (complain of) 各种各样的病，但她从未成功地得到允许 (get permission) 呆在家里。 
+> My little daughter is always complaining of one illness or another, but she has never managed to get permission to be at home. 
+> 
+
 
 
 
 &emsp;
 &emsp; 
 # 2.The big clock which used to strike the hours day and night was damaged many years ago and has been silent ever since. 
- used to do  
-I used to get up early. 
-be / become / get used to n./doing 
-I'm used to getting up early. 
-(NCE3-2 P18-L17) 'We'll get used to that, Bill,' said the vicar. 
-Life is not fair, get used to it. 
-                          — Bill Gates 
-be accustomed to (doing) sth. 
-(NCE4-3 P17-L15) For men accustomed to eating seven-course dinners and 
-sleeping between fine linen sheets at home, the change to the Alps must have 
-been very hard indeed. 
- strike the hours 钟打点报时 
-(NCE2-9 P44-L3) It would strike twelve in twenty minutes. 
- ever since: adv. / prep. / conj. 从那以后，一直……(用完成时） 
-(NCE3-23 P114-L10) There are countless people who, ever since their early years, 
-have learned to associate snails with food. 
-You know how she feels about you.  It's been the same way ever since we were 
-kids. 
-造句：过去日夜辛苦工作的老王两年前下岗 (be laid off) 了，从那以后就变得懒了。 
-新东方专属讲义 
-Lao Wang who used to work hard day and night was laid off two years ago and 
-has been lazy ever since. 
+
+## 2.1 used to do  
+### 2.1.1 释义
+**① "过去常常..."（强调过去的习惯性动作）**
+> 例句：I used to swim every weekend. → 我过去常常每周末游泳。
+
+**② "以前会..."（隐含现在不再如此）**
+> 例句：She used to hate coffee. → 她以前会讨厌咖啡（现在不了）。
+
+**③ "曾经..."（书面化表达）**
+> 例句：This building used to be a hospital. → 这栋建筑曾经是医院。
+
+**④ 口语中可直接省略（通过时间状语体现）**
+> 例句：We used to play here as kids. → 我们小时候（经常）在这儿玩。
+
+### 2.2.2 变体
+**① `be/become/get used to n./doing`** 
+（习惯于做）某事，表示现在适应的状态
+> I'm used to getting up early. 
+> 
+> (NCE3-2 P18-L17) 'We'll **get used to** that, Bill,' said the vicar. 
+> 
+> Life is not fair, **get used to** it.   — Bill Gates 
+> 
+**② `be accustomed to (doing) sth.`**
+> (NCE4-3 P17-L15) For men **accustomed to** eating seven-course dinners and sleeping between fine linen sheets at home, the change to the Alps must have been very hard indeed. 
+> 
+
+## 2.2 strike the hours 
+钟打点报时 
+> (NCE2-9 P44-L3) It would strike twelve in twenty minutes. 
+> 再过20分钟，他将打响12点的钟声
+> 
+
+## 2.3 ever since
+adv./ prep./conj. 从那以后，一直……（用完成时） 
+在本文中`ever since`是副词
+> (NCE3-23 P114-L10) There are countless people who, **ever since** their early years, have learned to associate snails with food. 
+> 本句中，`ever since`是介词
+> 
+> You know how she feels about you.  It's been the same way ever since we were kids.
+> 本句中，`ever since`是 连词
+> 
+
+
+## 2.4 句子分析
+定语从句`which used to strike the hours day and night`修饰`The big clock`.
+
+
+## 2.5 仿写造句：过去日夜辛苦工作的老王两年前下岗 (be laid off) 了，从那以后就变得懒了。 
+> Lao Wang who used to work hard day and night was laid off two years ago and has been lazy ever since. 
+> 
 
 
 
