@@ -604,173 +604,288 @@ adv./ prep./conj. 从那以后，一直……（用完成时）
 &emsp;
 &emsp; 
 # 3.One night, however, our vicar woke up with a start: the clock was striking the hours! 
- wake (up): vi & vt. 醒了; 唤醒… 
-(NCE2-54 P252-L11) The doorbell rang loud enough to wake the dead. 
- start n. 激灵（由于恐惧或惊讶身体突然的一动） 
-wake (up) with a start 
-She woke from the dream with a start. 
- with + 名词  作状语修饰谓语动词 
-(NCE3-11 P54-L13) The officer went through the case with great care. 
-pounced on it with delight. 
-(NCE3-11 P54-L18) Then I added with a smile. 
-(NCE3-11 P54-L15) He had spotted a tiny bottle at the bottom of my case and he 
-(NCE3-27 P130-L16) His few material possessions make it possible for him to 
-move from place to place with ease. 
-She faced the difficulty calmly. 
-She faced the difficulty with calmness. 
-I looked at her curiously. 
-I looked at her with curiosity. 
-She spoke to me tenderly. 
-She spoke to me with tenderness. 
-8 
-新东方专属讲义 
-I greeted Philip enthusiastically.  
-I greeted Philip with enthusiasm. 
+## 3.1 wake (up)
+**vi & vt. 醒了; 唤醒…** 
+本文中`wake (up)`是不及物动词，下面这个句子中是其及物动词的用法：
+> (NCE2-54 P252-L11) The doorbell rang loud enough to **wake** the dead.
+> 
+
+## 3.2 start 
+n. 激灵（由于恐惧或惊讶身体突然的一动） 
+`wake (up) with a start` 惊醒
+> She woke from the dream with a start. 
+> 
+
+## 3.3 `with + 名词` 作状语修饰谓语动词 
+`with + 名词`比较庄重，适合书面：
+> (NCE3-11 P54-L13) The officer went through the case **with great car**e. 
+> 
+> (NCE3-11 P54-L15) He had spotted a tiny bottle at the bottom of my case and he pounced on it **with delight**.
+> 
+> (NCE3-11 P54-L18) Then I added **with a smile**. 
+> 
+> (NCE3-27 P130-L16) His few material possessions make it possible for him to move from place to place **with ease**. 
+>
+`with + 名词`和副词 作状语修饰谓语动词的对比：
+> She faced the difficulty **calmly**. 
+> She faced the difficulty **with calmness**. 
+> 
+> I looked at her **curiously**. 
+> I looked at her **with curiosity**. 
+> 
+> She spoke to me **tenderly**. 
+> She spoke to me **with tenderness**. 
+>  
+> I greeted Philip **enthusiastically**.  
+> I greeted Philip **with enthusiasm**. 
+> 
+
 
 
 
 &emsp;
 &emsp; 
 # 4.Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times before it stopped. 
-Looking at his watch, he saw that it was one o’clock, … 
-When he looked at his watch, he saw that it was one o’clock. 
- 非谓语 (doing; done; to do) 作状语时，一般情况下其隐含的主语应该与主句主语
-保持一致。 
-Looking at his watch, it was one o’clock.  ( X ) 
- before的译法 
-强调主句的时间比预期的长时,译为才 
-It will be a long time before we meet again. 
-强调主句的时间比预期的短时,译为就 
-I hadn’t waited long before he came. 
-going on. 
+## 4.1 Looking at his watch, he saw that it was one o’clock, … 
+本句还原成状语从句：
+> When he looked at his watch, he saw that it was one o’clock. 
+> 
+非谓语动词(doing; done; to do) 作状语时，一般情况下其隐含的主语应该与主句主语保持一致。 
+> Looking at his watch, it was one o’clock.  ( X ) 
+> 
+
+## 4.2 before的译法 
+**① 强调主句的时间比预期的长时,译为 “才”**
+> It will be a long time before we meet again. 
+> 
+**② 强调主句的时间比预期的短时,译为 “就”**
+> I hadn’t waited long before he came. 
+> 
 
 
 
 &emsp;
 &emsp; 
 # 5. `Armed with a torch, the vicar went up into the clock tower to see what was going on.`
- arm sb. with sth. 
-Armed with a torch, the vicar went up into the clock tower … 
-sb. carry sth. 
-Carrying a torch, the vicar went up into the clock tower .. 
- go on v. 发生 
-What’s going on here? 
-9 
-新东方专属讲义 
+## 5.1 Armed with a torch, the vicar went up into the clock tower … 
+### 5.1.1 为什么是Armed（被动），而不是Arming（主动）?
+&emsp;&emsp; 因为arm的用法是`arm sb. with sth`，这个搭配的意思是 “用某个装备把人装备起来”，也就是说`sb`应该是主语`sth`的宾语，所以是`armed`，表示 “人（也就是牧师）是被手电筒装备起来”。
+`arm`还可以用`carry`替换，即`sb. carry sth.`，但要用现在分词形式，表示人是主动的：
+> **Carrying** a torch, the vicar went up into the clock tower .. 
+> 
+ 
+## 5.2 go on 
+**① 继续（中性表达）**
+> "Go on with your work." → "继续你的工作。"
+> 
+**② 说吧（鼓励对方继续讲话）**
+> "Go on, I'm listening." → "说吧，我在听。"
+> 
+**③ 发生（描述事件进展）**
+> "What's going on here?" → "这里发生什么了？"
+> 
+**④ 接着/然后（叙事衔接）**
+> "He went on to explain..." → "他接着解释道..."
+> 
+**⑤持续（状态延续）**
+> "The show must go on." → "演出必须持续下去。"
+> 
+
+### 其他表示 “事情发生”的词
 happen             
 come up           
-take place 
 occur     
 come about 
-The funeral will take place on Monday.  
-strike 
-Most people were fast asleep when the earthquake struck. 
-coincide (with …) 
-When I came, he was just about to leave. 
-My arrival coincided with his departure. 
 
+`take place` 侧重于表示 有组织的事件（并非突然发生）
+> The funeral will take place on Monday.  
+> 
+
+`strike`表示发生时，侧重表示 惨剧(灾难；疾病)的发生
+> Most people were fast asleep when the earthquake struck. 
+> 
+
+`coincide (with …)` 表示 两件事巧合的发生
+> When I came, he was just about to leave. 
+> 
+> My arrival coincided with his departure. 
+> 
 
 
 
 &emsp;
 &emsp; 
-# 6. `In the torchlight, he caught sight of a figure whom he immediately recognized as Bill Wilkins, our local grocer. `
- catch sight of … 
-catch a glimpse of … 
-glimpse … 
-(NCE3-30 P142-L6) A farm worker, who stayed up all night, claimed to have seen a 
-figure cutting corn in the moonlight. 
-(NCE3-21 P106-L6) One of the most colorful figures in boxing history was Daniel 
-Mendoza, who was born in 1764. 
- recognize … as … 
-I recognized her as one of my classmates. 
- grocer                          
-grocery 
+# 6. `In the torchlight, he caught sight of a figure whom he immediately recognized as Bill Wilkins, our local grocer.`
+## 6.1 catch sight of … 
+### 6.1.1 释义
+(突然或刹那间)看见，发现（一直在寻找或希望看到的）某人/某物
+
+### 6.1.2 同义词
+`catch a glimpse of …`
+`glimpse …` 
+> (NCE3-30 P142-L6) A farm worker, who stayed up all night, claimed to have seen a **figure** cutting corn in the moonlight. 
+> 
+> (NCE3-21 P106-L6) One of the most colorful **figures** in boxing history was Daniel Mendoza, who was born in 1764. 
+> 
+
+## 6.2 recognize … as … 
+> I recognized her as one of my classmates. 
+> 
+
+## 6.3 grocer                          
+`grocery` n.杂货店
 
 
 
 &emsp;
 &emsp; 
 # 7. `'Whatever are you doing up here Bill?' asked the vicar in surprise. `
-10 
-新东方专属讲义 
-11 
- 
- “疑问词+ever”有两个含义 
- 表示 “无论…” 
-(NCE3-1 P14-L11) Wherever it went, it left behind it a trail of dead deer and small 
-animals like rabbits. 
- 表示 “到底…” 
-whenever, wherever, whoever, whichever ... 
-Wherever did you go yesterday? 
-When ever am I going to see you again? 
-on earth 
-What on earth has happened to trouble you so?  
-in the world 
-What in the world are you doing here at seven in the morning? 
-in God’s / heaven’s name 
-What in God's name was that huge bang? 
-Where in heaven's name have you been? 
-the hell 
-What the hell was that noise? 
-How the hell are we going to do that? 
+## 7.1 “疑问词 + ever”
+### 7.1 含义 
+**① 表示 “无论…”**
+> (NCE3-1 P14-L11) **Wherever** it went, it left behind it a trail of dead deer and small animals like rabbits. 
+> 
+**② 表示 “到底…”**
+> whenever, wherever, whoever, whichever ... 
+> 
+> **Wherever** did you go yesterday? 
+> **When ever** am I going to see you again? 
+> 
 
+### 7.2 “疑问词 + ever”中的`ever`可以用哪些词替换？
+**① `on earth`**
+> **What on earth** has happened to trouble you so?  
+> 
+
+**② `in the world`**
+> **What in the world** are you doing here at seven in the morning? 
+> 
+
+**③ `in God’s/heaven’s name`**
+> **What in God's name** was that huge bang? 
+> **Where in heaven's name** have you been? 
+> 
+
+**④ `the hell`**
+> **What the hell** was that noise? 
+> **How the hell** are we going to do that? 
+> 
 
 
 &emsp;
 &emsp; 
 # 8. `'I've been coming up here night after night for weeks now. You see, I was hoping to give you a surprise.' `
- have been doing 现在完成进行时 
-表示持续性的动作一直到现在，而且还有可能继续下去。 
-新东方专属讲义 
- night after night 
-night by night 
-every night 
-one night after another 
-day after day 
-day by day 
-every day 
-one day after another 
-Oceans apart, day after day, and I slowly go insane.  
- for weeks 好几周了 
-for hours 好几小时了 
-for months 好几个月了 
-for years 好几年了 
-for centuries 好几百年了 
- was / were hoping … 表达一种试探性的，委婉的语气。 
-I was hoping you could marry me. 
+##  8.1 have been doing 
+现在完成进行时，表示持续性的动作一直到现在，而且还有可能继续下去。 
 
+## 8.2 night after night 
+> night by night  夜复一夜
+> every night 
+> one night after another 
+> 
+> day after day 
+> day by day 
+> every day 
+> one day after another 
+> 
+> Oceans apart, day after day, and I slowly go insane.  
+>  
+
+## 8.3 for weeks 
+for weeks 好几周了
+> for weeks 好几周了 
+> 
+> for hours 好几小时了 
+> 
+> for months 好几个月了 
+> 
+> for years 好几年了 
+> 
+> for centuries 好几百年了 
+> 
+
+## 8.4  was/were hoping … 
+&emsp;&emsp; 注意，注意这里并不是~~“过去希望”~~！过去进行时和`wonder`, `hope`, `think`，`want` 等表示心理的动词一起用时可以表示现在的想法，表示客气婉转的语气：
+> I **was hoping** you could marry me. 
+>
+> I **was wondering** whether you could give me some advice. 
+> 不知你能否帮我出点主意。 
+> 
+> I **was thinking** maybe he could go by taxi.
+> 我在想或许他可以坐的士去。 
+> 
+> **I was hoping** you could reconsider our proposal. 
+> 我希望你能再考虑一下我们的建议。
+>
 
 
 
 &emsp;
 &emsp; 
 # 9. `'You certainly did give me a surprise!' said the vicar. 'You've probably woken up everyone in the village as well. Still, I'm glad the bell is working again.' `
- 强调肯定式 (emphatic positive) 
-在肯定句和祈使句中，在谓语动词前加上助动词do以加强语气。只用于一般现在时 (do, 
-does) 和一般过去时 (did) 中。 
-I do need a car. 
-12 
-新东方专属讲义 
-13 
- 
-He does speak English well. 
-So you did come after all. 
-Come in.            Do come in. 
-Shut up!            Do shut up! 
- as well: ……也…… 
-as well as …: 除了……之外, ……也…… 
-You’ve probably woken up everyone in the village as well as me. 
- still 尽管如此，还是 …… 
-nevertheless 
-nonetheless 
-all the same 
-just the same 
-The girl is not beautiful. 
-Still, I like her very much. 
-Nevertheless / nonetheless / all the same / just the same, I like her very much. 
-Still, I’m glad (that) the bell is working again. 
-形容词补足语 
+## 9.1 强调肯定式 (emphatic positive) 
+&emsp;&emsp; 在肯定句 和 祈使句 中，在谓语动词前加上助动词`do`以加强语气。只用于 一般现在时 (do, does) 和 一般过去时 (did) 中。 
+## 9.1 强调肯定式 (emphatic positive) 
+&emsp;&emsp; 另外，‌do/does/did 用于加强语气‌，表示“确实、真的”时，需放在主语后、实义动词前，且**动词用原形**。‌
+**① 肯定句**
+一般现在时:
+> I do need a car. 
+> We do love our country.（我们真的很爱国）
+>
+第三人称单数：
+> He does speak English well. 
+> She does look tired.（她看上去真的很累）。‌‌
+> 注意动词speak和look都是原形。
+>
+一般过去时：
+> So you did come after all. 所以那天你最终还是来了
+> He did come yesterday.（他昨天确实来了）。‌‌
+> 
+**② 祈使句**
+> Come in.            Do come in. 快进来吧！
+> Shut up!            Do shut up! 赶紧闭嘴！  
+> 
+
+## 9.2 as well
+### 9.2.1 释义
+ ……也…… 
+> Are they coming as well?
+> 他们也来吗？
+> 
+
+### 9.2.2 as well as 
+除了……之外, ……也…… 
+> You’ve probably woken up everyone in the village as well as me. 
+> 除了我外，你也把村里所有人都吵醒了。
+> 
+> The mind needs exercise as well as the body.
+> 大脑同身体一样需要锻炼
+>
+> You will always have the bad as well as the good in the world.
+> 人生在世总是有苦有甜。
+> 
+
+## 9.3 still 
+尽管如此，还是 …… 
+### 9.3.1 同义词
+① nevertheless 
+② nonetheless 
+③ all the same 
+④ just the same 
+
+> The girl is not beautiful. 
+> Still, I like her very much. 
+> Nevertheless / nonetheless / all the same / just the same, I like her very much. 
+> 
+
+### 9.4 Still, I’m glad (that) the bell is working again. 
+英语的从句分三大类：
+> 发挥形容词功能：定语从句
+> 发挥副词功能： 状语从句
+> 发挥名词功能： 名词从句 
+> 
+Still, I’m glad <span style="color:red; "> (that) the bell is working again. </span> 
+标红的是形容词补足语 
 
 
 
@@ -778,13 +893,18 @@ Still, I’m glad (that) the bell is working again.
 &emsp;
 &emsp; 
 # 10. `'That's the trouble, vicar,' answered Bill. 'It's working all right, but I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it." `
-…, but I’m afraid (that) at one o’clock it will strike thirteen times and there is 
-nothing I can do about it. 
-新东方专属讲义 
- there is nothing I can do about it 对此我无能为力 
-The telephone is out of order, and there is nothing I can do about it. 
-I know you are not satisfied, but there is nothing I can do about it. 
-We apologize for this, but there is nothing we can do about it. 
+## 10.1 but I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it
+…, but I’m afraid <span style="color:red; ">(that) at one o’clock it will strike thirteen times and there is nothing I can do about it. </span> 
+标红的是形容词补足语 
+
+## 10.2 there is nothing I can do about it 
+对此我无能为力 
+> The telephone is out of order, and there is nothing I can do about it. 
+> 
+> I know you are not satisfied, but there is nothing I can do about it. 
+> 
+> We apologize for this, but there is nothing we can do about it. 
+> 
 
 
 
@@ -792,9 +912,13 @@ We apologize for this, but there is nothing we can do about it.
 &emsp;
 &emsp; 
 # 11. `'We'll get used to that, Bill,' said the vicar. "Thirteen is not as good as one, but it's better than nothing. Now let's go downstairs and have a cup of tea.' `
- as good as = almost 几乎……；和……差不多 
-The injured man is as good as dead. 
-Everything is as good as settled. 
-(NCE3-46 P212-L21) As far as I could see, it needed only a minor adjustment: a 
-turn of a screw here, a little tightening up there, a drop of oil and it would be as 
-good as new. 
+##  as good as 
+`as good as` = `almost` 几乎……；和……差不多 
+> The injured man **is as good** as dead.
+> 这个伤者几乎已经死了。 
+> 
+> Everything is **as good as** settled. 
+> 几乎每件事都解决了。
+> 
+> (NCE3-46 P212-L21) As far as I could see, it needed only a minor adjustment: a turn of a screw here, a little tightening up there, a drop of oil and it would be **as good as** new. 
+> 
