@@ -90,14 +90,18 @@ adj.（经济上）繁荣的
 
 
 ## 0.3. storey / story ['stɔ:rɪ] 
+### 0.3.1 释义
 n. 楼层    
 storey → storeys 
 story → stories 
-
-> a two-story house  
-> The house is two stories high. 
-> a multi-story parking lot 
+> a **two-story** house  
+> story不加复数
 > 
+> The house is two stories high. 
+> 
+> a multi-story parking lot 
+>
+
 ### floor 和 story
 `story`一般用于表示楼层数、建筑物高度，例如:
 > A ten-storey/story building.
@@ -109,10 +113,12 @@ story → stories
 > 
 
 ## 0.4. sacred ['seɪkrɪd] 
+### 0.4.1 释义
 adj. 宗教的；神圣的     
-a sacred holiday 
-sacred music 
-Mecca is a sacred place. 
+>  a sacred holiday 
+>  sacred music 
+>  Mecca is a sacred place. 
+>  
 holy 
 holy water          
 a holy war 
