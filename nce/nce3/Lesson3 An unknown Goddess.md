@@ -102,7 +102,7 @@ story → stories
 > a multi-story parking lot 
 >
 
-### floor 和 story
+### 0.3.2 floor 和 story
 `story`一般用于表示楼层数、建筑物高度，例如:
 > A ten-storey/story building.
 > 十层高的建筑
@@ -112,55 +112,164 @@ story → stories
 > 玛丽住在第二楼
 > 
 
+### 0.3.3 各个楼层的表达，以及关于楼层的表达在英美之间的差异
+阁楼： `attic`
+顶楼： `the top floor`
+二层 `the first floor`（英式）   `the second floor`（美式）
+一层 `the ground floor`（英式）  `the first floor`（美式）
+地下室 `basement`
+
 ## 0.4. sacred ['seɪkrɪd] 
 ### 0.4.1 释义
 adj. 宗教的；神圣的     
->  a sacred holiday 
->  sacred music 
+>  a sacred holiday 宗教节日
+> 
+>  sacred music 圣乐
+> 
 >  Mecca is a sacred place. 
+> 麦加是一个圣地
 >  
-holy 
-holy water          
-a holy war 
-blessed 
-the Blessed Virgin Mary 
-It is more blessed to give than to receive. 
-divine 
-To err is human, to forgive divine. 
-凡人多舛误，唯神能见宥。 
-— Alexander Pope  
+### 0.4.2 同义词
+`holy` 
+> holy BIBLE 圣经
+> holy water 圣水          
+> a holy war 圣战
+> 
+`blessed` 
+**注意，这个单词做形容词的是发音为`/'blesɪd/`，动词为`/'blest/`**
+adj. (宗教用语)有福的；神圣的；无忧无虑的；愉快安宁的；（表示愠怒）
+v. bless的过去分词和过去式
+> the Blessed Virgin Mary 
+> 圣母玛丽
+> 
+> It is more blessed to give than to receive. 
+> 施比受更有福。
+> 
+`divine` /dɪˈvaɪn/
+adj.神圣的；神的；上帝的；非凡的；天赐的；绝妙的；极美的
+v.猜到；领悟；(用丫形杖)探测(地下水)
+n.牧师；神学家
+> To err is human, to forgive divine. （后半句省略了is，写全的话就是to forgive is divine）
+> 凡人多舛误，唯神能见宥。 — Alexander Pope  
+> 
 
-## 0.5. classical ['klæsikəl] adj. 古代（希腊和罗马）文化的    
-classical studies 
-classical music 
-classic 
-a classic novel 
-electric                  
-electrical                
-historic                  
-historical                
-economic                
-economical              
+
+## 0.5. classical ['klæsikəl] 
+### 0.5.1 释义
+adj. 古代（希腊和罗马）文化的；古典的；经典的；传统的    
+> classical studies 
+> classical music 古典音乐
+> 
+adj 简洁优美的；朴实美观的
+> the classical elegance of the design
+> 设计简洁典雅
+> 
+### 0.5.2 `classic` 
+#### adj.
+[usually before noun]
+**(1) 最优秀的；第一流的**
+`accepted or deserving to be accepted as one of the best or most important of its kind`
+> a classic novel/study/goal
+> 最佳小说 / 论文 / 进球
+> 
+
+**(2) also `classical` 有代表性的；典型的**
+`with all the features you would expect to find; very typical`
+> a classic example of poor communication
+> 缺乏有效沟通的典型实例
+> 
+> She displayed the classic symptoms of depression.
+> 她显现出了忧郁症的典型症状。
+> 
+> I made the classic mistake of clapping in a pause in the music!
+> 我在乐曲演奏暂停的间歇鼓起掌来，真是大错特错！
+> 
+
+**(3) （风格或设计）典雅的，古朴的；传统的**
+`elegant, but simple and traditional in style or design; not affected by changes in fashion`
+> a classic grey suit
+> 一套典雅的灰色服装
+> 
+> classic design
+> 古朴典雅的设计
+> 
+> classic cars (= cars which are no longer made, but which are still popular) 
+> 古典雅致的老式车
+> 
+
+**(4) (informal)有趣的；愚蠢（或令人讨厌）而又不足为奇的**
+`people say That's classic! when they find sth very amusing, when they think sb has been very stupid or when sth annoying, but not surprising, happens`
+> She's not going to help? Oh, that's classic!
+> 她不来帮忙？哦，那不足为奇！
+> 
+
+#### noun
+**(1) [可数名词] （书、电影或歌曲的）经典作品，名著，杰作**
+`a book, film/movie or song which is well known and considered to be of very high quality, setting standards for other books, etc.`
+> English classics such as ‘Alice in Wonderland’
+> 英语经典作品如《艾丽丝漫游奇境记》
+> 
+
+The novel may become a modern classic.
+这部小说可能会成为现代名著。
+
+**(2) [可数名词] 优秀的典范**
+`a thing that is an excellent example of its kind`
+> That match was a classic.
+> 那场比赛堪称经典。
+> 
+
+**(3) `Classics` [不可数名词] 古希腊与古罗马的文化研究（尤指对其语言与文学的研究）**
+`the study of ancient Greek and Roman culture, especially their languages and literature`
+> a degree in Classics
+> 古希腊与古罗马文化研究的学位
+> 
+
+
+### ### 0.5.3 几组`ic` 和 `ical`的对比
+`electric`  `electrical`   
 an electric light / razor 
 electrical failure 
+
+`historic`  `historical`     
 a historic moment 
 historical records 
+
+`economic`  `economical`    
 economic policy 
 an economical car 
-politic                   
-political                 
+
+`politic`  `political`                 
 a politic decision 
 political asylum  
+
 
 ## 0.6. rest [rest] 
 v. 倚放，放置     
 > Her elbows rested on the table. 
+> 
 > She rested her head against a cushion.  
 > 
 
-`rest on / upon `
-> Columbus’ decision to sail west rests on his belief that the world is round. 
+`rest on/upon`
+**① `rest on sth `基于；以…为基础基于；以…为基础**
+`to be based on sth`
+> The whole argument rests on a false assumption.
+> 整个论证都是基于一个错误的假设。
 > 
+> Columbus’ decision to sail west rests on his belief that the world is round. 
+> 哥伦布决定向西航行，是基于他相信地球是圆形的。
+>
+**② `rest on/upon sb/sth` 依靠；依赖**
+`to depend or rely on sb/sth`
+> All our hopes now rest on you.
+> 现在所有的希望都寄托在你的身上。
+> 
+`to look at sb/sth`
+> Her eyes rested on the piece of paper in my hand.
+> 她的目光落在我手里的一张纸上。
+> 
+
 `be based / founded on / upon` 
 `depend on / upon` 
 `rely on / upon` 
