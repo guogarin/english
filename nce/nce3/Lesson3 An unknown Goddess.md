@@ -281,26 +281,46 @@ v. 倚放，放置
  
 
 &emsp; 
-# 1. `Some time ago, an interesting discovery was made by archaeologists on the Aegean island of Kea. `
+# 1. `Some time ago, an interesting discovery was made by archaeologists on the Aegean island of Kea.`
 ## 1.1 make a discovery (of…) 
-discover→make an interesting discovery (of …) 
-use→make use of …→make the best use of…→He made the best use of his talent. 
-describe→make a vivid description of … 
-investigate→make a thorough investigation of … 
-summarize→make a comprehensive summary of … 
-analyze→make a detailed analysis of … 
-Some time ago, archaeologists made an interesting discovery on the Aegean island of Kea. 
+discover → make an interesting discovery (of …) 
+### 仿写
+#### (1) use 
+→make use of …→make the best use of
+He made the best use of his talent. 
 
-> (NCE3-32 P150-L3) A radio message from the mainland had been received by the ship's captain instructing him to give up the search.  
+#### (2) describe 
+make a vivid description of … 
+
+#### (3) investigate 
+make a thorough`/ˈθɜːroʊ/` investigation of … 
+ 
+#### (4) summarize 
+make a comprehensive summary of … 
+
+#### (5) analyze 
+make a detailed analysis of … 
+
+## 1.2 为什么要用被动语态写成`an interesting discovery was made by archaeologists`，而不是用主动语态写成`archaeologists made an interesting discovery`呢？
+因为，如果写成
+> Some time ago, **archaeologists made an interesting discovery** on the Aegean island of Kea. 
 > 
+那句子强调的就是 考古学家(archaeologists)，而不是强调这个有趣的考古发现，那么后文就应该着笔墨于这些考古学家。而本文讨论的是这个有趣的考古发现，因此应该按文中这么写才能突出这个考古发现。 再举个例子：
+> (NCE3-32 P150-L3) A radio message from the mainland had been received by the ship's captain instructing him to give up the search.  
+> 本句中，作者像突出的是`a radio message`，而不是收到这封电报的人。
+>  
 
-## 1.2 the city of Beijing 
+## 1.3 the city of Beijing 
 > (NCE3-3 P22-L3) the promontory of Ayia Irini 
+> 
 > (NCE3-16 P74-L1) the tiny village of Perachora 
+> 
 > (NCE3-8 P42-L8) the famous monastery of St. Bernard 
-> the novel of Three Kingdoms X 
+> 
+> ~~the novel of Three Kingdoms~~ 
 > the novel entitled Three Kingdoms 
 > the movie entitled Da Vinci Code 
+>  
 > the man named / called Vincent 
 > 
 
@@ -309,18 +329,29 @@ Some time ago, archaeologists made an interesting discovery on the Aegean island
 
 &emsp; 
 # 2. `An American team explored a temple which stands in an ancient city on the promontory of Ayia Irini.` 
-## 2.1 an American team of archaeologists 
- 
-## 2.2 be  located/situated /sited 
-> (NCE3-18 P82-L4) Strange forms stand in gardens, and outside buildings and shops. 
+## 2.1 an American team
+an American team( of archaeologists )
+
+## 2.2 stand
+### ### 2.2.1 释义
+v. 位于（某处）
+&emsp;&emsp; stand一般是主动语态，表示“矗立在”，一般表示一个房子、柱子等，城市一般不会用stand来表示“位于（某处）”，因为城市太大了。
+> (NCE3-18 P82-L4) Strange forms **stand** in gardens, and outside buildings and shops. 
 > 
-> The Monument to the People’s Heroes stands in the center of Tian’anmen Square.            
+> The Monument to the People’s Heroes **stands** in the center of Tian’anmen Square.            
 > 
-`sit` 
-> The house sits on top of a hill overlooking the town.        
+
+### 2.2.2 `be located/situated/sited`
+与stand不一样的是，这三个词都用被动
+
+### 2.2.3 `sit` 
+> The house **sits** on top of a hill overlooking the town.        
 > 
-`lie` 
-(NCE3-8 P42-L2) The famous monastery of St. Bernard, which was founded in the 11th century,  lies about a mile away. 
+
+### 2.2.4 `lie` 
+> (NCE3-8 P42-L2) The famous monastery of St. Bernard, which was founded in the 11th century,  **lies** about a mile away. 
+> 
+
 
 ## 2.3 promontory 
 `promontory (headland)`: a long narrow area of high land that sticks out into the sea  
@@ -330,14 +361,36 @@ Some time ago, archaeologists made an interesting discovery on the Aegean island
 
 &emsp; 
 # 3. `The city at one time must have been prosperous, for it enjoyed a high level of civilization.`
-## 3.1  at one time = once  
-The city at one time must have seen / known prosperity. 
+## 3.1  at one time
+在这里`at one time` = `once`（曾经）
+## 3.2 must have been的替代
+> The city at one time must have seen/known（经历） prosperity. 
+> 
 
-## 3.2 enjoy good health 
-enjoy a high standard of living 
-The garments are magnificent and tasteful and have long enjoyed great fame 
-both at home and abroad. 
-`be blessed with … `
+## 3.3 enjoy
+### 3.3.1 释义
+v. [动词+名词短语] (formal)享有；享受
+`to have sth good that is an advantage to you`
+**当表达某人拥有好的东西时，用enjoy来替换have，会显得更地道**
+> People in this country enjoy a high standard of living.
+> 这个国家的人民享有很高的生活水平。
+> 
+> He's always enjoyed good health.
+> 他一直都很健康。
+> 
+> enjoy good health 
+> 享有健康
+> 
+> enjoy a high standard of living 
+> 
+> The garments are magnificent and tasteful and have long **enjoyed** great fame both at home and abroad. 
+> `garment` /ˈɡɑːrmənt/
+> &emsp;&emsp; N（一件）衣服（尤用于谈及服装的制作和销售时）,成衣（强调工业化生产的服装）
+> magnificent
+> &emsp;&emsp; adj. 壮丽的；宏伟的；值得赞扬的
+
+### 3.3.2 同义替换
+1） `be blessed with … ` 享有的；有幸得到；幸运地享有
 > They were blessed with two children, a boy and a girl. 
 > 
 > The underlined part in Paragraph 1 most probably means (   ). 
@@ -346,18 +399,42 @@ both at home and abroad.
 > (C) regretted having   
 > (D) gave birth to 
 > 
-`be endowed with …` 
+2） `be endowed with …` 被赋予；具有；天生具有（突出天赋或自然属性）
+endow /ɪnˈdaʊ/
+vt. 天生赋予；(向学校等机构)捐钱，捐赠，资助
+
 > She is endowed with both brains and beauty. 
 > 
 > We hold these truths to be self-evident, that all men are created equal, that they are endowed by the Creator with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness.  - Thomas Jefferson 
 > 
 
-`boast` 
+3） `boast` 
 > There is a lot of beautiful scenery in China. 
 > China boasts a lot of beautiful scenery. 
 > 
-
-
+**(1) verb `~ (about/of sth)`自夸；自吹自擂**
+`to talk with too much pride about sth that you have or can do`
+> [单独使用的动词] I don't want to boast, but I can actually speak six languages.
+> 不是我吹嘘，我确实能讲六种语言。
+> 
+> She is always boasting about how wonderful her children are.
+> 她总是夸耀她的孩子们多么出色。
+> 
+> He openly boasted of his skill as a burglar.
+> 他公然炫耀他的盗窃手法。
+> 
+> [动词+that从句] Sam boasted that she could beat anyone at poker.
+> 萨姆吹嘘说打扑克牌谁都赢不了她。
+> 
+[also 动词+直接引语]
+**(2) verb [动词+名词短语] `not used in the progressive tenses（不用于进行时）`有，拥有（值得骄傲的成就或财产）**
+`to have sth that is impressive and that you can be proud of`
+> The hotel also boasts two swimming pools and a golf course.
+> 那家宾馆还拥有两个游泳池和一个高尔夫球场
+> 
+> The houses will boast the latest energy-saving technology...
+> 这些房屋将应用最新的节能技术。
+> 
 
 &emsp; 
 # 4. `Houses -- often three storeys high -- were built of stone. They had large rooms with beautifully decorated walls.` 
