@@ -391,7 +391,7 @@ v. [动词+名词短语] (formal)享有；享受
 
 ### 3.3.2 同义替换
 1） `be blessed with … ` 享有的；有幸得到；幸运地享有
-> They were blessed with two children, a boy and a girl. 
+> They **were blessed with** two children, a boy and a girl. 
 > 
 > The underlined part in Paragraph 1 most probably means (   ). 
 > √(A) were lucky in having   
@@ -399,16 +399,16 @@ v. [动词+名词短语] (formal)享有；享受
 > (C) regretted having   
 > (D) gave birth to 
 > 
-2） `be endowed with …` 被赋予；具有；天生具有（突出天赋或自然属性）
+2） `be endowed with …` 天生具有（突出天赋或自然属性）；被赋予；具有；
 endow /ɪnˈdaʊ/
 vt. 天生赋予；(向学校等机构)捐钱，捐赠，资助
-
 > She is endowed with both brains and beauty. 
 > 
-> We hold these truths to be self-evident, that all men are created equal, that they are endowed by the Creator with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness.  - Thomas Jefferson 
+> We hold these truths to be self-evident, that all men are created equal, that they **are endowed** by the Creator **with** certain unalienable rights, that among these are life, liberty, and the pursuit of happiness.  - Thomas Jefferson 
 > 
 
 3） `boast` 
+**对于boast，若人做主语，那么就是“自夸”；事物做主语就是“有，拥有”**
 > There is a lot of beautiful scenery in China. 
 > China boasts a lot of beautiful scenery. 
 > 
@@ -436,79 +436,134 @@ vt. 天生赋予；(向学校等机构)捐钱，捐赠，资助
 > 这些房屋将应用最新的节能技术。
 > 
 
+
+
 &emsp; 
 # 4. `Houses -- often three storeys high -- were built of stone. They had large rooms with beautifully decorated walls.` 
-## 4.1  a girl with blue eyes 
-a mug with a broken handle 
+## 4.1  large rooms with beautifully decorated walls
+### 4.1.1 本句中with的作用
+with在这里是表示一个 从属的关系，即：大房间拥有精美装饰的墙
 
-## 4.2 decorate 
-a vastly improved method 
-a much acclaimed novel 
+### 4.1.2 仿写
+> a girl with blue eyes 
+> 
+> a mug with a broken handle 
+> 
+
+## 4.2 beautifully decorated walls
+### 仿写 
+> a vastly improved method 
+> 
+> a much acclaimed novel 
+> 
 
 
 
 &emsp; 
 # 5. `The city was even equipped with a drainage system, for a great many clay pipes were found beneath the narrow streets.` 
-## 5.1 equip A with B 
-`be equipped with …` 
-`equipment` 
-The classrooms are equipped with modern multimedia teaching equipment. 
+## 5.1 `be equipped with …` 
+`equipment` (不可数名词)
+> The classrooms are equipped with modern multimedia teaching equipment. 
+> 
 
 ## 5.2 a great many (of ) … 
-a great number of … 
-a great amount / deal of … 
-## 5.3  beneath / underneath →on  
-under→over 
-below→above  
+### 5.2.1 用法
+a great many (of )后面要接可数名词的复数形式
+> We have a great many **things** to do at present.
+> 我们当前有许许多多事要做。
+> 
+### 5.2.2 同义词 
+`a great number of …` 后面要接可数名词的复数形式
+> great number of **Egyptians** are proficient in foreign languages.
+> 很多埃及人都精通外语。
+> 
+`a great amount/deal of … `后面要接 不可数名词
+> A great amount of **data** → 大量的数据
+> 
+> A great amount of **sand** → 巨量的沙子
+> 
+> A great amount of **money** → 可观的金额
+> 
+
+## 5.3  beneath
+beneath/underneath → on  
+under → over 
+below → above  
 
 
 
 
 &emsp; 
 # 6. `The temple which the archaeologists explored was used as a place of worship from the fifteenth century B.C. until Roman times. `
-The temple which the archaeologists explored was used as a place of worship from the fifteenth century B.C. until Roman times. 
-## 6.1 be used as … 
-The wooden box is used as a seat. 
-act / serve / function as … 
-The wooden box acts / serves / functions as a seat. 
-> (NCE3-25 P122-L3) She serves as an impressive reminder of the great ships of the past. 
+## 6.0 语法成分分析
+The temple <span style="color:blue; ">which the archaeologists explored</span> was used as a place of worship <u>from the fifteenth century B.C. until Roman times</u>. 
+The temple 主语
+which the archaeologists explored 定语从句
+was used as a place of worship 谓语动词
+from the fifteenth century B.C. until Roman time 时间状语从句
+
+## 6.1 be used as 
+### 6.1.1 释义
+> The wooden box is used as a seat. 
+>
+> Art may be used as a vehicle for propaganda.
+> 艺术可以用作宣传的工具。
+> 
+### 6.1.2 同义替换
+`act/serve/function as … `和be used as不一样的是，这三个词语都是主动语态：
+> The wooden box **acts/serves/functions as** a seat. 
+> 
+> (NCE3-25 P122-L3) She **serves as** an impressive reminder of the great ships of the past. 
 > 
 
-## 6.2 B.C. (BC): Before Christ 
-A.D. (AD): Anno Domini 
+## 6.2 B.C.是哪两个单词的缩写？
+BC: Before Christ  公元前（基督教会历法用） 
+A.D. (AD): Anno Domini  （耶稣诞生之后，用于年代）公元
 
-## 6.3 in modern / recent / ancient / prehistoric times  
-in times of … 
-in times of peace / war 
+## 6.3 ~ times. 
+### 6.3.1 仿写 
+in modern/recent/ancient/prehistoric times  
+### 6.3.2 in times of …
+in times of … 在…的时期
+> in times of peace / war 
+> 
 > (NCE3-14 P66-L12) In times of peace, when business was bad, Hawkwood and his men would march into a city-state … 
-> 
+>
+### 6.3.3 times的替换词
 `age` 
-the Ice Age 
-the Stone Age 
-the modern age 
-the computer age 
-`era`  
-> the steam-engine era  
-> mark the end of an era  
-> His death marked the end of an era. 
-> mark the beginning of a new era
->   
-> (NCE3-25 P122-L9) It marked the end of the great tradition of ships with sails and **the beginning of a new era**. 
+> the Ice Age 
+> the Stone Age 
+> the modern age 
+> the computer age 
 > 
-> The foundation of the People’s Republic of China marked **the beginning of a new era**.  
+`era`/ˈɪrə/  
+> the steam-engine era  
+> 蒸汽机时代
+> 
+> mark the end of an era  
+> 标志着一个时代的结束
+> His death **marked the end of an era.** 
+> 
+> mark the beginning of a new era
+> 标志着一个时代的开始
+> (NCE3-25 P122-L9) It marked the end of the great tradition of ships with sails and **the beginning of a new era**. 
+> The foundation of the People’s Republic of China **marked the beginning of a new era**.  
 > 
 
 
 
 &emsp; 
 # 7. `In the most sacred room of temple, clay fragments of fifteen statues were found.` 
- t + j = tʃ  
+`t + j = tʃ`  
 don’t you   won’t you   last year    situation  
-d + j = dʒ 
+
+`d + j = dʒ` 
 did you  would you   graduate   credulous 
-s + j = ʃ 
+
+`s + j = ʃ` 
 this year       
-z + j = ʒ 
+
+`z + j = ʒ` 
 Bless you.      
 I promise you. 
 May I use your book?  How’s your father?  
@@ -518,8 +573,90 @@ May I use your book?  How’s your father?
 &emsp; 
 # 8. `Each of these represented a goddess and had, at one time, been painted. `
 ## 8.1 represent 
+### 8.1.1 释义
+#### verb
+**(1) [动词+名词短语] [often passive] 代表**
+`to be a member of a group of people and act or speak on their behalf at an event, a meeting, etc.`
+> The competition attracted over 500 contestants representing 8 different countries.
+> 这次比赛吸引了代表8个不同国家的500多名参赛者。
+> 
+> Local businesses are well represented on the committee (= there are a lot of people from > them on the committee) .
+> 委员会中有许多地方企业的代表。
+> 
+> The President was represented at the ceremony by the Vice-President.
+> 副总统代表总统出席了这次庆典。
+> 
+**(2) [动词+名词短语] 作为…的代言人；维护…的利益**
+`to act or speak officially for sb and defend their interests`
+> The union represents over 200 000 teachers.
+> 工会代表着20余万名教师的利益。
+> 
+> The association was formed to represent the interests of women artists.
+> 成立这个协会是为了维护女性艺术家的利益。
+> 
+> Ms Dale is representing the defendant (= is his/her lawyer) in the case.
+> 在这个案件当中，戴尔女士为被告作辩护。
+> 
+
+**(3) linking verb [动词+名词短语] not used in the progressive tenses 不用于进行时等于；相当于；意味着**
+`to be sth`
+同义词：`constitute`
+> This contract represents 20% of the company's annual revenue.
+> 这份合约相当于公司20%的年收入。
+> 
+> This decision represents a significant departure from previous policy.
+> 这个决定意味着在很大程度上脱离了原先的政策。
+> 
+
+**(4) [动词+名词短语] [no passive] 成为…实例；成为典型；体现**
+`to be an example or expression of sth`
+同义词：`be typical of`
+> a project representing all that is good in the community
+> 体现着社区中一切美好形象的工程
+> 
+> Those comments do not represent the views of us all.
+> 这些言论并不是我们所有人的看法。
+> 
+
+**(5) [动词+名词短语] not used in the progressive tenses 不用于进行时作为…的象征；象征；代表**
+`to be a symbol of sth`
+同义词：symbolize
+> Each colour on the chart represents a different department.
+> 图表中的每一种颜色都代表一个不同的部门。
+> 
+> Wind direction is represented by arrows.
+> 风向是用箭头表示的。
+> 
+**(6) `~ sb/sth (as sb/sth)` 展示；描绘**
+`to show sb/sth, especially in a picture`
+同义词：`depict`
+> [动词+名词短语] The carvings represent a hunting scene.
+> 这些雕刻作品描绘了一幅狩猎的场面。
+> 
+> The results are represented in fig.3 below.
+> 结果如下面的图3所示。
+> 
+[also 动词+名词短语+-ing短语]
+描述 describe
+
+**(7) [动词+名词短语] `~ sb (as sth)` (formal)（尤指不公平地）展现，描述，表现**
+`to present or describe sb/sth in a particular way, especially when this may not be fair`
+> The king is represented as a villain in the play.
+> 剧中国王的形象是一个恶棍。
+> 
+> The risks were represented as negligible.
+> 他们把风险说得微不足道。
+> 
+
+**(8) `~ sth (to sb)` (formal)正式提出（意见、抗议等）**
+`to make a formal statement to sb in authority to make your opinions known or to protest`
+> [动词+名词短语] They represented their concerns to the authorities.
+> 他们向当局陈述了他们关心的问题。
+> 
+
+### 8.1.2 同义替换
 `stand for`  
-> Honey, this gold ring stands for / represents my love for you. 
+> Honey, this gold ring **stands for/represents** my love for you. 
 > 
 `on behalf of sb. / on one’s behalf` 
 > **On behalf of** the entire company, I would like to thank you for all your work. 
@@ -529,14 +666,13 @@ May I use your book?  How’s your father?
 
  
 
-
-
 &emsp; 
 # 9. `The body of one statue was found among remains dating from the fifteenth century B.C. `
 ## 9.1 date from … 
 date back to … 
 can be traced back to … 
-造句：丝绸之路 (the Silk Road) 的繁荣可以追溯到遥远的汉朝。 
+
+## 9.2 造句：丝绸之路 (the Silk Road) 的繁荣可以追溯到遥远的汉朝。 
 > The prosperity of the Silk Road dates from / dates back to / can be traced back to the distant Han Dynasty.  
 > 
 
