@@ -123,9 +123,17 @@ v. 囤积；贮藏；(尤指)秘藏
 ## 0.4 oblige [ə 'blaɪdʒ] 
 ### 0.4.1 释义
 **v. 使……感到必须**
-`oblige`是一个使役动词（表示“使、令、让、帮、叫”等意义的动词），人应该做它的宾语，如果使用 时要做主语，则需要使用被动语态，例如：
+`oblige`是一个使役动词（表示“使、令、让、帮、叫”等意义的动词），人应该做它的宾语，
+> He suffered a serious injury that obliged him to give up work.
+> 他受伤严重，不得已只好放弃工作。
+> 
+如果使用时人要做主语，则需要使用被动语态，例如：
 > sb be/feel **obliged** to do sth（人作主语，所以用被动语态）
 > Many parents feel obliged to pay for at least part of the wedding.
+> 许多家长觉得自己有义务至少要负担孩子婚礼的部分花销
+> 
+> Parents are obliged by law to send their children to school.
+> 法律规定父母必须送子女入学。
 > 
 
 ### 0.4.2 近义词
