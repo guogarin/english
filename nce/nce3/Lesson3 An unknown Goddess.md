@@ -669,7 +669,9 @@ May I use your book?  How’s your father?
 &emsp; 
 # 9. `The body of one statue was found among remains dating from the fifteenth century B.C. `
 ## 9.1 date from … 
+### 同义替换
 date back to … 
+
 can be traced back to … 
 
 ## 9.2 造句：丝绸之路 (the Silk Road) 的繁荣可以追溯到遥远的汉朝。 
@@ -682,27 +684,47 @@ can be traced back to …
 &emsp; 
 # 10.`It's missing head happened to be among remains of the fifth century B.C. `
 ## 10.1 happen to do  
-`sth. happen to sb. `
+恰好/碰巧做了某事
+
+### 10.1.1`sth. happen to sb. `
+某事发生在…身上（描述非自愿事件）
 > A car accident happened to him. 
 > 
 
-`happen to do `
-`it happen that …` 
+### 10.1.2 `happen to do `的同义替换
+`it happen that …` "碰巧"
 > We **happened to** take the same train. 
 > **It happened** that we took the same train. 
 > 
- `chance to do ` 
+`chance to do ` 
 `it chance that … `
 > We chanced to take the same train. 
 > It chanced that we took the same train. 
 > 
-`by chance`  `by accident `                  
-`accidentally`  
+`by chance`  `by accident ` `accidentally`  
 > We took the same train by chance / by accident / accidentally.   
 > 
+
 `as it happen` 
 > As it happened, we took the same train. 
 > 
+**碰巧**
+表示某事偶然发生或巧合。
+> 例：As it happens, I was there too. → 碰巧，我也在那儿。
+> 
+**实际上**
+用于引出与预期或假设不同的事实。
+> 例：As it happens, the meeting was canceled. → 实际上，会议取消了。
+> 
+**说来也巧**
+口语化表达，强调巧合性。
+> 例：As it happens, we met before. → 说来也巧，我们之前见过。
+> 
+**刚好**
+侧重时间或条件的恰好吻合。
+> 例：As it happens, I have a spare ticket. → 刚好，我有多余的票。
+> 
+
 > (A) He would like to know what happened. 
 > √(B) He can help the woman. 
 > (C) Because of what happened, he has no time. 
@@ -712,8 +734,16 @@ can be traced back to …
 > Q: What does the man mean? 
 > Answer: (B) He can help the woman. 
 > 
-`as luck would have it` 
+
+`as luck would have it` 碰巧
+这个短语通常用来表示某件事情的发生纯属偶然或巧合，带有一种“命运安排”的意味。
 > As luck would have it, we took the same train. 
+>
+> As luck would have it, the doctor was out when I arrived.
+> 偏巧我到的时候医生外出了。
+>
+> As luck would have it, the train was late.
+> 不巧火车晚点了。
 > 
 > W: You do look cold. What happened? 
 > M: I've been standing outside in Arctic temperatures for over an hour waiting for a bus. 
@@ -729,74 +759,108 @@ can be traced back to …
 &emsp; 
 # 11. `This head must have been found in Classical times and carefully preserved. `
 ## 11.1  preserve 
-preserve one’s eyesight / food 
+preserve one’s eyesight（实力） / food 
+
 `conserve` 
 conserve wildlife / resources 
+
 `reserve` 
 > Reserve your energy for the climb tomorrow. 
+> 
 > I reserve the right to disagree. 
 > 
 > reserve a table for 2 
 > 
 > The old building is in a good state of ______ except for the wooden floors.  
 > (A) observation         
-> (C) conservation       
 > √(B) preservation 
+> (C) conservation  
 > (D) reservation 
 > 
 
 
 &emsp; 
 # 12. `It was very old and precious even then. `
- nervous     
+nervous     
 anxious       
 
 
 
 &emsp; 
 # 13. `When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman. `
- surprise       
-astonish 
-box on top of a pile of woolen goods.  
-amaze 
-astound 
-(NCE2-46 P206-L5) He was astonished at what he found. A man was lying in the 
-(NCE3-19 P86-L16) The police were astounded when Mrs. Ramsay told them what 
-she had done. 
-##  turn out to be  
-`prove (to be) `
-> Eric’s girlfriend turned out to be his half-sister. 
-> (NCE3-34 P158-L17) an interesting-looking carved dagger 
+## 13.1 amaze
+### 13.1.1 近义词
+&emsp;&emsp; 注意，下面四个词都是使役动词，所以要用被动语态：
+`surprise`    惊讶
+`astonish` 难以置信的惊讶
+> (NCE2-46 P206-L5) He was astonished at what he found. A man was lying in the box on top of a pile of woolen goods.  
+> 
+`amaze` 指使惊奇、使惊愕、使惊诧：
+> Just the huge size of the place amazed her.
+> 仅仅地方之大就使她十分惊奇。
+> 
+`astound` 指使震惊、使大惊
+> (NCE3-19 P86-L16) The police were astounded when Mrs. Ramsay told them what she had done. 
+> 
 
-`hard-working `
-`easy-going` 
+## 13.2 turn out to be  
+`prove (to be)`
+> Eric’s girlfriend turned out to be his half-sister. 
+> 
+## 13.3 modern-looking
+**形容词-looking** 看上去...样的
+> (NCE3-34 P158-L17) an interesting-looking carved dagger 
+>
+### 构词法延申
+**形容词-doing** = 形容词
+`hard-working` 努力工作的
+`easy-going` 好相处的
 
 
 
 &emsp; 
 # 14. `She stood three feet high and her hands rested on her hips. She was wearing a full-length skirt which swept the ground.` 
 ## 14.1 The tower stands 15 meters (high). 
-weigh 
-The boy weighs 50 kilos. 
-measure 
-The carpet measures      
-5 meters long. 
-3 meters across. 
+### 14.1.1 stand
+`stand`在句中做系动词，`15 meters`做表语 
+### 14.1.2 仿写
+`weigh` 
+> The boy weighs 50 kilos. 
+> 
+`measure` 
+> The carpet measures 5 meters long/3 meters across. 
+> 
 ## Her hands rested on her hips. 
 > Her face rested on her hands. 
 > 
+## 14.2 She was wearing a full-length skirt which swept the ground.
+用进行时可以让读者身临其境。如何亲眼看到她穿着这件裙子
 
-                  
+
+
+&emsp;        
 # 15. `Despite her great age, she was very graceful indeed, but, so far, the archaeologists have been unable to discover her identity. `
- despite    in spite of 
-notwithstanding 
-though         although                 
-even though    while                  
-in spite of the fact that … 
-despite the fact that … 
-> (NCE3-52 P236-L2) Despite the fact that the bottle is tinted a delicate shade of green, an observant visitor would soon notice that it is filled with what looks like a thick, grayish substance. 
+## 15.1 despite
+### 15.1.1 释义
+表示让步的**介词**，**后面接名词**作宾语
+> prep.尽管；即使；尽管(自己)不愿意
+> n.恶意；侮辱；怨恨；轻蔑
+> 
+### 15.1.2 同义替换 
+`despite`    `in spite of`  `notwithstanding` 
+上面三个都是介词
+
+### 15.1.3 如何要引导让步状语从句，应该怎么做？
+应该用表让步的连词：
+> `though `        `although`                 
+> `even though`    `while` 
 > 
 
- 如何写出引人入胜的叙事类文章？ 
-制造悬念(有趣发现)→层层深入,迫近主题(古城→庙宇→殿堂→神像)→揭示谜底,故事高潮
-(身首异处,摩登女郎)→尾声,意犹未尽(身份未知)
+### 15.1.4 把介词变成连词，以便后面接从句，应该怎么做？
+`in spite of the fact that … `
+`despite the fact that … `
+> (NCE3-52 P236-L2) **Despite the fact that** the bottle is tinted a delicate shade of green, an observant visitor would soon notice that it is filled with what looks like a thick, grayish substance. 
+> 
+
+# 16. 如何写出引人入胜的叙事类文章？ 
+制造悬念(有趣发现)→层层深入,迫近主题(古城→庙宇→殿堂→神像)→揭示谜底,故事高潮(身首异处,摩登女郎)→尾声,意犹未尽(身份未知)
