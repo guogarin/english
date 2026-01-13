@@ -353,12 +353,16 @@ These days, people who work in the entertainment field often receive far more mo
 &emsp; 
 # 2. `People who work in offices are frequently referred to as ‘white-collar workers’ for the simple reason that they usually wear a collar and tie to go to work.`
 ## 2.1 句子分析
-People who work in offices are frequently referred to as ‘white-collar workers’ for the simple reason that they usually wear a collar and tie to go to work.
-anadiplosis 顶真；连珠
-一生二 二生三 三生万物
-地法天 天法道 道法自然
-天下文章数三江 三江文章数鄙乡
-鄙乡文章数进士 进士跟我学文章
+### 2.1.1 语法分析
+People <span style="color:blue; ">who work in offices</span> are frequently referred to as ‘white-collar workers’ <u>for the simple reason <span style="color:blue; ">that they usually wear a collar and tie to go to work</span></u>.
+### 2.1.2 为什么文中第一句和第二句都出现了`People who work in offices`?
+这是一种修辞手法，叫 `anadiplosis`/ænædɪp'loʊsɪs/顶真；连珠，如：
+>
+> 一生二 二生三 三生万物 
+> 地法天 天法道 道法自然
+> 天下文章数三江 三江文章数鄙乡
+> 鄙乡文章数进士 进士跟我学文章
+> 
 > Our grief has turned to anger, and anger to resolution.
 > 
 > For glances beget ogles, ogles sighs, sighs wishes, wishes words, and words a letter.
@@ -368,6 +372,7 @@ anadiplosis 顶真；连珠
 > if you love it, you can enjoy it;
 > if you enjoy it, you can make it.
 > 
+
 ## 2.2 refer to …
 提到……; 谈及……
 = mention … / speak of …

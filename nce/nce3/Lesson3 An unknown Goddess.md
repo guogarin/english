@@ -226,7 +226,7 @@ The novel may become a modern classic.
 > 
 
 
-### ### 0.5.3 几组`ic` 和 `ical`的对比
+### 0.5.3 几组`ic` 和 `ical`的对比
 `electric`  `electrical`   
 an electric light / razor 
 electrical failure 
