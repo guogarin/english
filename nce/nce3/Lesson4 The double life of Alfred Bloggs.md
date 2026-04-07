@@ -362,7 +362,8 @@ People <span style="color:blue; ">who work in offices</span> are frequently refe
 > 地法天 天法道 道法自然
 > 天下文章数三江 三江文章数鄙乡
 > 鄙乡文章数进士 进士跟我学文章
-> 
+>
+**小布什**
 > Our grief has turned to anger, and anger to resolution.
 > 
 > For glances beget ogles, ogles sighs, sighs wishes, wishes words, and words a letter.
@@ -371,11 +372,11 @@ People <span style="color:blue; ">who work in offices</span> are frequently refe
 > if you do it, you can love it;
 > if you love it, you can enjoy it;
 > if you enjoy it, you can make it.
-> 
+> 在·
 
 ## 2.2 refer to …
 提到……; 谈及……
-= mention … / speak of …
+= `mention …` / `speak of …`
 > Please don’t refer to this matter again.
 > 
 `refer to A as B`
@@ -383,28 +384,35 @@ People <span style="color:blue; ">who work in offices</span> are frequently refe
 > … and others will call him ‘Mr. Bloggs’, not Alf.
 > 
 `address A as B`
+将A称之为B
+> 老友记中Rose和Elizabeth的爸爸见面的场景：
 > Elizabeth: This is my father, Paul Stevens. Dad, this is Ross Geller.
 > Ross: It’s great to meet you Paul.
 > Paul: I usually prefer Elizabeth’s boyfriends to address me as Mr. Stevens.
 > Ross: Of course, of course, Mr. Stevens. 
 > 
 `know A as B`
-> (NCE3-14 P66-L10) He soon made a name for himself and came to be known to the Italians as Giovanni Acuto.
+这个词语在一般用被动语态：`A be known as B`
+> (NCE3-14 P66-L10) He soon made a name for himself and came to **be known** to the Italians **as** Giovanni Acuto.
 > 
-> (NCE3-21 P106-L3) Because of this, they were known as ‘prizefighters’. 
-> (NCE3-31 P146-L8) He was known to us all as Dickie and his eccentricity had become legendary long before he died.
+> (NCE3-21 P106-L3) Because of this, they **were known as** ‘prizefighters’. 
+> 
+> (NCE3-31 P146-L8) He **was known** to us all **as** Dickie and his eccentricity had become legendary long before he died.
 > 
 ## 2.3 for the simple reason that 
-`simply because …`
-介词+名词+同位语从句=普通从属连词
+这个短语可以简单的替换为：`simply because …`，但此处用`for the simple reason that`会显得更庄严正式
+介词(for) + 名词(the simple reason) + 同位语从句(that从句) = 普通从属连词(because)，即 `for the simple reason that` = `because`。
+再比如说：
 `for the reason that …`
 `because of the fact that …`
 `due to the fact that …`
 `on account of the fact that …`
 = `because …`
+
 `in spite of the fact that …`
-`despite the fact that …`= `although …`
-> (NCE3-52 P236-L2) Despite the fact that the bottle is tinted a delicate shade of green, an observant visitor would soon notice that it is filled with what looks like a thick, grayish substance.
+`despite the fact that …`
+= `although …`
+> (NCE3-52 P236-L2) **Despite the fact that** the bottle is tinted a delicate shade of green, an observant visitor would soon notice that it is filled with what looks like a thick, grayish substance.
 > 
 ## 2.4 造句：大熊猫常常被称为活化石 (living fossil)，只不过因为它们在世界上已经生存了两亿多年了。
 Giant pandas are frequently referred to as ‘living fossils’ for the simple reason that they have lived on earth for over 200 million years.
@@ -551,7 +559,7 @@ Suit
 > fellow actors
 > fellow students
 > fellow citizens
-> fellow Chinese / Americans …
+> fellow Chinese /  …
 > 
 > (NCE3-22 P110-L14) The gaoler looked on eagerly, anxious to see if his fellow actor had at last learnt his lines.
 >
