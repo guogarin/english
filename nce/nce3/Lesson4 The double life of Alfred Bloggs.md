@@ -425,35 +425,50 @@ Giant pandas are frequently referred to as ‘living fossils’ for the simple r
 # 3. Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers.
 ## 3.1 句子分析
 Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers.
-## 3.2 nature n. 本性、天性
+> `Such is human nature`是倒装，原本的语序应该是`human nature is Such`
+> 
+> `for the privilege`是目的状语从句，`of becoming white-collar workers`是`privilege`的同位语
+> 
+
+## 3.2 nature 
+n. 本性、天性
 > Excuse me, nature calls.
+> 不好意思，我要方便下。
+> 
 > He is kind by nature.
 > 
-`Such is human nature that …`
-`It is human nature that …`
+> 
+## 3.3 `Such is human nature that …`
+它的意思等同于`It is human nature that …`，但`Such is...`的强调意味更强
 > Such is human nature that we all love to get something for nothing.
 > 
 > Such is human nature that we don’t treasure what we have until we lose it.
-> 
+>
+**如果不想倒装，可以这么写：**
 > Human nature is such that a great many people …
+>
+示例如下：
+> (NCE3-27 P130-L9) **The conditions of society are such that** skills have to be paid for in the same way that goods are paid for at a shop.
 > 
-> (NCE3-27 P130-L9) The conditions of society are such that skills have to be paid for in the same way that goods are paid for at a shop.
-> 
-> Such are the conditions of society that skills have to be paid for in the same way that goods are paid for at a shop.
+> **Such are the conditions of society that** skills have to be paid for in the same way that goods are paid for at a shop.
 > 
 
-## 3.3 be willing to do 
-> (NCE3-28 P134-L17) I shook my head and held up five fingers indicating that I was willing to pay ￡5.
-> 
+## 3.4 be willing to do 
+乐意做某事
+> (NCE3-28 P134-L17) I shook my head and held up five fingers indicating that I **was willing to** pay ￡5.
+>
+### 同义替换
 `be ready to do`
-> If your order is large enough we are ready to reduce our prices by 5%. 
+> If your order is large enough we **are ready to** reduce our prices by 5%. 
 > 
 `be prepared to do` 
-> (NCE3-41 P192-L14) Why people are prepared to tolerate a four-hour journey each day for the dubious privilege of living in the country is beyond me.
+乐意做某事
+> (NCE3-41 P192-L14) Why people **are prepared to** tolerate a four-hour journey each day for the dubious privilege of living in the country is beyond me.
 > 
-## 3.4 for the privilege of …
-> (NCE3-41 P192-L14) Why people are prepared to tolerate a four-hour journey each day for the dubious privilege of living in the country is beyond me.
-> s
+## 3.5 for the privilege of …
+为了...的好处，`of`在这里的作用是引出`privilege`的同位语
+> (NCE3-41 P192-L14) Why people are prepared to tolerate a four-hour journey each day **for the dubious privilege of** living in the country is beyond me.
+> 
 
 
 
@@ -463,6 +478,7 @@ Such is human nature, that a great many people are often willing to sacrifice hi
 # 4. `This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.`
 ## 4.1 句子分析
 This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.
+
 ## 4.2 give rise to sth. 
 (fml.) 导致……
 > The president’s absence gave rise to speculations about his health.
@@ -472,6 +488,7 @@ This can give rise to curious situations, as it did in the case of Alfred Bloggs
 
 ## 4.3 观点+例证
 `….（观点）, as it did/does in the case of … who …`
+本文写的很漂亮，如果写成下面这样就太普通了:
 > This can cause curious situations. Alfred Bloggs was an example. He worked …
 > 
 
@@ -485,25 +502,27 @@ Stress can give rise to mental diseases, as it did in the case of Mike Johnson w
 
 &emsp; 
 # 5. `When he got married, Alf was too embarrassed to say anything to his wife about his job.`
-
-## 5.1 get married marry sb.
+## 5.1 `get married` marry sb.
+`get married`强调的是从未婚的身份到已婚的转变
 be married to sb.
-The girl was married to me.
-The girl was engaged to me.
-
+> The girl **was married to** me.
+> The girl **was engaged to** me.
+> 
 
 
  
 
 &emsp; 
-# 6. `He simply told her that he worked for the orporation. Every morning, he left home dressed in a smart black suit. `
+# 6. `He simply told her that he worked for the orporation. Every morning, he left home dressed in a smart black suit.`
 ## 6.1 be (dressed) in …
+`dress`是 **给(某人)穿衣服**，所以要用被动 `be dressed in`
+另外，`dressed`是可以省略的，`be in`也可以表示同样的意思
 > He was (dressed) in a smart black suit.
 > 
 `sb. wear sth.`
 > He left home wearing a smart black suit.
 > 
-Suit
+Suit是西服套装，包括西服和西裤
 
 
 
@@ -511,25 +530,55 @@ Suit
 
 &emsp; 
 # 7. `He then changed into overalls and spent the next eight hours as a dustman.`
+## 7.1 change
+`change`本身就有 **换衣服** 的意思
+### `~ (into sth) | ~ (out of sth)` 
+换衣服；更（衣）
+> [单独使用的动词] I went into the bedroom to change.
+> 我走进卧室更衣。
+> 
+> She changed into her swimsuit.
+> 她换上了游泳衣。
+> 
+> You need to change out of those wet things.
+> 你该把那些湿衣服换掉。
+> 
+> [动词+名词短语]I didn't have time to get changed before the party (= to put different clothes on) .
+> 我没时间在聚会前更换衣服。
+> 
+> (especially 北美英语)I didn't have time to change clothes before the party.
+> 我没时间在聚会前更换衣服。
+> 
+[动词+名词短语] 换（床单等）
+> to change the sheets
+> 换床单
+> 
+> Could you help me change the bed?
+> 你帮我换一下床单好吗？
+> 
+
 > (A) Take a lot of money.
 > (B) Go to a different restaurant.
 > (C) Don't invite John.
 > √(D) Wear different clothes.
 > W: I'm taking John to that fancy new restaurant tonight.
+> 一般进行时在口语中经常会用来表达将来时的意思
 > M: You can't go like that. You'd better change.
 > Q: What does the man advise?
 > Answer: (D) Wear different clothes.
 >
 
-## 7.1 change (out of…) (into …)
-> You’d better change out of the red jacket into a blue one.
->
-
 ## 7.2 spend … on sth. / (in) doing
+`spend … on sth` 花费...在某事情上
+`spend … (in) doing` 花费...在做某事上
 > I spent a lot of money on food.
+> 
 > I spent a lot of time on homework.
+> 
 > I spent a lot of time (in) learning English.
+> 
 > I spent my summer vacation in Hainan Province.
+> 
 > I treasured every minute I spent with your family.
 > 
 
@@ -538,15 +587,23 @@ Suit
 
 &emsp; 
 # 8. `Before returning home at night. He took a shower and changed back into his suit.`
-> (NCE3-6 P34-L7) After gazing at the display for several minutes, Mr. Taylor went back into his shop.
+`returning`是动名词形式，因为它跟在介词`before`后面
+动名词的时态和语态：
+|           |             |                  |
+| --------- | ----------- | ---------------- |
+| 时态\语态 | 主动        | 被动             |
+| 一般时    | doing       | being done       |
+| 完成时    | having done | having been done |
+
+> (NCE3-6 P34-L7) After **gazing** at the display for several minutes, Mr. Taylor went back into his shop.
 > 
-> (NCE3-10 P50-L9) Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a look-out.
+> (NCE3-10 P50-L9) Four days after **setting** out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a look-out.
 >
-> (NCE3-16 P74-L13) Ashamed of having acted so rashly, Dimitri apologized to Aleko for having accused him.
+> (NCE3-16 P74-L13) Ashamed of **having acted** so rashly, Dimitri apologized to Aleko **for having accused** him.
 >
-> (NCE3-40 P182-L21) Pretending to speak seriously, one of the workmen asked if he might make a telephone call before being taken to the station.
+> (NCE3-40 P182-L21) Pretending to speak seriously, one of the workmen asked if he might make a telephone call before **being taken** to the station.
 > 
-> (NCE3-36 P166-L18) After having been wounded towards the end of the war, he had been sent to hospital and was separated from his unit. 
+> (NCE3-36 P166-L18) After **having been wounded** towards the end of the war, he had been sent to hospital and was separated from his unit. 
 > 
 
 
@@ -556,19 +613,21 @@ Suit
 &emsp; 
 # 9. Alf did this for over two years and his fellow dustmen kept his secret.
 ## 9.1 fellow dustmen 
+fellow + 名词 表示 身份地位相同的人
 > fellow actors
 > fellow students
-> fellow citizens
-> fellow Chinese /  …
+> fellow citizens 同胞
+> fellow Chinese 中国同胞
 > 
-> (NCE3-22 P110-L14) The gaoler looked on eagerly, anxious to see if his fellow actor had at last learnt his lines.
+> (NCE3-22 P110-L14) The gaoler looked on eagerly, anxious to see if his **fellow actor** had at last learnt his lines.
 >
-> (NCE4-15 P87-L3) In so far as any inquiry is a secret one, it naturally limits all those engaged in carrying it out from effective contact with their fellow scientists either in other countries or in universities, or even, often enough, in other departments of the same firm.
+> (NCE4-15 P87-L3) In so far as any inquiry is a secret one, it naturally limits all those engaged in carrying it out from effective contact with their **fellow scientists** either in other countries or in universities, or even, often enough, in other departments of the same firm.
 >
-> (NCE4-33 P195-L8) We would lay less stress on 'facts and figures' and more on a good memory, on applied psychology, and on the capacity of a man to get along with his fellow citizens.
+> (NCE4-33 P195-L8) We would lay less stress on 'facts and figures' and more on a good memory, on applied psychology, and on the capacity of a man to get along with his **fellow citizens**.
 >
-> And so, my fellow Americans, ask not what your country can do for you; ask what you can do for your country.  — John F. Kennedy
+> And so, my **fellow Americans**, ask not what your country can do for you; ask what you can do for your country.  — John F. Kennedy
 > 
+## 9.2 同事的其他表达
 `workmate` `colleague` `associate`
 > (NCE3-22 P110-L10) One night, the gaoler decided to play a joke on his colleague to find out if, after so many performances, he had managed to learn the contents of the letter by heart.
 > 
@@ -581,25 +640,37 @@ Suit
 # 10. `Alf's wife has never discovered that she married a dustman and she never will, for Alf has just found another job.` 
 ## 10.1 句子分析
 Alf's wife has never discovered that she married a dustman and she never will, for Alf has just found another job. 
+`Alf's wife`是主语
+`that she married a dustman`是`discovered`的宾语
+`and she never will`是并列句
+`for Alf has just found another job`是原因状语从句
 
-我过去是，现在是，将来也会是你的朋友。
-I was, am and will be your friend.
-
+> 我过去是，现在是，将来也会是你的朋友。
+> I was, am and will be your friend.
+> 
 
 
  
 
 &emsp; 
 # 11. `He will soon be working in an office. He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money.`
-## 11.1 will be doing 表达一种可预见性
-Professor Wang will be taking charge of our department next Monday.
-He will be earning only half as much as he used to, but he feels that his rise in 
-status is well worth the loss of money. 
-He will be earning only half as much as he used to (earn), …
-## 11.2  英语中表达倍数的三种方式
+## 11.1 will be doing 
+将来进行时`will be doing`表达一种可预见性
+> Professor Wang will be taking charge of our department next Monday.
+>
+
+
+
+
+ 
+
+&emsp; 
+# 12 He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money. 
+## 12.1  英语中表达倍数的三种方式
 `① A is … times as … as B`
-`② A is … times the amount (the number, the size, the length, the width/breadth, the height, the value, the price …) of B`
+`② A is … times the amount(number, size, length, width/breadth, height, value, price …) of B`
 `③ A is … times 比较级 than B`
+
 他的工资是我的三倍。
 > His salary is three times as much as mine.
 > His salary is three times the amount of mine.
@@ -610,25 +681,45 @@ He will be earning only half as much as he used to (earn), …
 > The box is four times the size of that one.
 > The box is three times bigger than that one.
 > 
-## 11.3 be worth sth.
- doing
-be worthy of sth.
- to do / to be done
-The matter is worth consideration.
- considering.
- 
-The matter is worthy of consideration.
- to be considered.
-The day when Beijing won the right to host the 2008 Olympic Games is worth being celebrated. X 
-The day when Beijing won the right to host the 2008 Olympic Games is worth 
-celebration / celebrating. √
-The day when Beijing won the right to host the 2008 Olympic Games is worthy of 
-新东方专属讲义
-celebration / to be celebrated. √
 
+## 12.2 well
+well做副词有：
+adv 很；相当；大大地；远远地
+> He was driving at well over the speed limit.
+> 他当时开车的速度远远超过了限制。
+> 
+> a well-loved tale
+> 深受喜爱的故事
+> 
+> The castle is well worth a visit.
+> 这座城堡很值得参观。
+> 
+
+## 12.3 worth 和 worthy
+**worth**
+> be worth sth
+> be worth doing
+> 
+**worthy**
+> be worthy of sth
+> be worthy  to do(被动语态为to be done)
+> 
+例句
+> The matter is worth consideration(considering).
+>
+> The matter is worthy of consideration(to be considered.)
+> 
+改错题：
+> The day when Beijing won the right to host the 2008 Olympic Games is worth being celebrated. X 
+> 
+> The day when Beijing won the right to host the 2008 Olympic Games is worth celebration / celebrating. √
+> 
+> The day when Beijing won the right to host the 2008 Olympic Games is worthy of celebration / to be celebrated. √
+> 
+> 
 
 
  
 
 &emsp; 
-# 12. `From now on, he will wear a suit all day and others will call him 'Mr. Bloggs', not 'Alf'.`
+# 13. `From now on, he will wear a suit all day and others will call him 'Mr. Bloggs', not 'Alf'.`
