@@ -9,24 +9,40 @@
 # 0. 单词讲解
 ## 0.1. editor ['edɪtə (r)] 
 n. 编辑 
-`editor of …`
+### editor 的介词搭配
+`editor`和`of`搭配，**表示...的编辑**
 > the editor of the Washington Post
 > 
 > (NCE3-5 P30-L1) editors of newspapers and magazines 
 > 
+`editor`和`in`搭配，表示 **编辑的职位**，比如主编是：
 > chief editor = editor in chief
-> 
+>
+## 同根词
+### 动词
 `edit`
 > Janet edited books for a variety of publishers.
 > 
+### 版本
 `edition` 
 > a paperback / hard-cover / de luxe edition
+> 平装版（简装版） / 硬装版（精装版） / 豪装版
+> 
 > the first edition 
+> 
 > a revised edition 
+> revised 修订的，顾名思义a revised edition 是**修订版**
 > 
 > in its sixth edition 
+> 第六版
 > 
-`editorial` 
+### 社论
+`editorial`/ˌedɪˈtɔːriəl/
+> n. (报刊的)社论；(美国电台或电视台的)评论
+> adj. 编辑的；主编的；编者的
+> 
+值得注意的是，英式英语中，`leader`表示社论。
+
 > (A) At a book store.
 > (B) At an art museum.
 > √(C) At a newspaper office.
@@ -46,19 +62,36 @@ n. 编辑
 > Answer: (C) Reading the newspaper.
 > 
 
-## 0.2 extreme 
-[ɪk'stri:m] n. 极端 
-`go to extremes`
+## 0.2 extreme [ɪk'stri:m]
+### noun
+n. 极端 
+#### `go to extremes`
+ 走极端; 使…至极端
 > (NCE3-5 P30-L1) Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics.
 > 
 > (NCE3-56 P252-L14) This is a rare occurrence as our climate seldom goes to extremes. 
-> s
-
-`extreme adj.`
+> 
+### adj
+（表示程度）及其的
 > Extreme poverty still exists in many rural areas.
+> 
 > Force is only justified in extreme circumstances.
 > 
-`extremely` adv.
+> 
+> extreme left-wing/right-wing views
+> 极左 / 极右观点
+> 
+[only before noun] 远离中心的；末端的；尽头的
+> Kerry is in the extreme west of Ireland.
+> 凯里位于爱尔兰的最西端。
+> 
+> She sat on the extreme edge of her seat.
+> 她坐在座位最边上。
+> 
+
+### `extremely` 
+adv.极其；非常；极端
+`extremely` 作为程度副词，程度比`very`高
 > be extremely difficult / important / useful / complicated / pleased / grateful …
 > 
 > (NCE3-27 P130-L4) Though it may be possible to measure the value of material goods in terms of money, it is extremely difficult to estimate the true value of the services which people perform for us.
@@ -66,57 +99,92 @@ n. 编辑
 > (NCE3-46 P212-L24) But I was extremely pleased with myself. I had traced the cause of the trouble.
 > 
 
-## 0.3 journalist ['dʒɜ:nə lɪst] n. 记者 
-`reporter` `columnist` `correspondent`
+## 0.3 journalist ['dʒɜ:nə lɪst] 
+|                 |                                                                                                                                    |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| `journalist`    | 指在报纸、杂志上撰写文章，或者在广播或电视中进行播送的人。这个词更多地指的是进行深度调查和分析，通常需要进行调查和故事叙述的记者。 |
+| `reporter`      | Reporter是指一种职业，该职业涉及在报纸、杂志、广播、电视等媒体上采访和报道新闻，并对其进行解释。                                   |
+| `columnist`     | 专栏记者，专栏作家                                                                                                                 |
+| `correspondent` | 驻外记者                                                                                                                           |
 > our Middle East correspondent
 > 
 > Our correspondent in South Africa sent this report.
 > 
-> a war / sports / education / political correspondent `journalism`
+> a war / sports / education / political correspondent 
+> 
+
+### `journalism`
+n. 新闻业；新闻工作；新闻学
 > a career in journalism
 > 
 > I plan to study journalism at college.
 >
-> I see under “activities” that you’ve been writing for the school paper. Yes, sir.
-> What kinds of articles have you written? All inds―sports, editorials, theater reviews. You name it, I’ve written it. Hmmm. Well, have you ever thought of becoming a journalist? A professional writer? Not until recently. Michigan has a fine School of Journalism. Yes, I know that. You seem to have some reservations. I'm a little uncertain.
+
+> I see under “activities” that you’ve been writing for the school paper. 
+> Yes, sir.
+> 
+> What kinds of articles have you written? 
+> All kinds ― sports, editorials, theater reviews. You name it, I’ve written it. 
+> 
+> Hmmm. Well, have you ever thought of becoming a journalist? 
+> A professional writer? Not until recently. 
+> 
+> Michigan has a fine School of Journalism. 
+> Yes, I know that. You seem to have some reservations. 
+> 
+> I'm a little uncertain.
 > 
 
-## 0.4 publish ['pʌblɪʃ] v. 出版
+## 0.4 publish ['pʌblɪʃ] 
+v. 出版
 This book is published by Oxford University Press.
-`publisher`
-`publishing` 
+### `publisher`
+n. 出版商；出版人(或机构)；发行人(或机构)
+
+### `publishing` 
+n. 出版(业)；发行(业)
 > She chose publishing as a career. 
 > 
-`the press`
+
+### `the press`
+n. 新闻界/媒体
 > the freedom of the press
+> 新闻自由
 > 
 > (NCE3-45 P208-L1) In democratic countries any efforts to restrict the freedom of the press are rightly condemned.
 > 
-`go to press`
+
+### `go to press`
+开印
 > (NCE3-5 P30-L10) Meanwhile, the editor was getting mpatient, for the magazine would soon go to press.
 > 
-`pirate`
+### `pirate`
+v.  盗版
 > pirated CDs / books / software
 > 
 
 ## 0.5 fire ['faɪə (r)] 
 v. 解雇
+### 同义词
 `fire / dismiss sb. from …`
 > I've just been fired from my job, and I don't know what to do.
-> She claims she was unfairly dismissed from her post.
+> 
+> She claims she was unfairly dismissed from her post（岗位）.
+> 
 > (NCE3-49 P224-L29) The poor girl was dismissed instantly.
 > 
 `lose one’s job `
 > Many people won't complain about pay and conditions because they're terrified of losing their jobs.
 >
-`lay off`
+`lay off` （通常指因工作岗位不足而）辞退，解雇，使下岗
 > Millions of people have been laid off in the steel industry.
+> 
 > laid-off workers
 > 
-`suspend`
+`suspend` vt. 使暂时停职（或停学等）
 > The two police officers have been suspended until an enquiry is carried out.
 > 
-`depose`
+`depose` VERB 罢免，废黜(统治者或政治领导人)
 > King Charles I was deposed from the English throne in 1646.
 >
 
@@ -139,25 +207,42 @@ v. 解雇
 > Alfred Bloggs went to extremes to seek the privilege of becoming a white-collar worker. 
 > 
 
-## 1.2 provide sb. with sth.
-provide sth. for sb.
+## 1.2 provide 和 offer
+### 1.2.1 provide
+`provide sb. with sth.`
+`provide sth. for sb.`
+#### （1）为什么文中用的是`provide sb. with sth.`？
+因为`readers`比`unimportant facts and statistics`要短很多，英语中喜欢把短的放在前面，长的句子放在后面，因此用的是`provide sb. with sth.`
+#### （2） 例句
+可以看到的是，下面的例句也是把短句子放在前面：
 > (NCE3-41 P192-L17) If you can do without the few pastoral pleasures of the country, you will find the city can provide you with the best that life can offer.
 > 
 > Colleges provide accommodation for all first-year undergraduate students.
 > 
+### 1.2.2 offer
 `offer sb. sth.`
 `offer sth. to sb.`
+**这两个搭配用哪个？**
+和`provide`一样，把短句放在前面：
 > They offered him a very good job, but he turned it down.
 > The drama school offers places to students who can show talent.
 >
 
 ## 1.3 facts and statistics
-f`ruit and vegetables`
-fur and feather / birds and beasts
-bed and board / food and shelter
-food, shelter, clothing and transportation
+对于两个并列结构，英语也是习惯把短的放在前面：
+`fruit and vegetables` 注意fruit是单数
+> fur and feather / birds and beasts
+> 飞禽走兽
+> 
+> bed and board / food and shelter
+> 食宿 
+> board作名词有**伙食，膳食**的意思，动词有 **（在学校）寄宿**的意思
+> 
+> food, shelter, clothing and transportation
+> 衣食住行
+> 
 
-### 造句：某些网站常常过份地给访问者提供令人眼花缭乱的大量的信息。
+## 1.4 造句：某些网站常常过份地给访问者提供令人眼花缭乱的大量的信息。
 > (NCE3-38 P174-L5) Films, videos, CDs and CD-ROMS are just some of the bewildering amount of information they will have.
 > 
 > Some websites often go to extremes to provide their visitors with a bewildering amount of information. 
@@ -168,14 +253,19 @@ food, shelter, clothing and transportation
 &emsp; 
 # 2. `Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic.`
 ## 2.1 instruct sb. in sth. 
-I instruct a class in history. instructor
-instruct / direct sb. to do
+`instruct`本身的意思是`teach`，即**传授（技能等）**：
+> I instruct a class in history. 
+> 
+`instruct`的一个派生意思是**命令；吩咐**某人做某事：
+> `instruct/direct sb. to do` 命令某人做某事
+> 
+例句：
+> I have been **instructed** by the company to offer you a refund.
+> 
+> The judge **directed** the defendant to remain silent.
+> 
+文中用被动语态`a journalist had been instructed by...`突出这记者
 
-> I have been instructed by the company to offer you a refund.
-> 
-> The judge directed the defendant to remain silent.
-> 
-> Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic. 
 > 
 > (NCE3-3 P22-L1) Some time ago, an interesting discovery was made by archaeologists on the Aegean island of Kea.
 > 
