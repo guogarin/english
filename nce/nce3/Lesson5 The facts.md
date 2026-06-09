@@ -230,7 +230,7 @@ v. 解雇
 
 ## 1.3 facts and statistics
 对于两个并列结构，英语也是习惯把短的放在前面：
-`fruit and vegetables` 注意fruit是单数
+`fruit and vegetables` 注意`fruit`是单数
 > fur and feather / birds and beasts
 > 飞禽走兽
 > 
@@ -252,29 +252,29 @@ v. 解雇
 
 &emsp; 
 # 2. `Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic.`
-## 2.1 instruct sb. in sth. 
+## 2.1 instruct
+### 2.1.1 instruct sb. in sth. 
 `instruct`本身的意思是`teach`，即**传授（技能等）**：
 > I instruct a class in history. 
 > 
+### 2.1.2 `instruct/direct sb. to do`
 `instruct`的一个派生意思是**命令；吩咐**某人做某事：
-> `instruct/direct sb. to do` 命令某人做某事
-> 
+`instruct/direct sb. to do` 命令某人做某事
 例句：
 > I have been **instructed** by the company to offer you a refund.
 > 
 > The judge **directed** the defendant to remain silent.
 > 
-文中用被动语态`a journalist had been instructed by...`突出这记者
-
+文中用被动语态`a journalist had been instructed by...`突出动作的承受者（这里是这个记者），新概念中用被动语态突出主人公的用法很多，比如：
+> (NCE3-3 P22-L1) Some time ago, an interesting discovery **was made** by archaeologists on the Aegean island of Kea.
 > 
-> (NCE3-3 P22-L1) Some time ago, an interesting discovery was made by archaeologists on the Aegean island of Kea.
-> 
-> (NCE3-10 P50-L9) Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a look-out.
+> (NCE3-10 P50-L9) Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg **was suddenly spotted by** a look-out.
+> 此处突出的是冰山，而谁发现了冰山不重要。
 > 
 > (NCE3-32 P150-L3) A radio message from the mainland had been received by the ship's captain instructing him to give up the search.
 > 
 ## 2.2 article on / about sth. (by sb.)
-> an article on / about education by Mr. Smith
+> an article on/about education by Mr. Smith
 > 
 
 
@@ -282,11 +282,11 @@ v. 解雇
 &emsp; 
 # 3. `When the article arrived, the editor read the first sentence and then refused to publish it.`
 ## 3.1 无灵主语
-> The card arrived on my birthday.
+> The card **arrived** on my birthday.
 > 
-> A letter came for you this morning.
+> A letter **came** for you this morning.
 > 
-> (NCE3-1 P14-L1) When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously.
+> (NCE3-1 P14-L1) When reports **came** into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously.
 > 
 
 ## 3.2 造句：当 Jane 收到信时，读完第一句话就哭了。
@@ -300,25 +300,46 @@ v. 解雇
 ## 4.1 句子成分
 The article began: 'Hundreds of steps lead to the high wall which surrounds the president's palace'.
 
-## 4.2  dozens of / scores of / hundreds of / thousands of / millions of + 复数名词
-tens of thousands of / hundreds of thousands of + 复数名词thousands upon thousands of + 复数名词
+## 4.2 hundreds of
+数以百计的
+> dozens of
+> scores of (score作为量词表示20)
+> hundreds of 
+> thousands of 
+> millions of 
+> `+` 复数名词
+> = 数以...记的
+> 
+> tens of thousands of 
+> hundreds of thousands of 
+> `+` 复数名词
+> 
+> thousands upon thousands of 
+> `+` 复数名词
+> 成千上万的
+> 
+**注意，上面的两次都是复数形式！**
+
 
 ## 4.3 lead to …
-> All roads lead to Rome.
+(1) 通往...
+> All roads **lead to** Rome.
 > 
-> (NCE3-48 P220-L18) The path led to a tiny village perched on the steep sides of a mountain.
-> 
-> (NCE3-33 P154-L19) This led to yet another angry argument.
+> (NCE3-48 P220-L18) The path **led to** a tiny village perched on the steep sides of a mountain.
+>
+(2) 导致...
+> (NCE3-33 P154-L19) This **led to** yet another angry argument.
 > 
 
 ## 4.4 surround
-> (NCE3-46 P212-L30) Needless to say our house is now surrounded by a jungle.
+v. 包围；环绕
+> (NCE3-46 P212-L30) Needless to say our house is now **surrounded** by a jungle.
 > 
-> (NCE3-48 P220-L23) Looking up I saw that we were surrounded by children in rags who were looking at us silently as we ate.
+> (NCE3-48 P220-L23) Looking up I saw that we were **surrounded** by children in rags who were looking at us silently as we ate.
 > 
 
-### surrounding
-> (NCE2-62 P284-L4) Winter was coming on and the hills threatened the surrounding villages with destruction, for heavy rain would not only wash away the soil but would cause serious floods as well.
+### 派生词： `surrounding`
+> (NCE2-62 P284-L4) Winter was coming on and the hills threatened the **surrounding** villages with destruction, for heavy rain would not only wash away the soil but would cause serious floods as well.
 >
 
 
@@ -326,10 +347,11 @@ tens of thousands of / hundreds of thousands of + 复数名词thousands upon tho
 &emsp; 
 # 5. `The editor at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall.`
 ## 5.1 句型分析
-The editor at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall. 
+`The editor`（主语） at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall. 
 ## 5.2 send sb. a fax / a letter / an email / a card  
 get / receive a fax / a letter / an email / a card from … 
- find out: get information 
+
+## 5.3  find out: get information 
 > (NCE3-13 P62-L8) She wanted to find out whether it would be comfortable to wear. 
 > 
 > (NCE3-22 P110-L10) One night, the gaoler decided to play a joke on his colleague to find out if, after so many performances, he had managed to learn the contents of the letter by heart. 

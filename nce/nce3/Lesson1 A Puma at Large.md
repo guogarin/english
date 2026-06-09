@@ -310,7 +310,7 @@ suspect的发音问题：
 > (NCE3-29 P138-L9) However, a new type of humor, which stems largely from the US, has recently **come into** fashion.（这里是a new type of humor作主语）
 > (NCE3-34 P158-L15) The dealer told him that it had just come in, but that he could not be bothered to open it.(这里是it作主语，在原文中it指代的也是物)
 > 
-上面这种五做主语被称为 **无灵主语 / 物称主语(inanimate subject)**，在写作中，用物作主语，而不是人做主语会显得你表达更地道，比如用英语造句 “我想到了一个好主意”：
+上面这种物做主语（而非人）被称为 **无灵主语 / 物称主语(inanimate subject)**，在写作中，用物作主语，而不是人做主语会显得你表达更地道，比如用英语造句 “我想到了一个好主意”：
 > 人作主语：`I thought of a good idea.`
 > 物主语：`A good idea came into my mind.`
 > 物主语：`A good idea flashed into my mind.`
