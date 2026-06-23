@@ -349,15 +349,19 @@ v. 包围；环绕
 ## 5.1 句型分析
 `The editor`（主语） at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall. 
 ## 5.2 send sb. a fax / a letter / an email / a card  
-get / receive a fax / a letter / an email / a card from … 
+get（口语）/receive（书面语） a fax / a letter / an email / a card from … 
 
-## 5.3  find out: get information 
-> (NCE3-13 P62-L8) She wanted to find out whether it would be comfortable to wear. 
+## 5.3  `find out` 和 `find`
+### 5.3.1 `find out`
+`find out` = get information，是找到一个抽象的信息或情报，而不是具体的一个东西（比如一把钥匙）
+> (NCE3-13 P62-L8) She wanted to **find out** whether it would be comfortable to wear. 
 > 
-> (NCE3-22 P110-L10) One night, the gaoler decided to play a joke on his colleague to find out if, after so many performances, he had managed to learn the contents of the letter by heart. 
+> (NCE3-22 P110-L10) One night, the gaoler decided to play a joke on his colleague to **find out** if, after so many performances, he had managed to learn the contents of the letter by heart. 
 > 
-`find `
-> (NCE3-15 P70-L12) He could not find his fifty pence piece anywhere, and what is more, he could not get his arm out. 
+
+### 5.3.2 `find`
+`find`是找到一个具体的东西，比如一把钥匙，一只走失的猫等等。
+> (NCE3-15 P70-L12) He could not **find** his fifty pence piece anywhere, and what is more, he could not get his arm out. 
 > 
 > (A) The train will be overheated when it arrives. 
 > (B) It is too hot to wait any longer. 
@@ -372,29 +376,40 @@ get / receive a fax / a letter / an email / a card from …
 
 &emsp; 
 # 6. `The journalist immediately set out to obtain these important facts, but he took a long time to send them.` 
-## set out:` to start a journey, especially a long journey` 
-> (NCE3-25 P122-L8) Both these ships set out from Shanghai on June 18th, 1872 on an exciting race to England. 
-> (NCE3-10 P50-L9) Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a look-out. 
+## 6.1 `set out` 和 `set out to do sth.`
+## 6.1.1 `set out`
+`set out`:` to start a journey, especially a long journey`=出发 
+> (NCE3-25 P122-L8) Both these ships **set out** from Shanghai on June 18th, 1872 on an exciting race to England. 
 > 
-## set out to do sth. `begin a job, task, etc with a particular aim or goal `
-> (NCE3-16 P74-L8) Dimitri at once set out to find the thief. 
+> (NCE3-10 P50-L9) Four days after **setting out**, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a look-out. 
 > 
-> (NCE3-31 P146-L1) True eccentrics never deliberately set out to draw attention to themselves.
+### 6.1.2 `set out to do sth.`
+`set out to do sth.` : `begin a job, task, etc with a particular aim or goal`带着目的开始一项工作或任务
+> (NCE3-16 P74-L8) Dimitri at once **set out to** find the thief. 
 > 
-> (NCE2-50 P236-L2) I went on an excursion recently, but my trip took me longer than I expected. 
+> (NCE3-31 P146-L1) True eccentrics never deliberately **set out to** draw attention to themselves.
+>
+## 6.2 take 和 spend 在表示“花费”
+用`take`表示“花费”时，既可以人当主语，也可以事物当主语
+> (NCE2-50 P236-L2) I went on an excursion recently, but my trip **took** me longer than I expected. 
+> 事物做主语
 > 
-> (NCE3-44 P204-L15) Even if you travel in ideal weather, sea journeys take a long time. 
+> (NCE3-44 P204-L15) Even if you travel in ideal weather, sea journeys **take** a long time. 
+> 事物做主语
 > 
-> (NCE3-28 P134-L13) It took me over half an hour to get rid of him. 
+> (NCE3-28 P134-L13) It **took** me over half an hour to get rid of him. 
+> it做主语
 > 
-> I took just ten minutes to solve that problem. 
+> I **took** just ten minutes to solve that problem. 
+> 人做主语
 > 
-> He always takes so long to eat his breakfast. 
+> He always **takes** so long to eat his breakfast. 
+> 人做主语
 > 
 `spend … on sth. / (in) doing sth`. 
-> (NCE3-50 P228-L25) I argued that if I spent less time exhausting myself at exercises in the morning I would keep my mind fresh for reading when I got home from work. 
+> (NCE3-50 P228-L25) I argued that if I **spent** less time **exhausting** myself at exercises in the morning I would keep my mind fresh for reading when I got home from work. 
 > 
-> (NCE4-39 P228-L4) One, to my certain knowledge, spent nine months on a novel about Kashmir, then reset the whole thing in the Scottish Highlands. 
+> (NCE4-39 P228-L4) One, to my certain knowledge, **spent** nine months **on** a novel about Kashmir, then reset the whole thing in the Scottish Highlands. 
 > 
 
 ## 造句：这位秘书立刻着手核实 (verify) 这些重要的事实，但是她花了很长时间才完成。 
@@ -403,51 +418,80 @@ The secretary immediately set out to verify these important facts, but she took 
 
 
 &emsp; 
-# 7. `Meanwhile, the editor was getting impatient, for the magazine would soon go to press. `
-## 7.1  meanwhile     
-at the same time    
-(in the) meantime 
+# 7. `Meanwhile, the editor was getting impatient, for the magazine would soon go to press.`
+## 7.1  meanwhile
+adv.同时；与此同时；其间；(比较两方面)对比之下
+### 同义词     
+`at the same time `   
+`(in the) meantime ` 因为`meantime`既可以作名词也可以作副词：
+> adv. 同时；在…期间 n. 其时；中间的时间
+>
+所以既可以单独用：`meantime`，也可以和`in the`一起用：`in the meantime`
 > I continued working. Meantime, he went out shopping. 
 > 
-> (NCE3-33 P154-L19) It took the police nearly an hour to get the traffic on the move again. In the meantime, the lorry-driver had to sweep up hundreds of broken bottles. 
+> (NCE3-33 P154-L19) It took the police nearly an hour to get the traffic on the move again. **In the meantime**, the lorry-driver had to sweep up hundreds of broken bottles. 
 > 
 
 
 
 &emsp; 
 # 8. He sent the journalist two more faxes, but received no reply.  
-##  two more
-one more … = another … 
-two more … = another two … 
+## two more
+`one more` … = `another …`
+`two more` … = `another two …`
 > In another two weeks it'll be finished. 
 > = In two more weeks it'll be finished. 
 > 
 
 
+
 &emsp; 
 # 9. `He sent yet another fax informing the journalist that if he did not reply soon he would be fired.` 
 ## 9.1 句子分析
-`He sent yet another fax informing the journalist that if he did not reply soon he would be fired.` 
-## 9.2 yet
-yet / still one more / another / bigger … 
+`He sent yet another fax`：句子的主干股份
+下面三个都是后置定语从句：
+`informing the journalist that` 宾语从句
+`if he did not reply soon` ：条件状语从句
+`he would be fired.` 
+## 9.2 yet another
+**‌单词拆解‌**：`yet` 是副词表示"还、再、又"，`another` 表示"另一个"，合起来强调额外增加。
+**‌词性用法‌**：通常作副词使用，表示"还有另一个"。
+**‌语气特点‌**：常带有重复出现或出乎意料的意味，暗示这种情况已经不是第一次发生了。‌‌‌
+
+### yet 和 still
+在文中`yet`的作用是 加强语气，`still`也可以起同样的作用：
+`yet one more`  `yet another` / `yet bigger` … 
+`still one more` / `still another` / `still bigger` … 
 > (NCE3-33 P154-L19) This led to yet another angry argument. 
 > 
-yet / still one more example 
-> He's given us yet / still more work to do. 
+`yet one more example` `still one more example` 
+> He's given us yet/still more work to do. 
 > 
-> Inflation had risen to a yet / still higher level. 
+> Inflation had risen to a yet/still higher level. 
+>
+
+> (A) The train will be overheated when it arrives. 
+> (B) It is too hot to wait any longer. 
+> √(C) They are going to be late again. 
+> (D) They will have to schedule another dinner. 
 > 
-(A) The train will be overheated when it arrives. 
-(B) It is too hot to wait any longer. 
-√(C) They are going to be late again. 
-(D) They will have to schedule another dinner. 
-M: They said the train won't arrive until nine. 
-W: Well, what that boils down to is yet another delay in our schedule. 
-Q: What does the woman mean? 
-Answer: (C) They are going to be late again. 
-## 9.3 inform sb. of sth. 
-inform sb. that … 
-in that …              but / except that … 
+> M: They said the train won't arrive until nine. 
+> W: Well, what that boils down to is yet another delay in our schedule. 
+> Q: What does the woman mean? 
+> 
+> boils down to  归结为
+> Answer: (C) They are going to be late again. 
+> 
+## 9.3 inform
+`inform sb. of sth.`： 通知的事情比较简单
+> Please inform us of any changes of address.
+> 地址若有变动请随时通知我们
+> 
+`inform sb. that … `：通知的事情比较复杂，要用从句来说明
+> I have been reliably informed (= somebody I trust has told me) that the couple will marry next year.
+> 我得到可靠消息说他们俩明年结婚
+> 
+
 
 ## 9.4 造句：绑匪 (kidnapper) 又寄了一封匿名信 (anonymous letter)，通知老太太如果她报警，她就再也看不到她儿子了。 
 The kidnapper sent yet another anonymous letter informing the old lady that if she called the police she would never see her son again. 
@@ -457,61 +501,91 @@ The kidnapper sent yet another anonymous letter informing the old lady that if s
 &emsp; 
 # 10. `When the journalist again failed to reply, the editor reluctantly published the article as it had originally been written. `
 ## 10.1 句子分析
-`When the journalist again failed to reply, the editor reluctantly published the article as it had originally been written. `
+`When the journalist again failed to reply,` 时间状语从句
+`the editor reluctantly published the article` 
+`as it had originally been written. `方式状语从句，过去完成时，表示发生在过去的过去
 
-## 10.2 reluctantly 
-reluctantly = unwillingly 
+## 10.2 `fail to do sth`
+没能完成某事
 
-## 10.3 造句：当再一次未能得到签证 (visa) 时，我们不情愿地按照原计划在国内旅行 (go on a domestic journey)。 
+## 10.3 reluctantly 
+`reluctantly` = `unwillingly` 
+
+## 10.4 造句：当再一次未能得到签证 (visa) 时，我们不情愿地按照原计划在国内旅行 (go on a domestic journey)。 
 > When we again failed to get visas, we reluctantly went on a domestic journey as it had originally been planned.  
+> 
 
 
 
 &emsp; 
 # 11. `Not only had the poor man been arrested, but he had been sent to prison as well.`
 ## 11.1 句子分析
-Not only had the poor man been arrested, but he had been sent to prison as well.  
+本句是 倒装语序
+`Not only had the poor man been arrested,` 
+`but he had been sent to prison as well`.  
 
 ## 11.2 not only … but also … 
-`not only … but … `
-`not only … but … as well `
+不仅…… 而且...
+### 同义词
+`not only … but … `注意，`but`在这里表示**而且**
+`not only … but … as well ` 本文中用的是这个
 > (NCE3-59 P264-L23) This hobby educates one **not only** in the chosen subject, **but also** in general matters which have some bearing on it. 
+> 
 > (NCE3-10 P50-L4) At that time, however, she was **not only** the largest ship that had ever been built, **but** was regarded as unsinkable, for she had sixteen water tight compartments. 
+> 
+
 ## 11.3 部分倒装 
-只把助动词，be动词(之前没有其他助动词)或情态动词置于主语之前。 
-(1) 否定词位于句首（如：not only, not until, neither, nor, never, hardly, barely, scarcely, few, little, rarely, seldom, under no circumstances, in no way, …）。 
+倒装分为 完全倒装 和 部分倒装
+### 11.3.1 何为部分倒装？
+部分倒装 只把**助动词**，**be动词(之前没有其他助动词)** 或 **情态动词** 置于主语之前。 
+
+### 11.3.2 部分倒装的目的是？
+部分倒装的目的是突出句首的成分
+### 11.3.3 会引发部分倒装的几种情况
+**(1) 否定词位于句首（如：not only, not until, neither, nor, never, hardly, barely, scarcely, few, little, rarely, seldom, under no circumstances, in no way, …）**
 > Not only had the poor man been arrested, but he had been sent to prison as well.  
+> 助动词had移到句首了，因此be动词been不需要前移
 > 
 > (NCE3-41 P192-L26) Nor is the city without its moments of beauty. 
+> be动词is移到句首了
 > 
 > (NCE3-37 P170-L13) Neither was I surprised when the train stopped at Widley, a tiny station a few miles along the line. 
+> be动词was移到句首了
 > 
 > Never have I seen such a good movie. 
+> 助动词have移到句首。强调never
 > 
 > Not until yesterday did little John change his mind. 
+> 助动词did移到句首
 > 
 > Under no circumstances should you lend Paul any money.  
+> 情态动词shoul的移到句首
 > 
-(2)“only + 状语” 位于句首。  
+**(2)“only + 状语” 位于句首。** 
+only + 时间状语时，only 翻译成 直到（not until），其他情况only翻译成“只有”
 > Only then did he realize that he was mistaken. 
->
+> only + 时间状语时，only 翻译成 直到（not until）
+> 
 > Only by working hard can we succeed in doing anything. 
 >
 > Only after a baby seal is pushed into the sea by its mother will it learn how to swim. 
->
-> (NCE3-40 P182-L22) Only when he saw that the man was actually telephoning the police did he realize that they had all been the victims of a hoax. 
+> only + 时间状语时，only 翻译成 直到（not until）
 > 
-(3) such, so, well, often, many a time 等表示程度、频率的词位于句首。 
+> (NCE3-40 P182-L22) Only when he saw that the man was actually telephoning the police did he realize that they had all been the victims of a hoax. 
+> only + 时间状语时，only 翻译成 直到（not until）
+> 
+**(3) such, so, well, often, many a time 等表示程度、频率的词位于句首** 
 > (NCE3-4 P26-L4) Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers. 
+> be动词is移到句首了
 > 
 > (NCE3-46 P212-L1) So great is our passion for doing things for ourselves, that we are becoming increasingly less dependent on specialized labour. 
 >
-> 
 > Well did I know him and well did he know me. 
 > 
 > often did it snow there. 
 > 
 > Many a time has he given me good advice. 
+> Many a time和ofen类似，表示经常
 > 
 
 ## 11.4 造句：不但有几个人抱怨说在夜里听见了“像猫一样的噪音”，而且一位钓鱼途中的商人还看见那只美洲狮在树上。 
@@ -520,20 +594,21 @@ Not only did several people complain of ‘cat-like noises’ at night, but a bu
 
 
 &emsp; 
-# 12. `However, he had at last been allowed to send a fax in which he informed the editor that he had been arrested while counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace. `
+# 12. `However, he had at last been allowed to send a fax in which he informed the editor that he had been arrested while counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace.`
 ## 12.1 句子分析
 However, he had at last been allowed to send a fax in which he informed the editor that he had been arrested while counting the 1,084 steps [leading to the fifteen-foot wall (which surrounded the president's palace)]. 
+
 ## 12.2 状语从句的省略。 
 状语从句中如果满足以下两个条件： 
 > (1) 状语从句的主语与主句主语一致。 
 > (2) 状语从句的谓语包含be动词。 
 > 
-则可同时省略状语从句的主语和其后的be动词。 
+则可同时省略状语从句的 主语和其后的be动词。 
 > Metals expand when they are heated and contract when they are cooled.  
-> →Metals expand when heated and contract when cooled.  
+> → Metals expand when heated and contract when cooled.  
 > 
 > Francis Preston Blair Jr., although he was born in Kentucky, lived and practiced in Missouri.  
-> →Francis Preston Blair Jr., although born in Kentucky, lived and practiced in Missouri.  
+> → Francis Preston Blair Jr., although born in Kentucky, lived and practiced in Missouri.  
 
 > However, he had at last been allowed to send a fax in which he informed the editor that he had been arrested while (~~he had been~~) counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace.
 >

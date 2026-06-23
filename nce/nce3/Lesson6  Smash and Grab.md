@@ -123,6 +123,7 @@ see also chief of staff , general staff
 `A staff is a strong stick or pole.`
 
 **(5) 五线谱**
+= stave
 
 ### verb
 **[动词+名词短语] [usually passive] 在…工作；任职于；为…配备职员**
