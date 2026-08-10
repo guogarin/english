@@ -249,101 +249,178 @@ see also chief of staff , general staff
 staple food 主食
 
 ## 0.4 英语记叙文 (narrative) 的要点 
-* 五个W一个R (when, where, who, why, what and result) 
+* 五个W一个R (when, where, who, why, what and result) 时间 地点 人物 起因 经过 结果
 *  目的明确，线索清晰，描写生动，详略得当，句式多变。 
 
 
 
 &emsp; 
-# 1. 1. The expensive shops in a famous arcade near Piccadilly were just "opening. 
-## expensive shops / hotels 
-Mary is an expensive girl. She eats like a horse. 
-a fancy / luxury car 
-a fancy / luxury hotel  
+# 1.  The expensive shops in a famous arcade near Piccadilly were just "opening. 
+## 1.1 expensive
+在这里应该翻译成 “奢华的；高档的”
+> expensive shops / hotels 高档酒店
+>   
+> Mary is an expensive girl. She eats like a horse/lion.（英语这样 描述一个人的食量惊人） 
+> 玛丽是个花钱如流水的女孩。她食量惊人。
+> 和中文不一样的是，英语中如果说“一个人吃的和猪一样(eat like pig)”，意思是指 这个人没吃相
+> 
+其它表示 “奢华的；高档的”的单词：
+> a fancy / luxury car 
+> a fancy / luxury hotel  
+> 
 
-##
-Arcade 
-17-Arch Bridge 
-Arch of Triumph 
-## around …                  
-close to … 
-in the neighborhood of … 
-in the vicinity of … 
-off … 
-I rent an apartment off campus.  
-(A) She needs help finding a place to live. 
+## 1.2 Arcade 
+n. 拱廊街（带有拱顶的走廊或商业步行区）; 街机(一种游戏机)
+`arc‌ [ɑːk]`：
+> 名词/动词。侧重‌二维曲线、轨迹或放电现象‌。数学指圆弧；物理指电弧（如电弧焊）；医学指反射弧。‌不强调结构承重‌。
+> 
+`‌arch‌ [ɑːtʃ]`
+> 名词/动词/形容词。侧重‌三维拱形结构‌（如拱门、桥拱，需承重）；作形容词意为“主要的、首要的”（如 arch-rival 死对头）；作动词指“使成拱形”。‌‌
+> 17-Arch Bridge 17孔拱桥
+> 
+> Arch of Triumph 凯旋门
+> 
 
-(B) There aren't enough rooms available in the dormitories. 
-(C) She can't afford to live on campus. 
-(D) She doesn't want to live in university housing. √ 
-M: Will you be living in the dormitory this year? 
-W: Not if I can help it. I've been thinking of renting an apartment off campus with 
-some friends of mine. 
-Q: What does the woman imply? 
-Answer: (D) She doesn't want to live in university housing. 
-Piccadilly 
-营业。 
-造句: 在朝阳区建国门外大街上高档的国贸商城 (China World Shopping Mall) 刚刚开始
-The expensive China World Shopping Mall on / at the JianGuoMenWai Avenue in 
-Chaoyang District was just opening. 
+## 1.3 near 的同义词
+① `around … `
+② `close to … `
+③ `in the neighborhood of …` 
+④ `in the vicinity of …` 
+⑤ `off … `
+> I rent an apartment off campus.
+> 我在学校附近租了一套公寓。
+>
+> on campus 在校园内
+> 
+
+> (A) She needs help finding a place to live. 
+> (B) There aren't enough rooms available in the dormitories. 
+> (C) She can't afford to live on campus. 
+> (D) She doesn't want to live in university housing. √ 
+> M: Will you be living in the dormitory this year? 
+> W: Not if I can help it. I've been thinking of renting an apartment off campus with some friends of mine. 
+> Q: What does the woman imply? 
+> Answer: (D) She doesn't want to live in university housing. 
+> 
+
+## 1.4 a famous arcade near Piccadilly
+### 1.4.1 Piccadilly [ˈpɪkəˌdɪli]
+Piccadilly 是伦敦著名的商业街和娱乐中心
+
+### 1.4.2 英语中描述地名时的顺序问题
+中文习惯先说大地方，再说小地方，比如：江苏省南京市玄武区；而英语是反过来的。
+
+## 1.5 造句: 在朝阳区建国门外大街上高档的国贸商城 (China World Shopping Mall) 刚刚开始
+`The expensive China World Shopping Mall on / at the JianGuoMenWai Avenue in Chaoyang District was just opening.`
 
 
 # 2. At this time of the morning, the arcade was almost empty.  
 ## empty     
+没有人的
 an empty truck    empty streets 
 
 
 # 3. Mr. Taylor, the owner of a jewellery shop was admiring a new window display. 
-the jeweler's             
-the tailor’s             
-the butcher's            
-the stationer’s        
-the grocer’s 
-the baker’s 
-the barber’s 
-the chemist’s 
+## 3.1 a jewellery shop
+英语里 **"the + 职业名词 + 's"** 可以表示该职业从业者的工作场所，比如：
+> ‌the baker's = the baker's shop（面包店）
+> the jeweler's             
+> the tailor’s    裁缝店         
+> the butcher's   肉铺          
+> the stationer’s  文具店      
+> the grocer’s 杂货铺
+> the barber’s 理发店
+> the chemist’s （药店）
+> 
+**the + 人名 + 's**
+> We spent the weekend at Mr. Green’s (house). 格林先生家
+> 
+> He graduated from St. John’s (University). 圣约翰大学
+> 
+> Joe lives near St. Paul’s (Cathedral) in London. 圣保罗大教堂
+>
+## 3.2 admire
+### verb
+[动词+名词短语]
+`(1) ~ sb/sth (for sth) | ~ sb (for doing sth)` 钦佩；赞赏；仰慕
+`to respect sb for what they are or for what they have done`
+I really admire your enthusiasm.
+我确实钦佩你的热情。
 
-> We spent the weekend at Mr. Green’s (house). 
-> He graduated from St. John’s (University). 
-> Joe lives near St. Paul’s (Cathedral) in London. 
-> I admire her courage. 
+The school is widely admired for its excellent teaching.
+这所学校教学优秀，远近称誉。
+
+You have to admire the way he handled the situation.
+你不得不佩服他处理这个局面的手段。
+
+I don't agree with her, but I admire her for sticking to her principles.
+我不同意她的意见，但是我赞赏她恪守原则。
+
+**(2) 欣赏** `to look at sth and think that it is attractive and/or impressive`
+> He stood back to admire his handiwork.
+> 他退后几步欣赏他的手工制品。
+> 
 > I am admiring her beauty. 
 > 
 
 
 
 # 4. Two of his assistants had been working busily since eight o'clock and had only just finished.
-## assistant
-an assistant manager 
-(shop) assistant 
-(shop) clerk 
-##  had been doing 过去完成进行时 
+## 4.1 assistant
+n 助理，助手
+adj 助理的，助手的
+> an assistant manager 
+> 
+(shop) assistant = (shop) clerk 
+
+## 4.2 had been doing 过去完成进行时 
 表示持续性的动作一直做到过去的某时，而且还有可能继续下去。 
 > (NCE3-20 P90-L8) Bleriot had been making planes since 1905 and this was his latest model. 
 > 
 > (NCE3-32 P150-L1) The small ship, Elkor, which had been searching the Barents Sea for weeks, was on its way home. 
 > 
-##  only just adv. not long ago / before 刚刚  
-We've only just arrived.  
-I've only just moved to London.  
+
+## 4.3 only just 
+`only just`在这次是作副词，相当于. `not long ago`或`not long before`，表示“刚刚”的意思
+> We've only just arrived.  
+> 
+> I've only just moved to London.  
+> 
 
 
 
 # 5. Diamond necklaces and rings had been beautifully arranged on a background of black velvet. After gazing at the display for several minutes, Mr. Taylor went back into his shop.  
 ## gaze at … 
-> (NCE3-6 P34-L7) After gazing at the display for several minutes, Mr. Taylor went 
->
-> 
 > We arranged the chairs in a semicircle. 
+> 玩门把椅子排成了半圆。
+> 
 > His books are neatly arranged in alphabetical order. 
+> 他的书按字母顺序整齐的排列着。
+> 
+
+> `belle` /bel/ n.美女；(某地)最美的女人
 > He gazed at the belle. 
+> 
 > He stared at the belle. 
+> 
 > He gaped at the belle. 
+> 
 > The belle glared at him. 
+> 
 > 文似看山不喜平。 
 > 为人贵直,而作诗文者贵曲。 
 > — 袁枚《随园诗话》 
 > 
+| 单词 | 核心含义 | 时长/方式 | 情感/语境色彩 | 典型搭配/备注 |
+| :--- | :------- | :-------- | :------------ |:--- |
+| ‌gaze‌ | 凝视、注视 | 长时间、稳定专注 | 正面或中性（欣赏、惊叹、沉思、爱慕） | gaze at/upon；含敬畏或深情，非无礼 |
+| ‌gape‌ | 呆看、目瞪口呆 | 持续但被动 | 惊讶、震惊（常伴张嘴瞪眼） | 强调因吃惊而失神的状态 |
+| ‌glance‌ | 一瞥、扫视 | 极短、主动快速 | 中性（随意、粗略查看） | glance at；侧重‌主动动作过程‌ |
+| ‌glare‌ | 怒视、瞪眼 | 长时间、直视 | 负面（愤怒、敌意、凶狠） | glare at；含攻击性或强烈不满 |
+| ‌glimpse‌ | 瞥见、隐约看见 | 瞬间、短暂 | 中性（偶然、不完整） | catch a glimpse of；侧重‌被动结果‌，常未看清全貌 |
+| ‌peer‌ | 眯眼细看、费力凝视 | 持续、专注 | 中性偏难（因光线暗、距离远或视力差而费力） | peer at/into；常伴眯眼、前倾动作 |
+| ‌peep‌ | 窥视、偷看 | 短暂或持续 | 负面/隐秘（偷偷摸摸、从缝隙看） | peep at/into；强调隐蔽性和非授权 |
+| ‌stare‌ | 盯着看、瞪视 | 长时间、直接 | 负面或中性（好奇、惊讶，但常显粗鲁无礼） | stare at；令人不适的直视，区别于 gaze 的礼貌
 
 
 
