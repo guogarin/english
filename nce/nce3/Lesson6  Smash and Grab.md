@@ -425,22 +425,29 @@ adj 助理的，助手的
 
 
 # 6. The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade. 
-The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade. 
+The silence was suddenly broken主句
+ when a large car 
+`with its headlights on` 和 `its horn blaring`是两个 独立主格结构 作状语（或者定语） 修饰 a large car
+ roared down the arcade. 
 ##  独立主格 
-(with) + n. + 非谓语 (doing / done / to do, 其中being常省略), 在句中常作状语或定语。 
+形式：`(with)` + `n.` + `非谓语 (doing / done / to do, 其中being常省略)`
+作用： 在句中常作状语或定语。 
 > The silence was suddenly broken when a large car, with its headlights (being) on and its horn blaring, roared down the arcade.  
 > 
-> One man stayed at the wheel while two others with black stockings (being) over their faces jumped out and smashed the window of the shop with iron bars. 
+> One man stayed at the wheel while two others **with black stockings (being) over their faces jumped out** and smashed the window of the shop with iron bars. 
+> umped out and smashed 是非谓语动词
 > 
-> (NCE3-57 P256-L19) …, and at this point, according to my father, I should be looking at farms and cottages in a valley, with the spire of the church of our village showing in the far distance. 
+> (NCE3-57 P256-L19) …, and at this point, according to my father, I should be looking at farms and cottages in a valley, **with the spire of the church of our village showing in the far distance**. 
+> showing in the far distance是非谓语动词
 >
-> (NCE3-59 P264-L30) Collecting, by occupying spare time so constructively, makes a person contented, with no time (being) for boredom. 
+> (NCE3-59 P264-L30) Collecting, by occupying spare time so constructively, makes a person contented, **with no time (being) for boredom**. 
 > 
-> (NCE4-18 P104-L9) It is possible that upon such an occasion a battle ensued, with the sharks being driven away or killed.  
+> (NCE4-18 P104-L9) It is possible that upon such an occasion a battle ensued, **with the sharks being driven away or killed**.  
 > 
-> (NCE3-34 P158-L17) Apart from an interesting-looking carved dagger, the box was full of crockery, much of it broken. 
+> (NCE3-34 P158-L17) Apart from an interesting-looking carved dagger, the box was full of crockery, **much of it broken**. 此处的独立主格没有加with
 > 
-> (NCE3-36 P166-L1) In the nineteenth century, a novelist would bring his story to a conclusion by presenting his readers with a series of coincidences—most of them wildly improbable.  
+> (NCE3-36 P166-L1) In the nineteenth century, a novelist would bring his story to a conclusion by presenting his readers with a series of coincidences—**most of them wildly improbable**.  此处的独立主格没有加with
+> 
 > 
 > He came in and carried a book. 
 > He came in carrying a book. 
@@ -452,6 +459,7 @@ The silence was suddenly broken when a large car, with its headlights on and its
 > (C) whistle          
 > (B) exclamation 
 > (D) scream    
+> 
 ## 造句：宁静突然被打破，一个凶恶的家伙(a tough guy)，瞪着眼睛拿着枪，闯进了(break into) 银行。 
 The silence was suddenly broken when a tough guy, with his eyes glaring and a gun 
 in his hand, broke into the bank. 
