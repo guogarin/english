@@ -448,58 +448,88 @@ The silence was suddenly broken主句
 > 
 > (NCE3-36 P166-L1) In the nineteenth century, a novelist would bring his story to a conclusion by presenting his readers with a series of coincidences—**most of them wildly improbable**.  此处的独立主格没有加with
 > 
+
+> He came in and carried a book. 并列句子，说明 进来了 和 拿着一本书 这两个动作是同样重要的 
 > 
-> He came in and carried a book. 
-> He came in carrying a book. 
+> He came in carrying a book. 非谓语动词，它突出了进来了这个动作，拿着一本书是次要的
 > 
 > He came in and a book was in his hand. 
-> He came in (with) a book (being) in his hand. 
+> 
+> He came in (with) a book (being) in his hand. 独立主格
+>
+> 
 > The ______ of airplane engines announced a coming air raid. 
 > (A) roar√            
 > (C) whistle          
 > (B) exclamation 
 > (D) scream    
 > 
+
 ## 造句：宁静突然被打破，一个凶恶的家伙(a tough guy)，瞪着眼睛拿着枪，闯进了(break into) 银行。 
-The silence was suddenly broken when a tough guy, with his eyes glaring and a gun 
-in his hand, broke into the bank. 
+The silence was suddenly broken when a tough guy, with his eyes glaring and a gun in his hand, broke into the bank. 
 
 
 
 # 7. It came to a stop outside the jeweller's. 
-## come to a stop / halt = stop / halt 
+## come to a stop
+come to a stop/halt = stop/halt 
+> `It came to a stop` = `it stopped`
+> 
 > (NCE3-39 P178-L21) Bruce charged at it, but in the middle, the car came to a grinding halt.  
 > 
-> come to a stop / halt = stop/ halt 
+> come to a stop/halt = stop/halt 
+> 
 > come to an end = end 
+> 
 > come to a close = close 
 > 
 > come to a decision = decide  
+> 
 > come to a conclusion = conclude 
 > 
 
 
 
 # 8. One man stayed at the wheel while two others with black stockings over their faces jumped out and smashed the window of the shop with iron bars.  
-One man stayed at the wheel while two others with black stockings over their faces jumped out and smashed the window of the shop with iron bars.  
-
->  He must be over 60, while / whereas his wife looks about 30. 
+## 8.1 while
+`One man stayed at the wheel`和 `two others with black stockings over their faces`是由`while`引导的两个并列句，`while`在这里表示“而”，表示对比，引导并列句子
+> He must be over 60, while/whereas his wife looks about 30. 
+> 在这里表示“而”，表示对比，此处是对比他俩的年龄差（一个60，另一个只有30）
 > 
 >  While she is a likable girl, she can be extremely difficult to work with. 
+> While引导的让步状语从句，表示“尽管”。
 > 
 > (NCE4-16 P92-L10) While they enjoy the comfort and banal luxury of their dwelling, they do not realize that they are deprived of the necessities of life. 
+> While引导的让步状语从句，表示“尽管”。
 > 
 > While Washington and Jefferson privately expressed distaste for slavery, they also understood that it was part of the political and economic bedrock of the country they helped to create. 
+> While引导的让步状语从句，表示“尽管”。
 > 
 
+## 8.2 at the wheel
+`wheel`作名词有**n.车轮；轮；(汽车等的)方向盘**的意思
+字面义：指驾驶交通工具，如 
+> She was at the wheel when the accident happened（事故发生时是她在开车）。
+> 
+比喻义：表示掌控局面，如 
+> With the new CEO at the wheel, the company prospered（新CEO掌舵后，公司蒸蒸日上）。
+>
 
 
-# 9. He and his staff began throwing furniture out of the window. 
+
+# 9. While this was going on, Mr Taylor was upstairs. He and his staff began throwing furniture out of the window. 
+## 9.1 began doing 和 began to do 
+began doing 和 began to do 在现代英语中大概一致，它们之间的区别很小：
+began doing 多是主动发出的行为，比如文中 began throwing furniture 就是一个主动的行为（主动扔家具）
+began to do 多描述一个客观现象
 > (NCE3-28 P134-L6) Many of the tourists on board had begun bargaining with the tradesmen, …… 
+> 主动讨价还价
 > 
 > It began to rain. 
+> 天开始下雨是客观线性，人不能左右
 > 
 > (NCE3-12 P58-L10) During the journey, the boat began to sink.  
+> 船是客观现象，不是人为的。
 > 
 
 
@@ -512,47 +542,197 @@ One man stayed at the wheel while two others with black stockings over their fac
 
 
 # 11. One of the thieves was struck by a heavy statue, but he was too busy helping himself to diamonds to notice any pain. 
-##  be busy...
-`be busy doing sth. `
-`be busy with sth. `
+## 11.1 be busy...
+`be busy doing sth.` = `be busy with sth.`比如：
 > They are busy preparing for the wedding. 
+> 
 > They are busy with preparations for the wedding. 
-> be too busy doing sth. to do sth. 
->  
+>
+
+## 11.2 be too busy doing sth. to do sth. 
+太忙于做某事而无暇做另一事。
 > He was too busy working to notice us come in. 
+> 他太忙于工作了，都没注意到我们进来了。
 > 
 
-##  help oneself to sth. 
-> Help yourself to a beer. 
+## 11.3 help oneself to sth. 
+**(1)‌招待客人场景（礼貌用法）**‌
+语义：请对方不要拘束，自行取用食物、饮品等物品。
+> 例句：Help yourself to some fruit. 
+> 请随便吃点水果。
 > 
-> They helped themselves to the farmer’s apples. 
+> 例句：Please help yourselves to drinks, everyone. 
+> 各位请随意拿饮料喝。
 > 
+**(2) ‌日常随意取用场景‌**
+语义：在允许的情况下，自行随意使用某物。
+> 例句：You can help yourself to the books on the shelf. 
+> 书架上的书你可以随便看。
+> 
+**(3) ‌擅自取用的略带贬义场景‌**
+语义：未经主人许可，私自拿走、占用他人物品。
+> 例句：He helped himself to my wallet when I was out. 
+> 我不在的时候他私自拿走了我的钱包。
+> 
+
+
 
 # 12. The raid was all over in three minutes, for the men scrambled back into the car and it moved off at a fantastic speed. 
-> (NCE2-5 P28-L5) The birds covered the distance in three minutes. 
-> 
+## 12.1 in three minutes
+`in three minutes`在这里不能翻译为 “三分钟之内”，而应该翻译成 “用了三分钟”。换句话说，`in`在这里应该翻译成“用了...时间”，例句：
+> (NCE2-5 P28-L5) The birds covered the distance **in** three minutes. 
+>
+如果非要表示“三分钟之内”，应该用`under`或`within`，即：`under three minutes` 或 `within three minutes`
 > As the burning plane landed, the terrified passengers scrambled for the door. 
 > 
-## speed
-speed 做不可数名词时，与 at, with 搭配均可e.g. at / with great speed 
-speed 做可数名词时，只能与 at 搭配e.g. at a speed of 60 mph 
+
+## 12.2 scramble /ˈskræmbl/
+### verb
+行走；攀爬 walk/climb
+
+**(1) [动词+ 副词/介词短语] （迅速而吃力地）爬，攀登**
+`to move quickly, especially with difficulty, using your hands to help you`
+同义词：`clamber`
+> She managed to scramble over the wall.
+> 她好不容易翻过墙。
+> 
+> He scrambled to his feet as we came in.
+> 我们进来时，他慌忙站起身。
+> 
+推挤；争抢 push/fight
+
+**(2)~ (for sth) 争抢；抢占；争夺**
+`to push, fight or compete with others in order to get or to reach sth`
+> [单独使用的动词] The audience scrambled for the exits.
+> 观众竞相朝出口拥去。
+> 
+> [动词+带to的不定式] Shoppers were scrambling to get the best bargains.
+> 顾客争先恐后地抢购最便宜的特价商品。
+> 
+
+艰难地完成 achieve sth with difficulty
+**(3) [动词+名词短语] 艰难地（或仓促地）完成**
+`to manage to achieve sth with difficulty, or in a hurry, without much control`
+> Cork scrambled a 1–0 win over Monaghan.
+> 科克队苦战莫纳亨队，以1:0获胜。
+> 
+> Owen managed to scramble the ball into the net.
+> 欧文勉力把球捅入网窝。
+> 
+
+蛋 eggs
+**(4) [动词+名词短语] [usually passive] 炒（蛋）**
+`to cook an egg by mixing the white and yellow parts together and heating them, sometimes with milk and butter`
+> scrambled eggs
+> 炒蛋
+> 
+
+电话；无线电 telephone/radio
+**(5) [动词+名词短语] [often passive] 扰码，倒频（改变电话或无线电信号，听众只有通过专门设备才能收听）**
+`to change the way that a telephone or radio message sounds so that only people with special equipment can understand it`
+> scrambled satellite signals
+> 扰频卫星信号
+> 
+
+扰乱思维 confuse thoughts
+**(6) [动词+名词短语] 扰乱（思维）**
+`to confuse sb's thoughts, ideas, etc. so that they have no order`
+> Alcohol seemed to have scrambled his brain.
+> 酒精似乎扰乱了他的脑子。
+> 
+
+飞机 aircraft
+**(7) [usually passive] 命令（飞机）紧急起飞；紧急起飞**
+`to order that planes, etc. should take off immediately in an emergency; to take off immediately in an emergency`
+> [动词+名词短语] A helicopter was scrambled to help rescue three young climbers.
+> 直升机接到命令，紧急起飞前去营救三个登山的年轻人。
+> 
+> [单独使用的动词] They scrambled as soon as the call came through.
+> 命令刚一下达，他们便紧急起飞。
+> 
+### noun
+艰难行走 / 攀爬 difficult walk/climb
+**(1) [单数名词] （尤指需要手脚并用的）艰难行走，爬，攀登**
+`a difficult walk or climb over rough ground, especially one in which you have to use your hands`
+
+推挤；争抢 push/fight
+**(2) [单数名词] ~ (for sth)**争抢；抢占；争夺
+`a situation in which people push, fight or compete with each other in order to get or do sth`
+同义词：free-for-all
+> There was a mad scramble for the best seats.
+> 人们不顾一切地抢占最好的座位。
+> 
+
+摩托车比赛 motorcycle race
+**(3) [可数名词] 摩托车越野赛**
+`a race for motorcycles over rough ground`
+
+## 11.3 speed
+`speed` 做 不可数名词 时，与 `at, with` 搭配均可 `e.g. at / with great speed` 
+`speed` 做 可数名词 时，只能与 `at` 搭配 `e.g. at a speed of 60 mph` 
+
 
 
 # 13. Just as it was leaving, Mr. Taylor rushed out and ran after it throwing ashtrays and vases, but it was impossible to stop the thieves. 
-Just as it was leaving, Mr. Taylor rushed out and ran after it throwing ashtrays and vases, but it was impossible to stop the thieves. 
-## run after            
-chase 
-Instead of studying, he wastes his time chasing girls. 
-pursue 
-The thief ran across the field, with an officer pursuing him. 
+## 13.1 语法分析
+`Just as it was leaving`是时间状语
+Mr. Taylor rushed out and ran after it 
+`throwing ashtrays and vases`是伴随状语 
+but it was impossible to stop the thieves. 
+`but`引导并列句，`it`是形式主语，真正的主语是`to stop the thieves`
+
+## 13.2 run after 
+### 释义
+物理追赶：
+> run after a bus（追公交车）
+> 
+> Children running after the ice cream truck" 
+> "孩子们跟在冰淇淋车后面跑"
+> 
+抽象追求：
+> "He's always running after fame" 
+> "他总是追求名声"
+> 
+> By the time she was fifteen Maria was already running after men twice her age. (因为爱慕而)追求
+> 玛丽亚15岁的时候就已经在追求年龄比自己大一倍的男人了。
+> 
+
+### 同义词
+`chase` 
+> Instead of studying, he wastes his time chasing girls. 
+>
+> [单独使用的动词] He chased after the burglar but couldn't catch him.
+> 他追赶那个盗贼却没有抓住他。
+> 
+> Too many people are chasing too few jobs nowadays.
+> 如今有太多的人在角逐寥寥无几的工作职位。
+> 
+> The team is chasing its first win in five games.
+> 这支队伍正全力争取获得五场比赛的首场胜利。
+> 
+> [单独使用的动词] Kevin's been chasing after Jan for months.
+> 凯文几个月来一直在追求简。
+> 
+
+`pursue` 
+> The thief ran across the field, with an officer pursuing him. 
+> 
+> The implication seems to be that it is impossible to pursue economic reform and democracy simultaneously...
+> 言外之意似乎是经济改革和民主化进程是不可能同时进行的。
+>
+> She pursued the man who had stolen a woman's bag.
+> 她追赶那个偷了一个妇女提包的男人。
+> 
 
 
 # 14. They had got away with thousands of pounds worth of diamonds. 
-##  金钱 + worth of + 物品 
-one billion dollars worth of merchandise 
-fifty pence worth of trouble 
-
+## 14.1  金钱 + `worth of` + 物品 
+> one billion dollars worth of merchandise
+>  
+> fifty pence worth of trouble 
+> 
 > Ross: Well, how was the date? 
 > Rachel: Well I’m alone and I just bought fifteen dollars worth of candy bars, what do you think? 
+> 
 > I just bought 50 yuan worth of groceries.
 > 
