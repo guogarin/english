@@ -213,57 +213,62 @@ n. 女发言人
 
 &emsp; 
 # 1. Has it ever happened to you?  
-## happen to do  
-`sth. happen to sb. `        
-`come up`  
+## 1.1 `sth. happen to sb.`
+happen to do  碰巧做某事
+`sth. happen to sb.` 某事发生到了某人身上    
+### 同义词   
+`come up`，原文的句子可以替换成：  
 > Has it ever come up to you? 
 > 
-`sth. occur to sb.` 
-
-A car accident happened to him. 
-A good idea occurred to me. 
+`sth. occur to sb.` 某人想到了某事
+> A car accident happened to him. 
+> 他出车祸了
+> 
+> A good idea occurred to me. 
+> 我忽然想到了一个好主意。
+> 
 
 
 
 &emsp; 
 # 2. Have you ever put your trousers in the washing machine and then remembered there was a large bank note in your back pocket? 
-## bank note / banknote / note                  
-bill 
-a fake / counterfeit $20 bill 
-Bill / William 
-Bill Clinton 
-Bill Gates  
-coin                  
-change 
-bill     
-note     
-coin    
-可数 
-
-change   不可数 
+## 2.1 bank note
+`large` 大额的
+`bank note` 纸钞
+### 同义词                 
+`bill` 美国经常用这个表示纸钞
+> a fake / counterfeit $20 bill 
+> 
+Bill作人名时，是从 William 转换过来的，`Bill Clinton`和`William Jefferson Clinton`是同一个人，变化过程是 William -> will -> bill
+`bill`  `note`  `coin` 可数 
+`change`  不可数 
 > I carry no change on me. 
 > 
 
 
+
 &emsp; 
 # 3. When you rescued your trousers, did you find the note was whiter than white? 
-## rescue / save 
-(NCE3-12 P58-L15) When a passing tanker rescued them five days later, both men 
-were genuinely sorry that they had to leave. 
-Vince is a fireman. 
-Wow! Have you ever rescued anyone from a burning building before? 
-come / go to one’s rescue 
-When John was in trouble, everyone went to his rescue. 
-pick up sb. 
-by a ship. 
-salvage ... from ... 
-> (NCE3-20 P90-L7) The 'Antoinette' floated on the water until Latham was picked up He tried desperately to salvage belongings from the burning house. 
+## 3.1 rescue
+`rescue` 和 `save` 的意思差不多
+> (NCE3-12 P58-L15) When a passing tanker rescued them five days later, both men were genuinely sorry that they had to leave. 
+> 
+> Vince is a fireman. 
+> Wow! Have you ever rescued anyone from a burning building before? 
+> 
+`come/go to one’s rescue` 来/去救某人 
+> When John was in trouble, everyone went to his rescue. 
+> 
+`pick up sb.` 也能表达救人的意思，但是一般是用某种交通工具把某人救上来，比如：
+> (NCE3-20 P90-L7) The 'Antoinette' floated on the water until Latham was picked up by a ship. 
+>
+`salvage ... from ...`  很少指救人，一般指救财务
+> He tried desperately to salvage belongings from the burning house. 
 > 
 > (NCE3-32 P150-L13) The captain of the Elkor ordered his men to salvage as much as possible from the wreck. 
 > 
-`savior` / `saviour` 
-> a knight in shining armor 
-> 
+`savior` / `saviour` n.救世主；拯救者
+`a knight in shining armor`也表示 救世主，救命恩人
 > I don't know who you are, Nick. You just magically show up like some knight in shining armor, ready to save the day... 
 > 
 
@@ -271,19 +276,30 @@ salvage ... from ...
 
 &emsp; 
 # 4. People who live in Britain needn't despair when they make mistakes like this (and a lot of people do)!  
-People who live in Britain needn't despair when they make mistakes like this (and a lot of people do)!  
-## 鼻腔爆破 nasal explosion 
-[t] / [d] + [n]  
+## 4.1 句型分析
+定语从句who live in Britain修饰People
+主句的谓语是 needn't despair 
+时间状语从句when they make mistakes like this 
+(and a lot of people do)
+
+## 4.2 鼻腔爆破 nasal explosion 
+鼻腔爆破一般发生在`[t]/[d] + [n]`
 Britain   mutton certain       
-mountain  didn’t student          
-## despair
-`despair of sb.`        
-              
-  
-`despair of (doing) sth.` 
+mountain  didn’t student    
+
+## 4.3  despair
+`despair of sb.` 对某人失望  
 > The teachers began to despair of him. 
+> 
+> I despair of him; he can't keep a job for more than six months.
+> 我对他都绝望了，他做任何工作都超不过半年。               
+> 
+`despair of (doing) sth.` 对(做)某事失望
 > Mike despaired of ever seeing her again.
->  
+> 
+> He wished to earn a living through writing but despaired of doing so.
+> 他想通过写作来谋生，不过他对此不抱希望。
+> 
 `in despair` 绝望地 
 > He killed himself in despair.  
 > 
@@ -292,6 +308,7 @@ mountain  didn’t student
 > (NCE3-54 P244-L27) I got up early next morning hoping to find that the ants had given up in despair. 
 > 
 > With this faith, we will be able to hew out of the mountain of despair a stone of hope. 
+> 有了这个信念，我们就能从绝望之山凿出希望之石。—— 《I have a dream》
 > 
 > ... and a lot of people despair when they make mistakes like this. 
 > 
@@ -299,7 +316,7 @@ mountain  didn’t student
 
 &emsp; 
 # 5. Fortunately for them, the Bank of England has a team called Mutilated Ladies which deals with claims from people who fed their money to a machine or to their dog.  
-## 
+## 5.1 句型分析
 Fortunately for them, the Bank of England has a team called Mutilated Ladies which deals with claims from people who fed their money to a machine or to their dog.  
 ## deal with ...      
 > (A) She made a mistake by taking too few courses in the first term. 
