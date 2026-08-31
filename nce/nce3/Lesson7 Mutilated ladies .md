@@ -318,7 +318,10 @@ mountain  didn’t student
 # 5. Fortunately for them, the Bank of England has a team called Mutilated Ladies which deals with claims from people who fed their money to a machine or to their dog.  
 ## 5.1 句型分析
 Fortunately for them, the Bank of England has a team called Mutilated Ladies which deals with claims from people who fed their money to a machine or to their dog.  
-## deal with ...      
+## 5.2 deal with ... 
+### 5.2.1 释义
+应付，处理，解决   
+
 > (A) She made a mistake by taking too few courses in the first term. 
 > (B) The courses she took were too difficult for her. 
 > (C) She took too many courses during her first term.√ 
@@ -330,24 +333,39 @@ Fortunately for them, the Bank of England has a team called Mutilated Ladies whi
 > M: I told you it would be better for you if you took fewer courses during the first semester. 
 > Answer: (C) She took too many courses during her first term. 
 > 
-### 同义词
+### 5.2.2 同义词
 `attend to ...` 
+处理；注意；听取；致力于
 > (NCE3-33 P154-L9) You hang up hurriedly and attend to baby, crockery, etc. 
 > 
-`see to ...` 
+`see to ...`  
+照料;处理;照看
+> While Franklin saw to the luggage, Sara took Eleanor home.
+> 富兰克林负责照看行李，萨拉则带着埃莉诺回家了。
+> 
 > Don’t worry about it.  I’ll see to it later. 
 > 
 `handle ...` 
-> ‘Molly, I need your special talent for handling special matters.’ ‘Like what special matters?’ 
+> ‘Molly, I need your special talent for handling special matters.’ 
+> ‘Like what special matters?’ 
 > 
 
-`tackle … `
+`tackle … ` 
+应付，处理，解决（难题或局面）
 > Many schools are now trying to tackle the problem of drug abuse. 
+>
+> The government is determined to tackle inflation.
+> 政府决心解决通货膨胀问题。
 > 
 `cope with ...` 
 > a seminar on ‘coping with stress in the workplace’ 
+> seminar 研讨会
 > 
-## feed
+
+## 5.3 claim
+这里的意思是“索赔要求”
+
+## 5.4 feed
 `feed sth. to sb. `
 `feed sb. on sth. `
 > I fed raw meat to the dog. 
@@ -357,40 +375,55 @@ Fortunately for them, the Bank of England has a team called Mutilated Ladies whi
 > Well-fed, well-bred. 
 > 
 > She fed two coins into the machine for a cup of coffee. 
-> 
+>
+
 ## zeugma 轭式修辞 
 一个动词与多个名词搭配，表示不同的含义。 
 > Clothes that fit the man and the times  
 > 
 > You’re free to execute your laws, and your citizens, as you see fit.  
+> "as you see fit" 是一个英语短语，常用于表示"随你决定"或"按你认为合适的方式"。它强调将决定权交给对方，表达信任或尊重对方的判断。
 > 
 
 
 
 &emsp; 
 # 6. Dogs, it seems, love to chew up money! 
-It seems that dogs love to chew up money. 
-
+一般人可能会这样写：
+> It seems that dogs love to chew up money. 
+> 
+这样写语法正确，但不如本文的表述好。本句的重点是`Dogs love to chew up money`插入语`it seems`为插入语分句，为附带说明，是次要信息。原文这样写，主句就不再是`it seems`，而是`Dogs love to chew up money`，重点更久更为突出了
+NCE的其他例子：
 > You may wonder why spiders are our friends. 
+> 在这里，You may wonder是主句
 > 
 > (NCE4-2 P11-L1) Why, you may wonder, should spiders be our friends?  
+> 在这里，You may wonder是插入语
 > 
-> Many of us believe that economic development is of paramount importance to China. 
-> 
+
+## 练习：Many of us believe that economic development is of paramount importance to China. 
+练习的原句侧重于`Many of us believe`
 > Economic development, many of us believe, is of paramount importance to China. 
+> 本句强调的是`Economic development is of paramount importance to China`
+>
+paramount
+> adj.首要的；至高无上的；至上的；至为重要的；权力最大的；至尊的
+> n.最高；首长；元首；有最高权力的人
+>
+> be paramount importance to 对...来说至关重要
 > 
 
 
 
 &emsp; 
 # 7. A recent case concerns Jane Butlin whose fiancé, John, runs a successful furniture business. 
-## concern ...             
+## 7.1 concern ...             
 `be about ...` 
 A recent case is about Jane Butlin … 
-To whom it may concern, 
+To whom it may concern, 致有关人士（一般用于书信的开头）
 > (NCE4-4 P23-L2) One case concerns an eleven-year-old schoolgirl, Vera Petrova, who has normal vision but who can also perceive things with different parts of her skin, and through solid walls.  
-`concern …` 
-`be concerned with … `
+> 
+`be concerned with … `和`concern …` 意思一样：
 > The book concerns music. 
 >
 > The book is concerned with music. 
@@ -400,63 +433,77 @@ To whom it may concern,
 > a book concerned with music 
 >
 
-## run 
-run: `be in charge of (sth)`; manage 
-run a hotel / shop / language school  
-John manages a successful furniture business. 
-John is in charge of a successful furniture business. 
+## 7.2 run 
+run: `be in charge of (sth)`; `manage` 
+> run a hotel / shop / language school  
+>
+> John runs a successful furniture business.
+> 
+> John manages a successful furniture business. 
+> 
+> John is in charge of a successful furniture business. 
+> 
 
 
 
 # 8. John had a very good day and put his wallet containing￡3,000 into the microwave oven for safekeeping. 
-John had a very good day and put his wallet containing￡3,000 into the microwave oven for safekeeping. 
 
 
 
 # 9. Then he and Jane went horse-riding. 
 ### went horse-riding 
-go fishing                   
-go camping                
-go sight-seeing 
-go mountain-hiking 
-go hunting  
-go bowling 
+"go doing" 在英语中是一种非正式但常见的表达结构，通常用于描述去进行某种活动或运动，尤其是休闲或户外活动。它由"go"加上动词的现在分词（-ing形式）构成，强调动作的进行性和目的性。:
+> go fishing                   
+> go camping                
+> go sight-seeing 
+> go mountain-hiking 
+> go hunting  
+> go bowling 
+> 
 
 
 
 # 10. When they got home, Jane cooked their dinner in the microwave oven and without realizing it, cooked her fiancé's wallet as well. 
-When they got home, Jane cooked their dinner in the microwave oven and without realizing it, cooked her fiancé's wallet as well. 
-### without realizing it
+## 10.1 句子分析
+When they got home 时间状语从句
+Jane cooked their dinner in the microwave oven and 
+without realizing it 介词短语当原因状语
+cooked her fiancé's wallet as well. 
+
+## 10.2  without realizing it
 `... without knowing it, ... `
 `... without being aware of it ...` 
 
 
 
 # 11. Imagine their dismay when they found a beautifully-cooked wallet and notes turned to ash! 
-##  dismay
-both shocked and discouraged 
-## turn to / into ... 
-change into ... 
-become  
-The caterpillar eventually 
-turns to / into 
-changes into   
-becomes  
+## 11.1  dismay
+`both shocked and discouraged` 
+n. 沮丧；惊愕；灰心；诧异；丧气
 
-a beautiful butterfly. 
+## 11.2  turn to / into ... 
+### 同义词
+`change into ...` 
+`become`  
+> The caterpillar eventually **turns to / into** a beautiful butterfly.
+> The caterpillar eventually **changes into**  a beautiful butterfly.
+> The caterpillar eventually **becomes**  a beautiful butterfly.
+> caterpillar /ˈkætərpɪlər/ n. 毛毛虫
+>
+`turn`后面跟名词做表语的话，一般是强调人的身份发生了变化，而且这个名词前面不使用冠词：
+> The teacher turned writer. 
+> 
+> He has turned traitor. 
+> 
 
-The teacher turned writer. 
-
-He has turned traitor. 
-
-##  imagine one’s … when … 
+## 11.3 imagine one’s … when … 
 Imagine his dismay when he found he took the wrong train. 
 
 
 
 # 12. John went to see his bank manager who sent the remains of wallet and the money to the special department of the Bank of England in Newcastle: the Mutilated Ladies! 
-##  continuative clause 接续性分句 
-John went to see his bank manager and the manager sent the remains of wallet and the money to the special department of the Bank of England in Newcastle: the Mutilated Ladies! 
+## 12.1 continuative clause 接续性分句 
+John went to see his bank manager **who(and the manager)** sent the remains of wallet and the money to the special department of the Bank of England in Newcastle: the Mutilated Ladies! 
 > He violently beat the boy and the boy later died from his injuries. 
 > 
 > → He violently beat the boy who later died from his injuries. 
@@ -482,11 +529,80 @@ John went to see his bank manager and the manager sent the remains of wallet and
 > History books never mention those people who really helped civilization forward. 
 > 
 
+## 12.2 special department
+专门部门：侧重"专业职能"，适用于企业或组织中负责特定业务的部门。
+### adj
+**(1) [usually before noun] 特殊的；特别的；不寻常的；不一般的**
+`not ordinary or usual; different from what is normal`
+同义词：exceptional
+> The school will only allow this in special circumstances.
+> 学校只有在特殊情况下才会同意这种事。
+> 
+> Some of the officials have special privileges.
+> 有些官员享受特权。
+> 
+> There is something special about this place.
+> 这个地方有几分特别。
+> 
+**(2) 重要的；格外看重的；特别关照的**
+`more important than others; deserving or getting more attention than usual`
+> What are your special interests?
+> 你有哪些主要的爱好？
+> 
+> She's a very special friend.
+> 她是我特别要好的朋友。
+> 
+> Our special guest on next week's show will be…
+> 我们下周节目的特邀嘉宾是…
+> 
+> Don't lose it ─ it's special.
+> 别丢了——这可不是一般东西。
+> 
+**(3) 特设的；有专门目的的；起专门作用的**
+`organized or intended for a particular purpose`
+> a special event
+> 特设活动
+> 
+> These teachers need special training.
+> 这些教师需要专门的培训。
+> 
+**(4) 专用的；专门针对…的；特有的**
+`used by or intended for one particular person or group of people`
+> She has a special way of smiling.
+> 她微笑的样子有些特别。
+> 
+> He sent a special message to the men.
+> 他给那些人专门去了一封信。
+> 
+**(5) [only before noun] 更好的；格外的**
+`better or more than usual`
+> As an only child she got special attention.
+> 她是个独生女，所以备受关爱。
+> 
+> Please take special care of it.
+> 请对它多加关照。
+> 
+### noun
+**(1) 特别活动（或节目等）；特制产品**
+`something that is not usually available but is provided for a particular purpose or on one occasion`
+> an election-night special on television
+> 选举之夜电视特别节目
+> 
+> The menu changes regularly and there are daily specials to choose from.
+> 菜谱定期更换，而且每天都有特色菜供选择。
+> 
+**(2) (informal, especially 北美英语)特价**
+`a price for a particular product in a shop/store or restaurant that is lower than usual`
+> There's a special on coffee this week.
+> 本周咖啡特价。
+> 
+
 
 
 # 13. 'So long as there's something to identify, we will give people their money back,' said a spokeswoman for the Bank. 
-## so long as … 
-`as long as … `
+## 13.1 so long as … 
+`as/so long as … `一般引导条件状语从句，表示“只要...”
+### 举一反三
 `provided / providing (that) …` 
 `on condition (that) …` 
 > You'll be quite safe as long as you follow my instructions. 
@@ -495,25 +611,30 @@ John went to see his bank manager and the manager sent the remains of wallet and
 >
 > I'll lend you the money on condition (that) you pay it back within three weeks. 
 > 
-`only if … `
+`only if …`后面跟 唯一性的条件，表示 “只有...”
+> Children are admitted only if accompanied by an adult.
+> 儿童必须有成年人陪同方可入场。
+> 
 > she will go only if he goes. 
 > 
 > Only if he goes will she go. 
-> 
-
-> (NCE3-4 P26-L6) This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation. 
-> 
-> (NCE3-2 P18-L11) “I'm trying to repair the bell,” answered Bill. “I've been coming up here night after night for weeks now. You see, I was hoping to give you a surprise. 
-> 
-> (NCE3-2 P18-L13) “You certainly did give me a surprise!” said the vicar. “You've probably woken up everyone in the village as well. Still, I'm glad the bell is working again.” 
+>
+### 13.2 a spokeswoman for the Bank. 
+> (NCE3-4 P26-L6) This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as **a dustman for the Ellesmere Corporation**. 
 > 
 
 
 
 # 14. 'Last year, we paid $1.5m on 21,000 claims. 
 
+# 15. 把人说的话拆成两段，然后把说话的人放在中间，这样可以突出这个人说的话
+> (NCE3-2 P18-L11) “I'm trying to repair the bell,” **answered Bill**. “I've been coming up here night after night for weeks now. You see, I was hoping to give you a surprise. 
+> 
+> (NCE3-2 P18-L13) “You certainly did give me a surprise!” **said the vicar**. “You've probably woken up everyone in the village as well. Still, I'm glad the bell is working again.” 
+> 
 
-## 15. 如何写出优秀的解释说明类文章(exposition) 
+
+## 15. 如何写出优秀的 解释说明类文章(exposition) 
 1、语言生动活泼，充满趣味性。 
 2、用词准确清晰，避免模棱两可。 
 3、抽象说明与具体例证相结合。 
